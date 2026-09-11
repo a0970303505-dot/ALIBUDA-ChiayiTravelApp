@@ -1,0 +1,4340 @@
+[
+    {
+        "RestaurantID": "Restaurant_376500000A_000001",
+        "RestaurantName": "一見日本料理餐廳",
+        "Description": "餐廳特色-融合視覺與味覺的日本料理，超凡的精緻配選，親切的服務，讓您一見鍾情，一見如故….。精選精品食材，堅持現點現做，一見的執著與同心，期待您的品嚐與會心。",
+        "Address": "嘉義縣太保市祥和二路東段72-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45657,
+        "PositionLon": 120.29774,
+        "Phone": [
+            {
+                "Tel": "(05)3622030",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000002",
+        "RestaurantName": "阿墨風尚料理餐廳",
+        "Description": "餐廳特色－庭園式的複合式餐廳，隱身在文教特區，用南洋式的風格傢俱裝潢，讓人彷彿置身在南洋國度裡，享受異國風味的料理。",
+        "Address": "嘉義縣太保市捧球1街8號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4569,
+        "PositionLon": 120.29332,
+        "Phone": [
+            {
+                "Tel": "(05)3625701",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000003",
+        "RestaurantName": "英賓海產餐廳",
+        "Description": "英賓海產餐廳，原名「英賓飲食店」，創立於民國58年，於六○年代更名為「英賓海產店」而後取名「英賓海產餐廳」延用迄今。有四十年優良口碑的「英賓海產餐廳」是三樓建築，可以同時容納88桌的食客，是嘉義濱海歷史最久、規模最大的海產餐廳，雖然沒有緊鄰濱海市區，但是便捷交通和大型停車場，吸引絡繹不絕的食客。",
+        "Address": "嘉義縣布袋鎮永安里大寮359號",
+        "City": "嘉義縣",
+        "PositionLat": 23.36962,
+        "PositionLon": 120.1956,
+        "Phone": [
+            {
+                "Tel": "(05)3472335",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000004",
+        "RestaurantName": "鄉味餐廳",
+        "Description": "來自辦桌世家的料理達人在新港，無論是學校、政府機關、公司行號要辦聚餐，或是民間團體要辦團圓喜宴，都指名要來新港「阿祈師」所開的「鄉味餐廳」熱鬧一番。細心的阿祈師會以他豐富的辦桌經驗，招待他的鄉親朋友，絕對滿足每張挑剔的嘴。",
+        "Address": "嘉義縣新港鄉公園路30號(消防隊旁，新港公園民俗表演場對面)",
+        "City": "嘉義縣",
+        "PositionLat": 23.55287,
+        "PositionLon": 120.3468,
+        "Phone": [
+            {
+                "Tel": "(05)3740123",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000005",
+        "RestaurantName": "阿貓伯粉條大王",
+        "Description": "嘉義新港真正唯一50年正牌老店…＜＜口感獨特..香Ｑ滑潤＞＞ 《 衛生第一．環境舒適．清潔乾淨 》讓您來 .《 吃的開心..冰的安心..涼的放心..》95年再次榮獲新港鄉公所強力推薦唯一50年道地古早味好吃的粉條老店純手工製做粉條 不添加任何化學香料糖精 《 衛生單位檢驗合格 》",
+        "Address": "嘉義縣新港鄉新民路141號(位於新港奉天宮媽祖廟附近)",
+        "City": "嘉義縣",
+        "PositionLat": 23.55551,
+        "PositionLon": 120.3654,
+        "Phone": [
+            {
+                "Tel": "(05)3741832",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000006",
+        "RestaurantName": "上好吃餐廳",
+        "Description": "有廿年好口碑的東石鄉上好吃海產店，海產店外觀樸素，但經濟實惠、在地新鮮食材，傳承的廚藝，是「上好吃」的招牌。上好吃海產店以東石蚵仔麵線、蚵酥、紅燒皇帝魚、香酥鯽魚及鮮魚西瓜綿湯為招牌菜，都是東石海鮮。每一道菜都是現做，偶爾稍慢，請稍等，美味馬上來，希望用餐的同時，更能感受東石人的厚意。",
+        "Address": "嘉義縣東石鄉永屯村屯仔頭39-7號（省道臺17線、東榮國中旁）。",
+        "City": "嘉義縣",
+        "PositionLat": 23.4625,
+        "PositionLon": 120.1739,
+        "Phone": [
+            {
+                "Tel": "(05)3733968",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000007",
+        "RestaurantName": "祥發海產餐廳",
+        "Description": "祥發海產餐廳面對東石舊漁港的堤防邊，緊鄰東石鄉公所和東石戶政事務所、當地信仰中心先天宮，堤防外有一長排竹蚵屋，是每日清晨蚵船出海作業，下午青蚵嫂集體剖蚵的好所在，所以在祥發用餐，不但可以品嚐美味，還可以欣賞當地人文風景及剝蚵的意境。",
+        "Address": "嘉義縣東石鄉東石村6之14號。",
+        "City": "嘉義縣",
+        "PositionLat": 23.4594,
+        "PositionLon": 120.154,
+        "Phone": [
+            {
+                "Tel": "(05)3731111",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000008",
+        "RestaurantName": "寶島饗宴會館（寶島饗宴有限公司）",
+        "Description": "寶島饗宴會館專營婚禮喜宴，以唐式建築風格，融合現代時尚建築設計工法，備有氣勢非凡的百萬舞台燈光，全場可容納百餘桌。擁有嘉義縣市最優先的廚房設備，以HACCP規劃廚房內部，其中引進全球米其林廚師指定專用的德國進口蒸烤箱，減少油量的使用，讓貴賓可以吃得安心、吃得健康。",
+        "Address": "嘉義縣中埔鄉義仁村樹頭埔34-12號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44331,
+        "PositionLon": 120.5131,
+        "Phone": [
+            {
+                "Tel": "(05)2533598",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000009",
+        "RestaurantName": "高賓餐廳(港式蘿蔔糕)",
+        "Description": "民雄高賓港式蘿蔔糕，保留台灣的古早味，堅持不添加防腐劑及人工添加物，讓人有幸福的感覺",
+        "Address": "嘉義縣民雄鄉建國路三段201號",
+        "City": "嘉義縣",
+        "PositionLat": 23.52503,
+        "PositionLon": 120.4389,
+        "Phone": [
+            {
+                "Tel": "(05)2212420",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000010",
+        "RestaurantName": "名都觀光渡假大飯店（中餐廳）",
+        "Description": "餐廳特色-嘉義名都觀光渡假大飯店實為嘉南平原美食薈萃之地，擁有中西式餐廳、咖啡酒吧、景觀燒烤、烘焙坊等風情各自不同的餐飲設施，配合在地時令農特產推出具有雲嘉南當地特色的美饌佳餚，值得您一嚐再嚐！",
+        "Address": "嘉義縣番路鄉內甕村後坑仔28號(仁義潭畔)",
+        "City": "嘉義縣",
+        "PositionLat": 23.45712,
+        "PositionLon": 120.5036,
+        "Phone": [
+            {
+                "Tel": "(05)2711313",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000011",
+        "RestaurantName": "天美珍火車餅",
+        "Description": "美珍火車餅  據獲遊客心走入奮起湖著名的「老街」，街尾有家著名的餅店——天美珍，已經傳承三代人，擁有七十年的歷史。天美珍的創始人是劉通仁老先生，他創立了奮起湖第一家餅店。到了第二代老闆——劉義吉先生，在餅的面皮印上兩種早期蒸汽火車頭圖樣，取名為「火車餅」，這樣的巧思，迅速擄獲遊客的心。",
+        "Address": "嘉義縣竹崎鄉奮起湖142號",
+        "City": "嘉義縣",
+        "PositionLat": 23.5046,
+        "PositionLon": 120.6947,
+        "Phone": [
+            {
+                "Tel": "(05)2561008",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000012",
+        "RestaurantName": "板陶窯主題餐廳",
+        "Description": "嘉義縣 101年度餐飲衛生分級評核餐廳一般餐廳、火鍋、簡套餐-優級",
+        "Address": "嘉義縣新港鄉板頭村45-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.56522,
+        "PositionLon": 120.32025,
+        "Phone": [
+            {
+                "Tel": "(05)7810832",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000013",
+        "RestaurantName": "賀采宴會餐廳",
+        "Description": "賀采宴會廳主廚團隊，擅長傳統粵菜、江浙菜，傾聽顧客飲食心聲，融入清淡、蔬食養生訴求，從傳統推陳出新風味，供應住宿貴賓中、西式早餐，與客製化團體用餐。宴會廳高挑無柱，空間運用靈活，從3~5桌至100桌都能接待服務，適合舉辦團體會議、喜宴、社團餐會等活動。",
+        "Address": "61248嘉義縣太保市太子大道209號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46776,
+        "PositionLon": 120.29325,
+        "Phone": [
+            {
+                "Tel": "(05)3622616",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000014",
+        "RestaurantName": "大腸包香腸 六腳鄉之寶",
+        "Description": "位於蒜頭菜市場的老店大腸香腸，從第一代傳承下來至今已經營業幾十年了。第二代老闆娘陳雲合女士，邊烤著香腸邊說：「從婆婆手上接攤子時，兒子才剛上小學，現在都已經十六年過去了」。木炭燒的火紅，老闆娘不斷翻動香腸、米腸，然後切片淋上醬料，再加上生薑片、蒜頭瓣。從灌香腸、米腸到醃生薑片，一切都是自己來。老顧客開玩笑的說，裡面有加嗎啡吃了會令人上癮。",
+        "Address": "嘉義縣六腳鄉蒜頭村188-7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.49372,
+        "PositionLon": 120.2928,
+        "Phone": [
+            {
+                "Tel": "0911177173",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000015",
+        "RestaurantName": "興旺餅店",
+        "Description": "興旺餅舖，位於嘉義縣六腳鄉蒜頭村蒜頭市場內，恰好是亞洲搖滾天王「伍佰」舊居的隔壁，創始於西元1948年距今已有60餘年歷史，從祖父　父親到我以及下一代的兒子，已傳承至第四代至今擁有一甲子的製餅經驗也都一貫秉持著",
+        "Address": "嘉義縣六腳鄉蒜頭村110~3號(中華電信斜對面)",
+        "City": "嘉義縣",
+        "PositionLat": 23.4629,
+        "PositionLon": 120.238,
+        "Phone": [
+            {
+                "Tel": "(05)3802226",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000016",
+        "RestaurantName": "新寶珍餅店",
+        "Description": "有一種味道，會在口中回香，在記憶裡回味愈是單純質樸的口感，愈能感動我們的味蕾。那不僅是口腹的滿足，更是對阿公時代老台灣的懷想。從1950創立至今，新寶珍餅舖守住一甲子珍貴傳承，默默保留嘉義家鄉傳統口味，讓屬於台灣的古早味飄香至今。尤其最讓人一再回味的「蒜頭餅」，是早期「蒜頭村」農夫早出晚歸裹腹的點心。",
+        "Address": "嘉義縣六腳鄉蒜頭村77-28號",
+        "City": "嘉義縣",
+        "PositionLat": 23.49244,
+        "PositionLon": 120.2915,
+        "Phone": [
+            {
+                "Tel": "(05)3802203",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000017",
+        "RestaurantName": "大眾餐廳",
+        "Description": "小菜上大桌──大眾餐廳 七Ｏ年代的西式建築，金字招牌的字號，以健康美味的料理、專業敬業的服務態度，擄獲在地人的心。中西合璧的空間裡，洋溢著賓主盡歡的熱絡氣息，濃厚的人情味瀰漫其中，這便是朴子市當地人喜慶宴客的首選──大眾餐廳。",
+        "Address": "嘉義縣朴子市北通路41號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4679,
+        "PositionLon": 120.24625,
+        "Phone": [
+            {
+                "Tel": "(05)3793889",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000018",
+        "RestaurantName": "錢源日式涮涮鍋",
+        "Description": "錢源推廣原味健康日式沾醬，不用沙茶醬，少油、低鈉，身體零負擔，讓您吃到原味，吃出健康！",
+        "Address": "嘉義縣朴子市文化南路7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46359,
+        "PositionLon": 120.24139,
+        "Phone": [
+            {
+                "Tel": "(05)3707691",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000019",
+        "RestaurantName": "北歐工坊複合式餐廳",
+        "Description": "越接近北歐工坊，北歐荷蘭娃娃的氛圍越強烈，在淳樸的鄉野間，遇見可愛的北歐餐廳，環境特別的讓人感到可愛又身處異國。",
+        "Address": "嘉義縣六腳鄉工廠村1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.47001,
+        "PositionLon": 120.25649,
+        "Phone": [
+            {
+                "Tel": "(05)3708320",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000020",
+        "RestaurantName": "上品火鍋",
+        "Description": "嘉義縣 101年度餐飲衛生分級評核餐廳一般餐廳、火鍋、簡套餐-良級",
+        "Address": "嘉義縣朴子市大鄉里大槺榔627號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46622,
+        "PositionLon": 120.25484,
+        "Phone": [
+            {
+                "Tel": "(05)3791233",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000021",
+        "RestaurantName": "肉圓賜",
+        "Description": "天賜良圓50多年前，天賜老先生和裝載著熱湯、熱油的手推車在朴子發跡，一顆顆飽滿嫩Ｑ的肉圓，以及實在的待客之道，從此根植在人們心中。綿密、厚實的肉圓外皮，包裹著以香菇、蒜頭等蔬菜悶香的肉餡，沾上精心調製的佐料，並隨餐附贈鮮美的柴魚湯。",
+        "Address": "嘉義縣朴子市開元路162號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46686,
+        "PositionLon": 120.2445,
+        "Phone": [
+            {
+                "Tel": "(05)3790458",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000022",
+        "RestaurantName": "永豐春捲冰果室",
+        "Description": "大快滿足的巨無霸踏進朴子小鎮第一市場，濃厚的人情味撲面而來，尋著氣息映入眼簾的，便是70年老店──「永豐春捲」。白手起家的第一代，原是以賣挫冰聞名，只有在清明才會應景推出春捲。這ㄧ家春捲除了料多味美外，最大的特色是份量是一般春捲的兩倍大。原因在於台灣早期種田的人多，為了讓客人吃得粗飽，有力氣做事，因此額外多包上一份炒麵。這個人情味的舉動，漸漸打響了這家小店的名號，吃過的人，個個是讚",
+        "Address": "嘉義縣朴子市第一市場59號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4669,
+        "PositionLon": 120.2443,
+        "Phone": [
+            {
+                "Tel": "(05)3794025",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000023",
+        "RestaurantName": "福州意麵專賣店",
+        "Description": "茶香四溢的福州麵館位於海通路上有一家好吃的福州意麵，遠近馳名，吸引來自台灣各地和日本的饕客。熱衷普洱茶的老闆鄭師誠說店是從媽媽傳承下來，之前在光復路經營了13年，最近為了配合鎮公所整頓市容，遷到海通路。現在物價飆漲，福州意麵就是不漲。因為老闆對「吃」很堅持，不要求賺多少，只要求品質好。",
+        "Address": "嘉義縣朴子市海通路13-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46397,
+        "PositionLon": 120.2458,
+        "Phone": [
+            {
+                "Tel": "(05)3700332",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000024",
+        "RestaurantName": "顧家麻花工作坊",
+        "Description": "美味牽成好姻緣這家雙胞胎小吃，在朴子已有30年歷史。目前經營者顧景吉和謝文清夫婦，是第二代傳人。兩人原在台北工作認識，還因為這個小攤子繫起至今22年的姻緣。浪漫之外的甜蜜美味，讓這個小攤在朴子眾人皆知。吃下一口，豐腴如膏的口感宛若蛋糕、又像柔軟的絲綢熱情擁抱味蕾，輕嚥之後泊然化去，一點油膩也不留，只在齒頰間悠悠留下小麥的芬芳。除了招牌雙胞胎，也賣麻花捲和紅豆酥餅，全是純手工製作。",
+        "Address": "嘉義縣朴子市文化南路305號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46477,
+        "PositionLon": 120.2468,
+        "Phone": [
+            {
+                "Tel": "(05)3790497",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000025",
+        "RestaurantName": "虎兒油飯",
+        "Description": "虎兒油飯 粒粒香創立於民國51年，目前由第二代傳人黃慧娟當家。店名「虎兒」，來自第一代老闆黃茂炎的乳名：話說在他幼兒學爬時期，樣子像隻活靈活現的老虎，長大後智勇雙全，認識的人大多直呼「虎爺」，之後做起油飯生意，正好拿來取名。正所謂「好吃到相報」，加上名稱如此特殊，遂吸引當地人及外地人士爭相惠顧。",
+        "Address": "嘉義縣朴子市平和路16號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46477,
+        "PositionLon": 120.2468,
+        "Phone": [
+            {
+                "Tel": "(05)3798148",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000026",
+        "RestaurantName": "朴子車站黑白切",
+        "Description": "為講究食材的新鮮度，每天早上四點，老闆親自前往市場挑選最新鮮的食材，並及時把握料理的時機。用最簡單的水煮方式，沾上獨家特製醬料，讓原本再平凡不過的大腸、粉腸、香腸，脫胎換骨成為色香味俱全的美味。再來一道蝦仁羹，嚐一口蝦仁，Q嫩之中帶著新鮮的脆感，配上一口羹湯，濃稠滑潤一骨碌溜過喉頭，真是ㄙㄨㄚˋ嘴啊！",
+        "Address": "嘉義縣朴子市市西路32號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4654,
+        "PositionLon": 120.24436,
+        "Phone": [
+            {
+                "Tel": "0937308369",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000027",
+        "RestaurantName": "首塢爾 韓式料理",
+        "Description": "燒肉香溢石鍋情──『首塢爾』韓式料理暈黃的燈光、氣派的裝潢，突顯出『首塢爾韓式料理』與眾不同的風情。 2006年5月才開始營業的『首塢爾』，已逐漸在朴子打出名號。除了擁有來自韓國當地的食材、最道地的韓式料理，其精心打造的韓風裝潢，就連手持的鐵雕匙筷也是純韓風，讓人彷彿置身於正宗韓國餐館之中。",
+        "Address": "嘉義縣朴子市祥和二路西段21號(祥和國小旁)",
+        "City": "嘉義縣",
+        "PositionLat": 23.45821,
+        "PositionLon": 120.2867,
+        "Phone": [
+            {
+                "Tel": "(05)3621323",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000028",
+        "RestaurantName": "麻糬棟",
+        "Description": "唐山麻糬跨七旬奪「經」牌91年曾獲經濟部古早味美食評選的「麻糬凍」，至今已有70年的歷史，創始人林棟因結識唐山友人，從而習得製作道地唐山麻糬的手藝。招牌古早味麻糬，結合糯米香與Q勁十足的口感，與牙齒沒有半絲糾纏，粒粒可見的綠豆餡仁和著香甜花生粉，甜甜鹹鹹，非常特別。",
+        "Address": "嘉義縣朴子市第一市場內",
+        "City": "嘉義縣",
+        "PositionLat": 23.46652,
+        "PositionLon": 120.2444,
+        "Phone": [
+            {
+                "Tel": "(05)3793851",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000029",
+        "RestaurantName": "和樂食堂",
+        "Description": "怪怪美食大蒐奇──鹿草和樂食堂吃膩了各式天上飛的、地上爬的山珍海味的老饕們，有一道美食您千萬別錯過，說出來或許讓人退避三舍，但吃過的人卻從此改觀讚不絕口，那就是嘉南平原的特產──田鼠肉。有著50年歷史，堪稱田鼠料理第ㄧ家的和樂食堂，不知吸引多少名人聞風前來、接受過多少家電視台的美食節目專訪，在當地早已成為最著名的風味餐廳。",
+        "Address": "嘉義縣鹿草鄉西井村360號",
+        "City": "嘉義縣",
+        "PositionLat": 23.40983,
+        "PositionLon": 120.308,
+        "Phone": [
+            {
+                "Tel": "(05)3750660",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000030",
+        "RestaurantName": "冷研食驗室",
+        "Description": "「冷研食驗室」用做實驗的嚴謹心情不斷精進、淬鍊琢磨，把關每個環節、嚴選每項天然食材，結合黑麥汁和氣泡飲而研發的特色料理，用心照顧每一位來訪的顧客，提供色香味俱全的美食饗宴，就讓我們乘載二氧化碳加速的魔力，探索冷研食驗室每一道美味佳餚。另外，餐廳提供鄰近地區（鹿草、朴子、太保）外送的服務，如有工商團、旅遊團、校外教學參訪也歡迎預約來館用餐哦！",
+        "Address": "嘉義縣鹿草鄉馬稠後園區一路38號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44647,
+        "PositionLon": 120.2713,
+        "Phone": [
+            {
+                "Tel": "(05)3620606",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000031",
+        "RestaurantName": "龍彬海鮮餐廳",
+        "Description": "時常設身處地的去「龍彬海鮮店」位於布袋魚市場附近，是一家價格便宜的平價海鮮店，走進餐廳內會發現，並無固定菜單，原來店內的海產，都是來自當季漁獲，隨著季節的不同，捕獲魚群的種類，當然也不一樣，可說是一家道地有「青」的餐廳。秉持著新鮮為上的服務精神，以平易的價格，親切的服務，呈現給顧客，感受，顧客來餐廳用餐的心情、口感，這就是蔡老闆經營的理念，布袋漁港的海鮮，絕對值得您親身品嘗。",
+        "Address": "嘉義縣布袋鎮中山路59號",
+        "City": "嘉義縣",
+        "PositionLat": 23.37954,
+        "PositionLon": 120.1543,
+        "Phone": [
+            {
+                "Tel": "(05)3475883",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000032",
+        "RestaurantName": "豆花老店 風味依舊",
+        "Description": "位於布袋鎮過溝東安里151號的這家小吃店，就在當地的一間城隍廟旁。店內只有兩組簡單的桌椅，一個攤車，和一塊三十年的老菜單（看板）。賣的點心只有三樣：紅茶、綠豆湯、豆花。雖然是三樣簡單的甜食，裡頭可是大有學問。純手工製的豆花，又Ｑ又軟，糖水也要熬煮上一天一夜，因此香味和甜味都非常的出色。綠豆湯中的每顆綠豆都鬆鬆軟軟，不會太硬也不會太軟，口感極佳。",
+        "Address": "嘉義縣布袋鎮過溝東安里151號(城隍廟旁)",
+        "City": "嘉義縣",
+        "PositionLat": 23.37806,
+        "PositionLon": 120.1672,
+        "Phone": [
+            {
+                "Tel": "(05)3452117",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000033",
+        "RestaurantName": "停看吃蚵仔包 留住饕客心",
+        "Description": "來到有小上海之譽的海鮮美食勝地─嘉義縣布袋港，這裡的海產小吃應有盡有，其中最特別的就是炸的香脆的蚵仔包。在店家眾多，競爭激烈的漁市場內，提到蚵仔包的原汁原味，一定要嘗嘗漁港直銷中心A21攤位的「停看吃蚵仔包」。看老闆製作蚵仔包俐落的手法，真讓人瞠目結舌，也正訴說著創始者的熟悉與老練。",
+        "Address": "嘉義縣布袋鎮東中山路3號(漁市場A21攤位)",
+        "City": "嘉義縣",
+        "PositionLat": 23.37206,
+        "PositionLon": 120.1908,
+        "Phone": [
+            {
+                "Tel": "0928328043",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000034",
+        "RestaurantName": "豆菜麵 好吃不貴",
+        "Description": "喜歡古早味的小吃嗎？布袋鎮景山國小旁，有一家小吃店值得給您推薦。店齡已超過六十年的小吃店，從選購食材到烹製，現任老闆黃民信先生始終堅持給顧客最好的品質。清淡爽口的「豆菜麵」，麵Ｑ有嚼勁，配上熱量低、營養高的新鮮豆芽菜，澆上獨特的醬油，就完成了本店招牌──「豆菜麵」一碗只需要15元。從老師傅傳下來獨門秘方所製作出來的「肉碟」，更是顧客必點的美食；",
+        "Address": "嘉義縣布袋鎮東港里136號",
+        "City": "嘉義縣",
+        "PositionLat": 23.38253,
+        "PositionLon": 120.1932,
+        "Phone": [
+            {
+                "Tel": "(05)3472683",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000035",
+        "RestaurantName": "雙燕蚵仔包",
+        "Description": "位於布袋觀光漁市場A-18的雙燕蚵仔包，是漁市場第一家賣蚵仔包的店，營業時間已有八年之久。老闆蕭阿燕表示，蚵仔是自己養殖的，都是早上現撈，每顆蚵仔都新鮮、肥厚。此外，蚵仔包的外皮純手工桿製，Q滑而有彈性，並且堅持不用回鍋油，所以炸起來的蚵仔包美味又健康。",
+        "Address": "嘉義縣布袋鎮中山路3號A-18",
+        "City": "嘉義縣",
+        "PositionLat": 23.3797,
+        "PositionLon": 120.155,
+        "Phone": [
+            {
+                "Tel": "(05)3476048",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000036",
+        "RestaurantName": "阿惠蚵仔煎 風味獨特",
+        "Description": "布袋鎮，充滿濃濃人情味的地方。來到布袋，愛吃蚵仔的您當然不能錯過阿惠蚵仔煎。從路邊小吃到現在擁有自己的店面，始終不變的是童叟無欺的經營方式，客人即是朋友是老闆長久以來堅持的理念。蚵仔煎所使用的蚵仔都是自已養殖的，料好實在，口感特佳，配上獨特的醬料，深深地擄獲饕客的心。",
+        "Address": "嘉義縣布袋鎮中山路5號A-20A-16",
+        "City": "嘉義縣",
+        "PositionLat": 23.37958,
+        "PositionLon": 120.1552,
+        "Phone": [
+            {
+                "Tel": "0937300503",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000037",
+        "RestaurantName": "黑皮創意海鮮料理館",
+        "Description": "黑皮海鮮餐廳的笫三代負責人游志豪是嘉義大學食品系畢業，「黑皮」是 happy的音譯，希望讓客人能夠有快樂的用餐環境；曾經在朴子市禎祥食品公司擔任研發技師的游志豪年輕富創意，研發出該店的招牌菜，是以在地的海鮮八種食材，料理出酥皮漢堡肉圓，算是中西式料理合璧，相當受消費者喜愛。",
+        "Address": "嘉義縣布袋鎮中山路43號",
+        "City": "嘉義縣",
+        "PositionLat": 23.37961,
+        "PositionLon": 120.1545,
+        "Phone": [
+            {
+                "Tel": "(05)3479860",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000038",
+        "RestaurantName": "翁氏魚捲",
+        "Description": "手工魚捲 吃出傳統好味道翁氏魚捲從開業到現在有三十多年的歷史，堅持手工製作的魚丸、魚捲，在顧客間建立起良好的口碑。老闆翁棟結表示，父親原本是辦桌的總鋪師，在因緣際會下，自己研發魚捲，研究出各式的魚丸、魚捲。所用的是新鮮的魚類，再混合粉料，用手工擠出魚丸或捲成魚捲，吃起來不僅沒有腥味，且口感扎實有彈性。",
+        "Address": "嘉義縣義竹鄉六桂村238~13號",
+        "City": "嘉義縣",
+        "PositionLat": 23.33562,
+        "PositionLon": 120.2436,
+        "Phone": [
+            {
+                "Tel": "(05)3411039",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000039",
+        "RestaurantName": "新興園餐廳",
+        "Description": "餐廳特色-喜慶壽宴、蓮子大餐、外送外燴、葷素套餐、團體合菜。本餐廳研發蓮子大餐己有多年，將香水蓮及荷蓮經本餐廳廚師群，精心研成健康養生精緻特色蓮子佳餚。",
+        "Address": "嘉義縣水上鄉忠和村73-30號",
+        "City": "嘉義縣",
+        "PositionLat": 23.41964,
+        "PositionLon": 120.4377,
+        "Phone": [
+            {
+                "Tel": "(05)2890550",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000040",
+        "RestaurantName": "竹下老牌涼麵",
+        "Description": "來到水上，只要問起附近哪裡有好吃的涼圓、涼麵，便會有人爭相走告說竹子下的那家千萬別錯過。老字號的20年老店，別說老饕了，就連電視節目也特地前來採訪。這ㄧ家還是水上涼圓、涼麵的創始老店呢。老闆劉忠義說，夏天賣最好的時候，ㄧ天裡涼麵就可以賣掉一百五十斤，慢一步的可是會大失所望。當地人表示，他們一吃就是十幾年了，可見，這間涼圓、涼麵陪伴了老顧客們多少的青春歲月！",
+        "Address": "嘉義縣水上鄉中興路157號(中興路與中正路紅綠燈下)",
+        "City": "嘉義縣",
+        "PositionLat": 23.42889,
+        "PositionLon": 120.4042,
+        "Phone": [
+            {
+                "Tel": "(05)2688242",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000041",
+        "RestaurantName": "永芳餅舖",
+        "Description": "永芳餅舖，是老闆蔡耀男先生於1995年所開立，店內平時有賣麵包、壽桃、麵龜、喜餅等等，而屬於永芳餅舖特色商品、同時銷量最多的則是鳥仔餅。由於曾祖父曾沿街販售紅龜粿為生，蔡耀男先生也從小學習烘焙、更擔任過飯店廚師，所以店內商品的製作方式與傳統糕餅業有所不同，如鳥仔餅的麵皮便是改用燙麵類油皮，因為這樣的麵皮可以桿得更薄，烤過之後也會更酥。而入選天下雜誌319鄉微笑店的永芳餅舖，為了提供更多的選擇給顧客，目前研發了紅豆、地瓜、芋頭、抹茶、綠豆沙及香菇咖哩六種口味，歡迎大家來選購。",
+        "Address": "嘉義縣溪口鄉溪東村民生街23號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60449,
+        "PositionLon": 120.3955,
+        "Phone": [
+            {
+                "Tel": "(05)2696670",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000042",
+        "RestaurantName": "溪口古早味豬血湯",
+        "Description": "位在溪口鄉忠孝街上的溪口古早味豬血湯，是溪口鄉內傳承超過一甲子的懷舊美食，這個攤子原是由鄭芙蓉女士與丈夫一起經營，因為風味濃郁、用料豐富實在，所以即使原本只是在路旁以一台攤車經營，也歷經數十年成為溪口在地人日常生活中的好味道。為了讓這樣的好味道繼續傳遞，鄭芙蓉夫婦在退休前將攤子交棒給弟弟和弟媳經營，目前負責掌廚的弟媳吳瓊惠女士也維持往昔的方式，讓這屬於溪口古早味的小吃繼續滋養眾多饕客的味蕾。",
+        "Address": "嘉義縣溪口鄉忠孝街106號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60573,
+        "PositionLon": 120.3974,
+        "Phone": [
+            {
+                "Tel": "(05)2693007",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000043",
+        "RestaurantName": "溪口冰店",
+        "Description": "開業自1994年的溪口冰店，原本是老闆為了能同時照顧小孩子，所以選擇在自家經營泡沫紅茶店，後來才在1994年8月改經營冰店。為了提供客人最好的冰品，老闆依舊堅持每日手工熬煮各種配料，連糖水也堅持用柴火炒製，希望客人品嚐的每一口都有天然爽口的感覺。目前店裡的冰品多樣，有剉冰、蛋綿冰、雪花冰和檸檬冰沙等等，來到溪口時，一定要來嚐嚐看。",
+        "Address": "嘉義縣溪口鄉民生街20號",
+        "City": "嘉義縣",
+        "PositionLat": 23.6047,
+        "PositionLon": 120.3993,
+        "Phone": [
+            {
+                "Tel": "(05)2695712",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000044",
+        "RestaurantName": "明祥餅舖",
+        "Description": "明祥餅舖為溪口鄉傳承百年歷史的糕餅店(since1915)，由陳天送先生所創立，明祥餅舖的糕餅製作技術是陳天送先生向溪口庄內唐山老師傅所習得，而溪口鄉最具代表性的糕餅伴手禮-「鳥仔餅」-則是其運用所學的糕餅技術，將客家傳統的「番薯餅」捏製成各式形體(如：鳥、魚、葉、葫蘆、煙斗、菱角…等樣式)，所以早期也稱之為「色餅」(台語：也就是各型各色的糕餅之意)。本店的每一個鳥仔餅，皆是由第三代老闆陳甘諭先生傳承百年工法純手工捏製而成，烘焙完成後的鳥仔餅，外皮黃金香酥內餡扎實。隨著時代演變，明祥餅舖也發展了更多不同的口味，目前有地瓜、芋頭、紅豆、綠豆沙、抹茶等五種供顧客選擇。除了鳥仔餅之外，本店的龍鳳餅和麵茶也都榮獲金字招牌獎的肯定，所以來到明祥，記得除了鳥仔餅外，還可以多帶個龍鳳餅和麵茶才算不虛此行啊！",
+        "Address": "嘉義縣溪口鄉中正路2-7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60493,
+        "PositionLon": 120.3996,
+        "Phone": [
+            {
+                "Tel": "(05)2691417",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000045",
+        "RestaurantName": "阿珍姐傳統美食",
+        "Description": "位於溪口菜市仔口、沒有懸掛招牌的阿珍姐傳統美食，開業至今已經二十年，雖然沒有華麗的裝潢，但因老闆及老闆娘夫婦對傳統古早味的堅持，店內充滿的盡是每位老饕所熟悉喜愛的濃濃香氣，不論是肉羹、米糕、排骨酥或其他湯品，都相當值得品嚐。值得一提的是，目前只有每周二及六才製作的「阿嬤ㄟ芋粿巧」，是承襲曾經擔任外燴師傅「矮仔師」夫婦的招牌美食，現已傳至第三代，從餡料到外皮，完全堅持手工製作、無添加任何化學成分，不但顆顆內餡飽滿、口味獨特，外皮也非常香Q，「吃了會懷念、不吃會想念」，就是顧客對它最貼切的形容。為服務更多顧客，目前店家有提供了芋粿巧和排骨酥這兩個美食的訂購與宅配，歡迎民眾訂購。",
+        "Address": "嘉義縣溪口鄉溪東村中正路116號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60472,
+        "PositionLon": 120.3967,
+        "Phone": [
+            {
+                "Tel": "(05)2696377",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000046",
+        "RestaurantName": "溪口六十年老店鳥仔餅",
+        "Description": "嚴選在地食材，遵循古法手工製作, 皮薄不油 甜而不膩；內餡紮實綿密，外觀玲瓏獨特。 傳承一甲子的好味道",
+        "Address": "嘉義縣溪口鄉溪東村民生街161號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60334,
+        "PositionLon": 120.3961,
+        "Phone": [
+            {
+                "Tel": "(05)2694236",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000047",
+        "RestaurantName": "魠魚羹店",
+        "Description": "香酥鮮嫩口中游 淪陷味覺好湯頭溪口鄉中油加油站附近的有一家充滿人氣的魠魚羹店，店家的魠魚塊外觀香酥不油膩，入口時柔軟滑嫩，其滋味更與大白菜所熬燉的湯頭譜成奏鳴曲，鮮味飛奔而出並停留在喉頭間打轉回甘。老闆還以蒜香提高羹湯層次，喝起來甘醇濃郁、香氣撲鼻！無論搭配麵食或米飯，皆可將食物的鮮美與甘甜發揮至最高境界！",
+        "Address": "嘉義縣溪口鄉溪民路32號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60018,
+        "PositionLon": 120.4013,
+        "Phone": [
+            {
+                "Tel": "(05)2695698",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000048",
+        "RestaurantName": "阿斌師傳家肉羹",
+        "Description": "口耳相傳造就三十年的傳奇溪口鎮上有家經營三十多年的「香菇肉羹」老店，在無招牌下，「口碑」已成為他們的金字招牌。嚴選香氣濃郁的埔里香菇，再加上優選豬隻後腿肉所醃製的肉羹，憑著老闆多年經驗所調製的湯頭，讓這碗羹湯與眾不同。",
+        "Address": "嘉義縣溪口鄉中正路136號",
+        "City": "嘉義縣",
+        "PositionLat": 23.6045,
+        "PositionLon": 120.39625,
+        "Phone": [
+            {
+                "Tel": "(05)2695825",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000049",
+        "RestaurantName": "財治號(新港碗粿財)",
+        "Description": "啥米「碗粿」滿足感官新滋味來到新港絕不能錯過經營五十多年的「新港碗粿財」。走進店裡，碗粿香不自覺鑽入鼻中，吸引著路人。",
+        "Address": "嘉義縣新港鄉中正路81號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55772,
+        "PositionLon": 120.3466,
+        "Phone": [
+            {
+                "Tel": "(05)3746358",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000050",
+        "RestaurantName": "姐妹蒸餃",
+        "Description": "家族心 姐妹情 姐妹蒸餃是由楊老闆與老闆娘眾姐妹一塊經營，只見家人圍著桌邊正以迅雷不及掩耳的速度和著麵團、包著蒸餃，老闆切麵皮的清脆聲響，伴隨蒸籠鋪散的香氣，令人想大快朵頤一番。每道手續堅持「純手工」製作，家人凝聚心力，感情越包越好。除蒸餃外，還有酸辣湯。",
+        "Address": "嘉義縣新港鄉中山路72巷10-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55322,
+        "PositionLon": 120.3459,
+        "Phone": [
+            {
+                "Tel": "(05)3743988",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000051",
+        "RestaurantName": "阿正師粉條冰",
+        "Description": "來到新港，絕不能錯過由黃先生與妻子共同創業，對於產品的品質相當重視，冬天與夏天個別推出不同的產品，夏天的招牌「粉條冰」更是令許多顧客流連忘返的暢銷單品。對於選擇原物料相當謹慎挑剔，採取純手工製作、現做的方式，讓顧客嚐到都是最新鮮、美味的，也因此攤位前總是充斥購買人潮。由於生意不錯，漸漸打開知名度，也吸引了「三立電視台-鳳中奇緣」節目、聯合報…競相採訪。",
+        "Address": "嘉義縣新港鄉新民路142號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55607,
+        "PositionLon": 120.3498,
+        "Phone": [
+            {
+                "Tel": "(05)3748816",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000052",
+        "RestaurantName": "新港手工包子饅頭",
+        "Description": "飄香過海的包子 的香氣吸引過來，怎麼也很難想像這樣一份道地的好味道。這家店沒有多餘的空間供客人在店內食用、沒有響亮的店名，每天中午十二點半一到老闆連同夥計六七個開始桿麵，一點半包子、饅頭陸續出籠，不到幾個小時全部銷售一空。",
+        "Address": "嘉義縣新港鄉登雲路142號 (新港國小對面)",
+        "City": "嘉義縣",
+        "PositionLat": 23.55619,
+        "PositionLon": 120.34478,
+        "Phone": [
+            {
+                "Tel": "(05)3743657",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000053",
+        "RestaurantName": "新港客廳 新港人招待人客的ㄟ好所在",
+        "Description": "你很難想像，一家餐廳的催生始於在地人熱心奔走，一個理念的形成竟能提供更多家庭就業機會，新港文教基金會繼民國九十年完成風華獨具的鐵路公園後，又在九十三年完成了一個不可能的任務，透過與鄉公所的合作，承租原有的鐵路站長宿舍，將老舊不堪的建築徹底活化，完成了一家兼具古早風情與多元經營的餐廳，取名為「新港客廳」，它是新港第一家簡餐餐廳，其意義更希望讓新港人為遠從外地來的親朋好友，提供一個溫馨舒適的用餐空間。",
+        "Address": "嘉義縣新港鄉中正路2號(鐵路公園旁)",
+        "City": "嘉義縣",
+        "PositionLat": 23.5547,
+        "PositionLon": 120.3461,
+        "Phone": [
+            {
+                "Tel": "(05)3748472",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000054",
+        "RestaurantName": "九九九餐廳",
+        "Description": "榮獲嘉義縣 101年度餐飲衛生分級評核結果供應大陸團團膳餐廳-良級",
+        "Address": "嘉義縣阿里山鄉中正村10號",
+        "City": "嘉義縣",
+        "PositionLat": 23.51098,
+        "PositionLon": 120.80407,
+        "Phone": [
+            {
+                "Tel": "(05)2679760",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000055",
+        "RestaurantName": "阿里山閣大飯店餐廳",
+        "Description": "榮獲嘉義縣 101年度餐飲衛生分級評核結果供應大陸團團膳餐廳-優級",
+        "Address": "嘉義縣阿里山鄉香林村1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.51601,
+        "PositionLon": 120.81456,
+        "Phone": [
+            {
+                "Tel": "(05)2679611",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000056",
+        "RestaurantName": "新星光餐廳",
+        "Description": "榮獲嘉義縣 101年度餐飲衛生分級評核結果供應大陸團團膳餐廳-良級",
+        "Address": "嘉義縣阿里山鄉中正村11號",
+        "City": "嘉義縣",
+        "PositionLat": 23.51096,
+        "PositionLon": 120.80352,
+        "Phone": [
+            {
+                "Tel": "(05)2679768",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000057",
+        "RestaurantName": "海龍園餐廳",
+        "Description": "餐廳特色－1.數百坪停車場2.海產新鮮看得見3.用餐寬暢、光線良好※99年榮獲嘉義縣衛生優良餐廳評鑑(甲等)獎",
+        "Address": "嘉義縣東石村永屯村35-3號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45981,
+        "PositionLon": 120.1731,
+        "Phone": [
+            {
+                "Tel": "(05)3730009",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000058",
+        "RestaurantName": "「修」的蚵仔小吃店（吳氏蚵卷）",
+        "Description": "最「修」的蚵仔小吃店這家名為「修」蚵仔小吃店，是名聞遐邇的20年老店，就連中視的「全能美食秀」也特地前來專訪。現煎的蚵仔煎皮香Ｑ脆，滑潤的雞蛋裹著蚵仔的鮮味一擁而出，再加上薑、花生粉的提味，讓人欲罷不能",
+        "Address": "嘉義縣東石鄉東石村11鄰4-5號（嘉義縣東石鄉3號）",
+        "City": "嘉義縣",
+        "PositionLat": 23.45837,
+        "PositionLon": 120.1526,
+        "Phone": [
+            {
+                "Tel": "(05)3732852",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000059",
+        "RestaurantName": "焜島第一家脆皮蚵嗲",
+        "Description": "焜島第一家脆皮蚵嗲位於東石鄉公所旁的「焜島第一家脆皮蚵嗲」，是近年來應東石觀光熱潮而開張的蚵嗲小吃攤。令人好奇的是，這創業時間僅一年多，店面也極不起眼，卻從早到晚被擠得水泄不通，到底這裡的脆皮蚵嗲，有著什麼樣的獨特美味，讓人們如此垂涎留連呢？",
+        "Address": "嘉義縣東石鄉4之16號(東石鄉公所旁)",
+        "City": "嘉義縣",
+        "PositionLat": 23.45843,
+        "PositionLon": 120.1534,
+        "Phone": [
+            {
+                "Tel": "(05)3731681",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000060",
+        "RestaurantName": "東石樺榮海鮮餐廳",
+        "Description": "自從嘉義縣政府將傳統東石漁港，改造成為東石漁人碼頭，吸引了全省絡繹不絕的遊客，而緊鄰漁人碼頭的樺榮海鮮餐廳，老闆許樺傑父子三人共同主廚料理，精巧美食料理，讓許多食客口耳相傳，甚至還在網路推介，累積十三年的信譽，和漁人碼頭一樣，是喜受高格調美食遊客的最愛。樺榮餐廳面對塭港漁港，是專業養蚵漁港，和漁人碼頭以捕魚為主不同，但是兩個地方相距約一公里，順著海堤道路可達。",
+        "Address": "嘉義縣東石鄉塭港村52-43號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46655,
+        "PositionLon": 120.1462,
+        "Phone": [
+            {
+                "Tel": "(05)3732012",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000061",
+        "RestaurantName": "大立餐飲部",
+        "Description": "大立餐飲部開在大埔最熱鬧的街道上，每到假日遊客總是絡繹不絕，店裡的招牌是名聞遐邇的砂鍋魚頭，使用現撈的大頭鰱，保證新鮮，配上大白菜、金針、青蔥等蔬菜，增加湯底的鮮甜，再加入貢丸、大豆皮等不可或缺的火鍋料，還有還有，最後灑上的金黃蛋酥為砂鍋魚頭更添風味，整鍋端上桌，濃濃的沙茶香味四溢，臉盆般的超大份量讓人食指大動。另外，大立餐飲部也貼心的提供宅配服務，讓無法親蒞店家的饕客，也能隨時品嘗到這令人難忘的美味。",
+        "Address": "嘉義縣大埔鄉大埔村大埔192號",
+        "City": "嘉義縣",
+        "PositionLat": 23.29873,
+        "PositionLon": 120.5913,
+        "Phone": [
+            {
+                "Tel": "(05)2522303",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000062",
+        "RestaurantName": "玄山湖山林咖啡",
+        "Description": "民國93年開張的玄山湖山林咖啡館，佔地三公頃，園內栽種1800株咖啡樹，咖啡由採收、去皮、水洗、曬乾、去殼、烘焙、烹煮沖調的一貫製成為最大特色。最早由老板娘引進台灣東山咖啡品種栽種於大埔鄉，於民國95年參加曾文水庫咖啡觀光節咖啡鑑賞比賽獲獎；在此種植的阿拉比卡種咖啡採取中度烘焙，不酸、不澀、微苦而回甘，低咖啡因為其特色，在曾文水庫霧氣豐沛、溫熱潮溼的氣候的孕育中，無農藥、有機的台灣咖啡在此誕生。",
+        "Address": "嘉義縣大埔鄉一鄰一號附1",
+        "City": "嘉義縣",
+        "PositionLat": 23.29087,
+        "PositionLon": 120.591,
+        "Phone": [
+            {
+                "Tel": "(05)2522169",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000063",
+        "RestaurantName": "歐都納山野渡假村餐廳",
+        "Description": "餐廳特色－以當地野蔬、農產品結合水庫河鮮製備精緻菜餚供應。",
+        "Address": "嘉義縣大埔鄉大埔村202號",
+        "City": "嘉義縣",
+        "PositionLat": 23.29856,
+        "PositionLon": 120.5882,
+        "Phone": [
+            {
+                "Tel": "(05)2521717",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000064",
+        "RestaurantName": "阿里山月灣餐廳",
+        "Description": "榮獲嘉義縣 101年度餐飲衛生分級評核結果供應大陸團團膳餐廳-良級",
+        "Address": "嘉義縣中埔鄉社口村檨仔林17-16號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44353,
+        "PositionLon": 120.54448,
+        "Phone": [
+            {
+                "Tel": "(05)2030116",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000065",
+        "RestaurantName": "粉牛樂園",
+        "Description": "餐廳特色-綠盈牧場的景觀餐廳位於鹽館社區的最高點，放眼望去仁義潭水庫、嘉南第一景映於眼前，一片綠油油，讓人心曠神怡、悠然自在、忘卻煩惱、達到身心放鬆、紓解壓力之目的。",
+        "Address": "嘉義縣中埔鄉鹽館村4鄰2-6號",
+        "City": "嘉義縣",
+        "PositionLat": 23.42963,
+        "PositionLon": 120.5423,
+        "Phone": [
+            {
+                "Tel": "(05)2538505",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000066",
+        "RestaurantName": "新象園餐廳",
+        "Description": "餐廳特色－為提供旅客用餐安心、安全，特別注意食材選擇及調配，以自然風味、不加特殊調味料與色素，讓客人吃到最原味道地的佳餚。",
+        "Address": "嘉義縣中埔鄉和睦村司公部3-19號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45064,
+        "PositionLon": 120.48066,
+        "Phone": [
+            {
+                "Tel": "(05)2398979",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000067",
+        "RestaurantName": "阿霞肉粽店",
+        "Description": "體會媽媽的幸福好手藝 阿里山公路的清晨，有一種別處難得的特殊景象，就是採茶姑娘們或者清晨上工的運將，上山前總喜歡在中埔頂六街上就把早、午餐買好，因此這條街上的美食店面都起得早，其中有媽媽味道的阿霞肉粽店更是大家的首選之一。每顆肉粽飽滿又有溫馨與祝福的好滋味，讓每個在地人和遊子，從香氣四溢的粽葉香中，體會了生活裡幸福的感動。",
+        "Address": "嘉義縣中埔鄉富收村頂中下街67-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44908,
+        "PositionLon": 120.4897,
+        "Phone": [
+            {
+                "Tel": "(05)2300412",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000068",
+        "RestaurantName": "福源肉粽",
+        "Description": "空軍市場裡的傳奇提到嘉義市的肉粽，在地人大概都會給您一個很真誠的推薦，就是空軍市場內老字號的福源肉粽，總共十八種美妙滋味的粽子，多年來已經在全國建立了許多忠誠的美食粉絲，雖然空軍市場已經拆除，福源肉粽的香味卻已在嘉義三個地方生根，其中，台18線阿里山公路上的頂六店就是老饕們不能錯過的美食經典。",
+        "Address": "嘉義縣中埔鄉富收村頂中下街53之2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44865,
+        "PositionLon": 120.4902,
+        "Phone": [
+            {
+                "Tel": "(05)2391777",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000069",
+        "RestaurantName": "台灣牛牛雜湯",
+        "Description": "從牛頭吃到牛尾 已經經營十幾年的老字號牛雜湯老店(台灣牛)，以道地現宰台灣牛為材料，老闆張文炤一流的炒牛肉功夫，除了美食行家經常上門解饞，還有許多政治人物在上阿里山之前，或回家的路上，都要聞香下馬到此光顧，如果遊客們想嚐點特別的炒牛肉或牛雜湯，在這兒都能滿足挑剔的嘴。",
+        "Address": "嘉義縣中埔鄉金蘭村頂山門39號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44694,
+        "PositionLon": 120.4928,
+        "Phone": [
+            {
+                "Tel": "(05)2302860",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000070",
+        "RestaurantName": "江家頂六老店火雞肉飯",
+        "Description": "地方美味小吃的道地呈現嘉義是雞肉飯的故鄉，許多遊客來到嘉義總要停下腳步一嚐道地的小吃美食，頂六的江家火雞肉飯以四十年的老到經驗，從婆婆到媳婦代代相傳，作出口感越老越精湛的火雞肉飯。每個老闆娘都有著一身好手藝，鹹淡拿捏恰到好處，不但用餐時間總是坐無虛席，美食行家更愛火雞肉飯搭配苦瓜排骨湯，把嘉義雞肉飯的絕妙美味傳遍千里。",
+        "Address": "嘉義縣中埔鄉金蘭村頂山門26號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44081,
+        "PositionLon": 120.4962,
+        "Phone": [
+            {
+                "Tel": "(05)2395882",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000071",
+        "RestaurantName": "竹林樓",
+        "Description": "山野美味 中埔重現阿里山不只有日出美景，亦孕育出多種新鮮食材，過去非得上山才能享有，今日山下也能品嘗其美味，因為「竹林樓」就近在中埔。竹林樓第一代老闆，早期在奮起湖經營山產餐廳，因為手藝受到肯定，老闆將屬於山野的美味帶下山，分享給更多人。",
+        "Address": "嘉義縣中埔鄉和美村中山路五段452號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45173,
+        "PositionLon": 120.4633,
+        "Phone": [
+            {
+                "Tel": "(05)2301001",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000072",
+        "RestaurantName": "林家小卷米粉",
+        "Description": "林家小卷米粉《聞香下馬，吃了再上(阿里山)》",
+        "Address": "嘉義縣中埔鄉社口村檨仔林34-3號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44654,
+        "PositionLon": 120.49317,
+        "Phone": [
+            {
+                "Tel": "(05)2399607",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000073",
+        "RestaurantName": "大陸飲食店",
+        "Description": "記憶中的鄉味四十年前的一位退休老兵，懷念起家鄉菜的滋味，嘗試做起有家鄉味道的菜餚，藉慰思鄉的情愁。從自己品嚐而後開店經營，道地的中國菜口味，征服每個人的胃---這就是位於中埔鄉吳鳳廟旁的「大陸飲食店」。飲食店開業迄今已逾四十個年頭，目前由第二代老闆－楊松濤接手經營，楊老闆傳承了父親的手藝並加以改良，帶來更多不同於台灣口味的中國美食。",
+        "Address": "嘉義縣中埔鄉社口村45-2號（吳鳳廟旁）",
+        "City": "嘉義縣",
+        "PositionLat": 23.44202,
+        "PositionLon": 120.5653,
+        "Phone": [
+            {
+                "Tel": "(05)2531951",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000074",
+        "RestaurantName": "台灣咖啡大林店",
+        "Description": "柳暗花明又一村多數人對大醫院的印象，都是充滿著恐懼、無奈的情緒，甚至不願久留。但到了大林慈濟醫院的台灣咖啡大林店，馬上顛覆你對醫院的感覺，甚至你會特地來到這個空間，靜靜地偷閒歇腳一番。",
+        "Address": "嘉義縣大林慈濟醫院大愛樓三樓",
+        "City": "嘉義縣",
+        "PositionLat": 23.59661,
+        "PositionLon": 120.4572,
+        "Phone": [
+            {
+                "Tel": "(05)2648366",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000075",
+        "RestaurantName": "大林排骨大王",
+        "Description": "鄉土台菜小吃，地點位於大林鎮立圖書館旁邊，非常好找！目前主要經營者是張家第二代姐弟，親切的姐姐負責外場招呼客人，弟弟則負責排骨醃製；排骨大王的排骨除了油炸之外，與眾不同的是經過張家祖傳滷汁蜜煉過，入口即化的圓潤口感與輕脆的榨菜，配搭出令人難忘的鄉土風味。店長推薦：排骨飯100元",
+        "Address": "嘉義縣大林鎮中正路465號",
+        "City": "嘉義縣",
+        "PositionLat": 23.60623,
+        "PositionLon": 120.45545,
+        "Phone": [
+            {
+                "Tel": "(05)2654466",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000076",
+        "RestaurantName": "小時候大餅",
+        "Description": "編織童年的好味道經往民雄的台一線上，有一家高掛著「小時候大餅」的招牌，路過的顧客無不聞香下馬排隊購買，不時造成人滿為患的場景。會以「小時候大餅」為名，源自於王老闆與友人憑著兒時吃過堅硬的山東大餅記憶加以研發，重新塑造出大餅的新生命。",
+        "Address": "嘉義縣民雄鄉興中村江厝店1-10號",
+        "City": "嘉義縣",
+        "PositionLat": 23.52491,
+        "PositionLon": 120.4215,
+        "Phone": [
+            {
+                "Tel": "(05)2217973",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000077",
+        "RestaurantName": "阿吉麵攤",
+        "Description": "民雄阿吉麵攤 『羹』著感覺走說起民雄中樂路這一帶味美價廉的小吃店，首推『阿吉麵攤』。走近麵攤旁，肉燥香味迎面撲鼻，映入眼簾的，是那令人食指大動的美食，以及老闆快速有效率的烹飪技巧。吃過老闆首推的『香菇肉羹』後，那用大骨湯特別熬製的湯頭，將肉羹的甘甜包裹其中，幸福滋味隨著入口即化的食物蔓延開來。阿吉麵攤從最初的攤販，變成有招牌的固定店面，靠的就是老闆鄭深吉夫婦的努力。",
+        "Address": "嘉義縣民雄鄉中樂村昇平路20號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55675,
+        "PositionLon": 120.42976,
+        "Phone": [
+            {
+                "Tel": "(05)2267996",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000078",
+        "RestaurantName": "傳統碰皮麵（傳統椪皮麵）",
+        "Description": "豬皮與麵條的親密對話民雄鄉「傳統碰皮麵」歷經四十多年寒暑，所謂「碰皮」的做法是傳承老闆父親年代，將豬皮油炸過以取代肉燥，爽口不油膩並多了香Ｑ彈牙的好口感。許老闆從配料到貢丸都堅持手工製作，手工貢丸鮮嫩多汁，將豬後腿肉精華包覆其中，沾上自製油蔥、醬油調配而成的滷汁，忍不住大口咬下！湯頭則以豬大骨燉煮，每滴濃郁的湯汁彷彿含著一整隻豬的精華！",
+        "Address": "嘉義縣民雄鄉民權路2-13號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55831,
+        "PositionLon": 120.4307,
+        "Phone": [
+            {
+                "Tel": "(05)2268455",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000079",
+        "RestaurantName": "扁食啟南意麵",
+        "Description": "傳承阿爸的好麵道民雄鄉民權路上，一家名為「扁食啟南意麵」店已經有四十年的歷史了，乍看「啟」字誤以為「台南意麵」，原來這是以老闆娘父親名字「黃啟南」為名，當地人稱之為『啟南意麵』。店裡當紅的是乾意麵，以高筋麵粉所製成的麵體特別的滑溜帶勁。老闆娘堅持麵條不添加任何防腐劑且絕不放隔夜，以保其食物的鮮美。老闆：林三和、黃婉",
+        "Address": "嘉義縣民雄鄉民權路2-12號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55845,
+        "PositionLon": 120.4306,
+        "Phone": [
+            {
+                "Tel": "(05)2266572",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000080",
+        "RestaurantName": "民雄肉包",
+        "Description": "台灣口味的羅記民雄肉包位在嘉義省道台一線上，不僅是南來北往運將們的最愛，也是南來北往過客聞香下馬的據點，更早在35年前即是「7-ELEVEN」24小時經營的老字號。",
+        "Address": "嘉義縣民雄鄉建國路一段171號",
+        "City": "嘉義縣",
+        "PositionLat": 23.55761,
+        "PositionLon": 120.4334,
+        "Phone": [
+            {
+                "Tel": "(05)2267323",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000081",
+        "RestaurantName": "松山土窯羊肉",
+        "Description": "嘉義縣唯一收錄Netflix「世界小吃」尋鄉間奇店只為這一味-燻燒3天3夜，不平凡的薰羊肉。",
+        "Address": "嘉義縣民雄鄉松山村松仔腳48-27號",
+        "City": "嘉義縣",
+        "PositionLat": 23.54476,
+        "PositionLon": 120.4766,
+        "Phone": [
+            {
+                "Tel": "(05)2721597",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000082",
+        "RestaurantName": "古早味餐廳",
+        "Description": "活魚六吃的養生餐在山上吃活魚是一件很享受的事，尤其在隙頂看著雲海享受著鱘龍魚六吃及寶石魚二吃的新吃法，更是人生一大快事。就在台18線公路旁的古早味餐廳，老闆謝榮彬一身烹飪山產、山雞和活魚的好本領，讓許多遊客上山就為了品嚐活魚多吃的美味。",
+        "Address": "嘉義縣番路鄉公田村隙頂80-14號",
+        "City": "嘉義縣",
+        "PositionLat": 23.41504,
+        "PositionLon": 120.651,
+        "Phone": [
+            {
+                "Tel": "(05)2586605",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000083",
+        "RestaurantName": "雲瀑谷簡餐咖啡",
+        "Description": "山風鳥語和美食對話在雲霧中來杯香濃的咖啡，好似阿爾卑斯山的悠然感覺，是大家都嚮往的意境，現在您不用花大錢出國，在阿里山公路上行，還沒到巃頭的路上，雲瀑谷簡餐咖啡就能給人這般的美，美得讓人令人欣羨，沒有太多的裝潢，極簡的特色卻能營造出那種熱絡的用餐氣氛與環境，當您驅車經過時，別忘了，讓車和心都停下來休息。",
+        "Address": "嘉義縣番路鄉公田村潮州湖1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44094,
+        "PositionLon": 120.6372,
+        "Phone": [
+            {
+                "Tel": "(05)2586958",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000084",
+        "RestaurantName": "梅園樓景觀飯店餐廳",
+        "Description": "四季皆享養生健康餐能夠讓傳統的養生健康合菜風味變得如此迴然不同，梅園樓大廚們精巧的手藝，總能讓饕客們的味蕾服服貼貼，讓她成為阿里山公路上遊客們品嚐美食、沉醉愉悅感受的最佳美地。",
+        "Address": "嘉義縣番路鄉公田村巃頭19-6號",
+        "City": "嘉義縣",
+        "PositionLat": 23.44021,
+        "PositionLon": 120.6711,
+        "Phone": [
+            {
+                "Tel": "(05)2586198",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000085",
+        "RestaurantName": "菜公店土窯雞",
+        "Description": "沿著嘉義市大雅路往嘉義縣番路鄉的道路上，有很多各式各樣不同風格與特色的餐館林立，在經過嘉義到番路鄉後，發現一家別於其它餐館、鄉土味的「菜公店老店土窯雞」，光是聽店名便知「土窯雞」是該店的招牌，店內招牌「土窯雞」是以傳統的製作方法，使用中藥的湯頭，雞肉的肉質細嫩。",
+        "Address": "嘉義縣番路鄉下坑村菜公店138號 (大雅路直上11公里過臺三線直行800公尺右轉)",
+        "City": "嘉義縣",
+        "PositionLat": 23.46717,
+        "PositionLon": 120.5473,
+        "Phone": [
+            {
+                "Tel": "(05)2591160",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000086",
+        "RestaurantName": "茶壺餐廳",
+        "Description": "歷史悠久的口碑老店自從瑞里對外的連絡道路嘉122鄉道鋪上柏油時，茶壺餐廳就已經在瑞里街上賣起了筒仔米糕服務在地人和登山客，廿幾年來建立的好口碑，與不斷創新出來的合菜菜色，讓茶壺餐廳不但是遊客們回味好滋味的老地方，更是找好朋友聊天敘舊，談天、品茗的休憩場。",
+        "Address": "嘉義縣梅山鄉瑞里村166號",
+        "City": "嘉義縣",
+        "PositionLat": 23.53916,
+        "PositionLon": 120.6684,
+        "Phone": [
+            {
+                "Tel": "(05)2501806",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000087",
+        "RestaurantName": "青葉山莊",
+        "Description": "經典合菜遊客的最愛青葉山莊是瑞里地區相當具知名度的渡假山莊，平日遊客眾多，在山莊對面的餐廳部因為房客及遊客的需要，開發出深獲口碑的經典合菜，每到用餐時間十分熱鬧。山莊的合菜受到遊客們的歡迎，主因是大廚老闆娘林美容讓人服貼的手藝，變化出道地口感的山中美食，讓習慣了都市口味的遊客們開了眼界。",
+        "Address": "嘉義縣梅山鄉瑞里村10號",
+        "City": "嘉義縣",
+        "PositionLat": 23.5469,
+        "PositionLon": 120.6861,
+        "Phone": [
+            {
+                "Tel": "(05)2501031",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000088",
+        "RestaurantName": "阿漢的家(瑞里民宿瑞勝渡假村)",
+        "Description": "美食的完美主義者阿漢的家是瑞里地區歐風設計的民宿美宅，民宿的餐廳也是當地少見的水準級餐廳，落地窗美景與空調設備，讓用餐成為一種享受。",
+        "Address": "嘉義縣梅山鄉瑞里村79號",
+        "City": "嘉義縣",
+        "PositionLat": 23.53942,
+        "PositionLon": 120.6718,
+        "Phone": [
+            {
+                "Tel": "(05)2501011",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000089",
+        "RestaurantName": "瑞里印像區",
+        "Description": "回到老家的廚房風味喜愛喝咖啡的遊客一但來到瑞里，很難不被瑞里印像區老闆王義慶煮咖啡的香味吸引過來，往往許多外來的遊客就真的「聞香」下馬，不但讓老闆很有成就感，也代表瑞里印像區用台灣咖啡為意象的設計，受到朋友們的認同與歡迎。為何取名為瑞里印像區，並設計了「瑞里印象」的標示，其實是因為許多朋友說，到了瑞里最深刻的印象就是在這裡，因此瑞里印象就成了王老闆朋友們的假日聚會所。",
+        "Address": "嘉義縣梅山鄉瑞里村98號",
+        "City": "嘉義縣",
+        "PositionLat": 23.53989,
+        "PositionLon": 120.6671,
+        "Phone": [
+            {
+                "Tel": "(05)2501629",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000090",
+        "RestaurantName": "幼葉林餐廳",
+        "Description": "山產野菜的料理高手來到瑞里如果想來點特別的山產、野菜美味，幼葉林山產餐廳是個不錯的好選擇。已經有廿幾年主廚經驗的老闆娘葉素蓉，一手好菜總讓遊客們吃得過癮，尤其是湯頭絕佳的牧草雞，已經成為美食行家朝聖的必點美食。",
+        "Address": "嘉義縣梅山鄉瑞里村27-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.54077,
+        "PositionLon": 120.6633,
+        "Phone": [
+            {
+                "Tel": "(05)2501656",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000091",
+        "RestaurantName": "粉豬肺",
+        "Description": "粉豬肺，粉有味！來到嘉義縣梅山鄉，一定要來一盤非常特別的黑白切－粉豬肺。這間小吃店已經有40多年的歷史，當地的老客人表示，這間小吃店的粉豬肺味道特別好，一口咬下，軟綿又帶有Ｑ勁，讓人吃了還想再吃。除了粉豬肺之外，他們還有許多豬內臟類的黑白切，肉質新鮮有嚼勁，再配上蒜泥、醬油膏、甜辣醬調製而成的沾醬，吃完都會忍不住豎起大拇指喔！所以，來到嘉義，別忘了來梅山鄉嚐一嚐粉有味道的粉豬肺喔。",
+        "Address": "嘉義縣梅山鄉中山路50號",
+        "City": "嘉義縣",
+        "PositionLat": 23.58162,
+        "PositionLon": 120.5588,
+        "Phone": [
+            {
+                "Tel": "(05)2620494",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000092",
+        "RestaurantName": "傳統豆花",
+        "Description": "45年的堅持一間豆花店背後奮鬥史，就像一顆顆渾圓堅硬的黃豆，被製成柔軟光滑的豆花一樣，呈現著店家二代45年的堅持……目前豆花店是由老闆兩位親切的女兒負責。她們說，她們的豆花，就屬冬天才賣的薑汁豆花最受喜愛。這種口味是父親在冬天收攤之後，母親會熬薑汁給父親驅寒，無意中發現的，這種奇特的組合，讓原本就愛吃這家豆花的老顧客們更是愛不釋手。",
+        "Address": "嘉義縣梅山鄉中山路300號",
+        "City": "嘉義縣",
+        "PositionLat": 23.58578,
+        "PositionLon": 120.5536,
+        "Phone": [
+            {
+                "Tel": "(05)2623606",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000093",
+        "RestaurantName": "臭豆腐(正老牌臭豆腐)",
+        "Description": "千里之外～臭豆腐三分熟的臭豆腐！您一定沒有吃過吧？在嘉義縣梅山鄉梅山公園附近有一家50年老店的臭豆腐，除了一般常見的「脆皮」口味，還有老闆深感自豪的「三分熟」臭豆腐！",
+        "Address": "嘉義縣梅山鄉中山路南市場3號",
+        "City": "嘉義縣",
+        "PositionLat": 23.57845,
+        "PositionLon": 120.55912,
+        "Phone": [
+            {
+                "Tel": "(05)2625728",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000094",
+        "RestaurantName": "田媽媽-古道廚娘",
+        "Description": "使用在地食材天然蔬菜及養生理念，成為來奮起湖遊玩時，當地著名必吃風味餐美食料理。",
+        "Address": "嘉義縣竹崎鄉中和村奮起湖165-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.5061,
+        "PositionLon": 120.69558,
+        "Phone": [
+            {
+                "Tel": "(05)2561645",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000095",
+        "RestaurantName": "英和碗粿店",
+        "Description": "吃出不一樣的感受與滋味有人不愛吃碗粿！？請您介紹他來竹崎鄉鹿滿村的「英和碗粿店」吃一次，保證改變他的想法。這家五十年歷史的老店，是老闆娘羅意琇女士從母親手中傳承過來的。為發揚母親的美譽，她努力通過乙級技師檢定，同時獲得許多的肯定，中正大學就曾慕名請她去辦謝師宴呢！",
+        "Address": "嘉義縣竹崎鄉鹿滿村鹿鳴路36號",
+        "City": "嘉義縣",
+        "PositionLat": 23.49816,
+        "PositionLon": 120.5331,
+        "Phone": [
+            {
+                "Tel": "(05)2611083",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000096",
+        "RestaurantName": "竹崎老店肉圓羊肉湯(原北斗伯肉圓)",
+        "Description": "榕樹下不變的古早味文成商店已有七十幾年歷史，創店人──詹文成老先生，原是彰化北斗鎮人，大家都叫他「北斗伯」。剛開始「北斗伯」挑著小擔子，在路口的大榕樹下賣肉圓以及羊肉湯。從「北斗伯」到現在已經傳承三代，七十幾年就只賣肉圓與羊肉湯兩樣。對於老店，老闆執著地堅持祖傳口味，就像那一棵大榕樹依然屹立不搖，守護阿公流傳下來的古早味。在洋溢著肉圓與羊肉湯香味裏，有著主人熱情的招待與濃濃的人情味",
+        "Address": "嘉義縣竹崎鄉竹崎村中正路一號 (農會斜對面中山路中正路口)",
+        "City": "嘉義縣",
+        "PositionLat": 23.52112,
+        "PositionLon": 120.5504,
+        "Phone": [
+            {
+                "Tel": "(05)2613378",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000097",
+        "RestaurantName": "顏記香菇肉羹",
+        "Description": "老顧客就是我們最好的招牌位於嘉義縣竹崎鄉第一市場內，舊東昇戲院樓下有一家相當著名的香菇肉羹小吃店。當我們進門後，老闆娘熱情款待，當我們問到老闆的香菇肉羹與別家有何不同，他回答說:「吃吃看就知道啦！」每天早上大約五點半就有顧客上門，店裡的香菇肉羹、排骨酥湯、炒麵、魯肉飯、米粉，往往到九點半就賣完了，生意好的得了。",
+        "Address": "嘉義縣竹崎鄉中山路188巷10號",
+        "City": "嘉義縣",
+        "PositionLat": 23.52608,
+        "PositionLon": 120.556,
+        "Phone": [
+            {
+                "Tel": "(05)2615461",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000098",
+        "RestaurantName": "外省麵",
+        "Description": "一份緣汁情味的外省麵在一段因緣際會下，老闆劉雍茂認識了外省籍的老兵葉伯伯。葉伯伯煮了四十年的麵，因為年紀大希望有人繼承，也因為老闆和葉伯伯比較投緣吧！所以老闆承襲了葉伯伯的外省麵。為了趕上時代的潮流，老闆不斷加以修改，卻不失去傳統的老味道、好味道。",
+        "Address": "嘉義縣竹崎鄉中華路176號",
+        "City": "嘉義縣",
+        "PositionLat": 23.52227,
+        "PositionLon": 120.5485,
+        "Phone": [
+            {
+                "Tel": "(05)2614333",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000099",
+        "RestaurantName": "德銘餅店",
+        "Description": "德銘滷肉豆沙餅 香氣誘人六十年，長或短呢？「德銘餅店」第三代老板──莊豐駿先生，大概會有不同想法。年滿六十歲的「德銘餅店」，應該已經是「老年」了；但是，如果從擺在店舖前面香甜可口的招牌商品──「魯肉豆沙餅」，仍舊散發創始人林金龍老先生時代那樣獨特口味的堅持來看，時間又好像被餅店主人那份執著凍結住，並且封藏在「魯肉豆沙餅」的香味裡了。",
+        "Address": "嘉義縣竹崎鄉中和村奮起湖146號",
+        "City": "嘉義縣",
+        "PositionLat": 23.50466,
+        "PositionLon": 120.6949,
+        "Phone": [
+            {
+                "Tel": "(05)2561143",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000100",
+        "RestaurantName": "雲潭瀑布餐廳",
+        "Description": "視覺與味覺滿足體驗雲潭瀑布餐廳高超的美食料理技巧，加上位於雲潭瀑布的入口，寬廣的停車空間與路程的適中，最適合遊覽車和自助旅行的遊客歇息用餐，加上風景區的美景，餐廳一直享有很高的評價與知名度，特別是老闆娘招牌菜高麗菜干扣肉，讓許多熟客都是為了它，不遠千里而來，這道饕客們極欲一嚐為快的美食，真的很不一樣。",
+        "Address": "嘉義縣竹崎鄉仁壽村交力坪84-20號",
+        "City": "嘉義縣",
+        "PositionLat": 23.5331,
+        "PositionLon": 120.644,
+        "Phone": [
+            {
+                "Tel": "(05)2501173",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000101",
+        "RestaurantName": "三華生態",
+        "Description": "食指大動的山野料理能夠把再普通不過的山中野菜，變化成一道道的絕佳美饌，三華生態的主人王三華夫婦，就是能將巧思化成盤中藝術，而讓美食客讚嘆不已。名為金玉滿堂的百香果豆腐，還有龍飛鳳舞的龍鬚菜炒鳳梨，遊客們不只能嚐美味，還能看到主人擺盤的功夫，讓菜色全都鮮活了起來。",
+        "Address": "嘉義縣竹崎鄉仁壽村交力坪84號",
+        "City": "嘉義縣",
+        "PositionLat": 23.52928,
+        "PositionLon": 120.6583,
+        "Phone": [
+            {
+                "Tel": "(05)2501165",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000102",
+        "RestaurantName": "石桌羊肉店",
+        "Description": "呼呼的滋補鍋物位於石桌街上的石桌羊肉是當地著名的美食地標，不但外地來的內行遊客喜愛來這兒喝上一鍋暖呼呼的滋補羊肉湯，在地的公家機關或業者也會挑這兒招待賓客，由於石桌羊肉的食材羊肉毫無羊羶味，加上現點現做的各項高級食材入味，讓湯頭更加迷人。",
+        "Address": "嘉義縣竹崎鄉中和村石棹21-39號",
+        "City": "嘉義縣",
+        "PositionLat": 23.47258,
+        "PositionLon": 120.6966,
+        "Phone": [
+            {
+                "Tel": "(05)2562506",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000103",
+        "RestaurantName": "湘泉民宿",
+        "Description": "月光流域的美食雅境遊客們上阿里山若不走台18線阿里山公路，那麼159甲線就是另一種方便的選擇，但沿路上因自然風光明媚、地大人少，使得理想用餐地點不多，如果車程進入光華，湘泉民宿老闆娘那一手好廚藝絕對是遊客們感受媽媽料理不可錯過的最佳地點。",
+        "Address": "嘉義縣竹崎鄉光華村1鄰9-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4859,
+        "PositionLon": 120.6804,
+        "Phone": [
+            {
+                "Tel": "(05)2561643",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000104",
+        "RestaurantName": "火金姑觀星園休閒民宿",
+        "Description": "心情盛開的美食奏鳴曲火金姑民宿在阿里山地區不但頗具知名度，連老闆劉佳縣夫妻都是傳奇人物，民宿水準頗受遊客好評，老闆娘精湛的廚藝更經常有美食行家電話預約她的合菜，而西點烘焙更獲得大家一致激賞，如果驅車經過光華卻沒一嚐火金姑道地夠味的料理，那就真是一大憾事。",
+        "Address": "嘉義縣竹崎鄉光華村2鄰23-8號",
+        "City": "嘉義縣",
+        "PositionLat": 23.48214,
+        "PositionLon": 120.6752,
+        "Phone": [
+            {
+                "Tel": "(05)2561772",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000105",
+        "RestaurantName": "龍雲休閒農場",
+        "Description": "明日葉的迷人滋味龍雲休閒農場是石桌地區一家老字號的休閒遊樂農場，原本主要是提供登山客的住宿及簡單的餐飲服務，後來在消費者的肯定下逐步擴大規模，加上老闆三項招牌深獲遊客的喜愛，包括好客的個性、多樣、乾淨、清爽的住房，還有迷人滋味的明日葉，讓雲龍休閒農場慢慢成為石桌一帶最大的休閒農場，也成為不少團客喜愛停留的景點。",
+        "Address": "嘉義縣竹崎鄉中和村石棹1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.48232,
+        "PositionLon": 120.7012,
+        "Phone": [
+            {
+                "Tel": "(05)2562216",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000106",
+        "RestaurantName": "竺園山莊",
+        "Description": "風味獨具的家常功夫菜擁有石桌絕佳的景觀平台，讓用餐的消費者連吃飯都能獨享一片田園視野，加上風味獨具的家常功夫菜，竺園山莊滿足了遊客們對視覺與味覺的雙重快感，在愜意時光中，怎麼吃都過癮暢快。竺園的廚房掌門人是老闆娘，光以一道豬腳滷筍干就夠讓人懷念再三，還有苦茶油雞、白斬雞、茶葉雞等，用正統放山土雞料理，連挑嘴者都能感受到竺園食藝的精彩。",
+        "Address": "嘉義縣竹崎鄉中和村石棹2-7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4819,
+        "PositionLon": 120.699,
+        "Phone": [
+            {
+                "Tel": "(05)2562565",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000107",
+        "RestaurantName": "奮起湖大飯店",
+        "Description": "阿里山鐵路便當自從7-11與奮起湖大飯店老闆林金坤合作推出全國聞名的阿里山鐵路便當後，讓奮起湖這座山城除了景觀的賣點，又多了令人回味無窮的鐵路便當，每到假日老街上滿滿的人潮，店內坐的、店外站的，都是為了品嚐那一盒香噴噴的鐵路便當，不禁讓人對便當的魅力嘆為觀止。",
+        "Address": "嘉義縣竹崎鄉中和村178-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.50511,
+        "PositionLon": 120.69561,
+        "Phone": [
+            {
+                "Tel": "(05)2561888",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000108",
+        "RestaurantName": "登山食堂",
+        "Description": "懷念的手工鐵路便當已經有上百年歷史的阿里山鐵路便當老店「登山食堂」，就位於奮起湖火車站左側出口旁，老店裡阿嬤流傳下來的好手藝，到了年輕一代的手上發揚光大，每天軟燒肉便當、桂花滷雞腿便當還有很受學生歡迎的香炸排骨便當，只見廚房忙進忙出的裝盒，就知道她受歡迎的程度。",
+        "Address": "嘉義縣竹崎鄉中和村168號",
+        "City": "嘉義縣",
+        "PositionLat": 23.50467,
+        "PositionLon": 120.6947,
+        "Phone": [
+            {
+                "Tel": "(05)2562666",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000109",
+        "RestaurantName": "阿良鐵支路便當",
+        "Description": "阿良鐵支路便當 喚起「食」億「阿良鐵支路便當」已經傳承三代人，超過30年的歷史。當初是由第二代劉義良夫婦打開知名度，贏得「鐵路便當王國－便當專家」的美譽。現任老闆劉家賢先生，更在用餐的環境上用心，像竹片菜單、泛黃的鐵路照片、復古的花巾布，都有濃濃的懷舊氣氛。雖然奮起湖曾因公路通車蕭條過，但轉型後，又以特殊的人文景觀，成為旅遊的著名景點，而令人懷念的鐵路便當，更是行銷",
+        "Address": "嘉義縣竹崎鄉中和村奮起湖117-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.50304,
+        "PositionLon": 120.6947,
+        "Phone": [
+            {
+                "Tel": "(05)2561809",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000110",
+        "RestaurantName": "冠雲山莊",
+        "Description": "藥膳合菜的山中傳奇冠雲山莊是奮起湖老字號的飯店，附設的餐廳以一道明日葉藥膳燉雞的鮮甜好滋味，讓遊客們彷彿深入了不曾到過的味覺秘境，因為這道湯頭道地、又具補氣養生的美食，讓喜愛找尋特別饗宴的美食家，從舌尖到胃，都徹底的滿足了。",
+        "Address": "嘉義縣竹崎鄉中和村奮起湖191號",
+        "City": "嘉義縣",
+        "PositionLat": 23.50358,
+        "PositionLon": 120.6974,
+        "Phone": [
+            {
+                "Tel": "(05)2561670",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000111",
+        "RestaurantName": "山之美餐廳",
+        "Description": "經典原住民風味餐來到鄒族的故鄉，如果沒有體驗原住民的風味餐猶似白走了一遭，位於阿里山公路旁的山之美原住民風味餐廳正是品味山野原味的好地方，挑動味覺靈魂的烤山豬肉，和清香撲鼻的竹筒飯，都是遊客們最喜愛的美食起點，如果不是您開車，再搭配小米酒或綠竹酒，都能讓人深入原住民的飲食美學之巔。",
+        "Address": "嘉義縣阿里山鄉山美1-2號",
+        "City": "嘉義縣",
+        "PositionLat": 23.40836,
+        "PositionLon": 120.6539,
+        "Phone": [
+            {
+                "Tel": "(05)2586730",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376500000A_000112",
+        "RestaurantName": "高山青-祝山軒餐廳",
+        "Description": "餐廳特色－阿里山特色風味餐※99年榮獲嘉義縣衛生優良餐廳評鑑(甲等)獎",
+        "Address": "嘉義縣阿里山鄉中正村52號",
+        "City": "嘉義縣",
+        "PositionLat": 23.51207,
+        "PositionLon": 120.8037,
+        "Phone": [
+            {
+                "Tel": "(05)2679716",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000001",
+        "RestaurantName": "月桃故事館(華實興業股份有限公司二廠)",
+        "Description": "探索嘉義，來到嘉義市，不可遺漏的景點，留給您永恆的意象，讓您在城市中享受天然芬多精。健康、永續、樂活是現代人追求的生活，天然有機愛護地球更是產品最高的價值，阿里山下植萃瑰寶月桃故事館核心價值，將台灣本土原生植物基因植入你我的生活中。「月桃故事香氛膏」以植物精油為主軸，加上植物油脂為基底，可放鬆心情，舒緩身心，有如漫步秘境中。禮盒典雅設計，一次擁有五個來嘉義必遊景點記憶，送禮自用兩相宜。推薦伴手禮 : 月桃故事 香氛膏",
+        "Address": "保忠一街359號",
+        "City": "嘉義市",
+        "PositionLat": 23.5125516,
+        "PositionLon": 120.4484736,
+        "Phone": [
+            {
+                "Tel": "(05)2766399",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://www.sgsh.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000002",
+        "RestaurantName": "德霖國際事業有限公司",
+        "Description": "將芬多精注入生命樹項鍊中，導入大自然療癒，載在胸前散發出讓人活力舒暢，宛如漫步在檜木森林中。",
+        "Address": "文化路909-3號",
+        "City": "嘉義市",
+        "PositionLat": 23.502252,
+        "PositionLon": 120.4391603,
+        "Phone": [
+            {
+                "Tel": "(05)2322441",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.quanhinoki.com.tw",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000003",
+        "RestaurantName": "蘋果莊園有限公司",
+        "Description": "台灣特有種 - 戲獸仔冰品戲獸仔—SI SIOU A ( 閩南語零嘴的發音 )。經醫師老闆進行兩年的研發與改良，是市場上少有「不加水」、「零化學添加」的涼感伴手禮，少了人工添加物，更多食材原味，希望能成為讓大人與小孩吃得安心、開心和具有嘉義特色的健康良食。除了採用在地食材的草莓、抹茶、牛奶花生、鳳梨，等四小獸冰品外，尚會隨著季節變化增加當季水果口味，夏季限定款為芒果、玉荷包。戲獸仔冰品系列每種口味以四種棲息在嘉義地區的「台灣特有種」：臺灣彌猴、藍腹鷴、諸羅樹蛙、臺灣黑熊等生物圖騰為代表，希望在食用此冰品時，亦能提升對生態教育的重視與認識。推薦伴手禮 : 戲獸仔冰品系列禮盒 - 醫生做ㄟ冰",
+        "Address": "蘭井街465號6樓3",
+        "City": "嘉義市",
+        "PositionLat": 23.476689,
+        "PositionLon": 120.4416933,
+        "Phone": [
+            {
+                "Tel": "(05)2228101",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000004",
+        "RestaurantName": "嘉冠喜食品有限公司",
+        "Description": "用最簡單的原料做出最有價值的煎餅，這裡的煎餅每一塊都價值不斐，甚至重值千金，更能讓收禮的人會心一笑。「嘉冠喜」將煎餅製做成鈔票般的模樣，從尺寸到樣式栩栩如生，更能夠配合客人的需求提供多種幣別選擇。不只有新奇有趣的鈔票煎餅，還能夠客製化印製想要的標語，可以在畢業季慶祝畢業生，也可  慶賀公司開業，還有不用夢到就有保庇的 Q 版媽祖禮盒！這裡的煎餅經過改良創新，不會生硬難咬，而是香脆好入口，讓長輩與小孩都能盡情享用  特色煎餅的風味。不僅如此，迎合近年的健康風潮，推出加入芝麻、杏仁、  南瓜子等一口大小的日式桃菓，一吃就讓人停不下口。推薦餐點：鈔票煎餅",
+        "Address": "湖子內路263-1號",
+        "City": "嘉義市",
+        "PositionLat": 23.4502836,
+        "PositionLon": 120.4415822,
+        "Phone": [
+            {
+                "Tel": "(05)2866087",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://jkcfood.u98.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000005",
+        "RestaurantName": "龍師父黃金泡菜坊",
+        "Description": "用最健康自然熟成發酵， 讓每一口充滿最真實感動，蘊含栽種者心血與汗水，在齒頰間得到身心靈的舒坦與滿足。",
+        "Address": "仁愛路195巷28號1樓",
+        "City": "嘉義市",
+        "PositionLat": 23.4706083,
+        "PositionLon": 120.4423702,
+        "Phone": [
+            {
+                "Tel": "(05)2863101",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.qrshop.com.tw/kimchi",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000006",
+        "RestaurantName": "蔡家手作Q包子(鴻洋食品行)",
+        "Description": "被桃城環抱圍繞的石猴起初因為兒子挑食瘦弱胃口差，心血來潮，將每天販售的肉包子做成了小豬的樣子，就這樣可愛的小豬開始在台灣各地的餐桌上出現，成為媽媽給孩子愛心點心。而此款「嘉義樂桃桃」包子，靈感發想來自於嘉義舊稱 - 桃城，因舊城門東、南、西、北門連成像一顆桃子而得名，所以製作外型桃子形狀的包子來象徵桃城意象，而且還在桃子內包了一隻象徵嘉義的石猴雕刻，十分可愛有趣！推薦伴手禮 : 嘉義樂桃桃",
+        "Address": "嘉義市吳鳳南路13號",
+        "City": "嘉義市",
+        "PositionLat": 23.473665,
+        "PositionLon": 120.454085,
+        "Phone": [
+            {
+                "Tel": "(05)2223061",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000007",
+        "RestaurantName": "新台灣餅舖有限公司",
+        "Description": "將最溫暖的親情，揉進台灣餅裡曾在電影 KANO 中現身，日治時期皇太子的御用點心店「日向屋」，就是新台灣餅舖的前身。跨越百年，承載著兩代人的記憶，仍在噴水圓環旁，出爐一盤盤香氣四溢的美味糕點。杏仁瓦片是新台灣餅舖的招牌產品之一，除了酥脆外又有淡淡的乳香味，加上杏仁片的堅果香，形成口味有層次感的效果，香酥脆又不甜是建立口碑的原因，吃過還想再吃。杏仁瓦片主要是採用新鮮的蛋白、杏仁粉、砂糖、奶油、杏仁片等做成，因屬薄片形，烘烤時就要控制好火候，這也是酥脆的關鍵點。推薦伴手禮 : 杏仁瓦片禮盒",
+        "Address": "中山路294號",
+        "City": "嘉義市",
+        "PositionLat": 23.4798907,
+        "PositionLon": 120.4492894,
+        "Phone": [
+            {
+                "Tel": "(05)2222154",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.newtaiwan-bakery.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000008",
+        "RestaurantName": "勤億蛋品科技股份有限公司",
+        "Description": "選用阿里山下飼養牧場，堅持飼養滿18個月以上老母雞，滴煉過程不加一滴水和中藥調味，惟有單純才能好品質。",
+        "Address": "新民路37號",
+        "City": "嘉義市",
+        "PositionLat": 23.452216,
+        "PositionLon": 120.4311582,
+        "Phone": [
+            {
+                "Tel": "(05)2354516",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://tw.chinyieggs.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000009",
+        "RestaurantName": "THE ONE TEA一茶工房(世芳茶行)",
+        "Description": "你喝的茶，我們自己種堅持使用 MIT 茶園的茶葉，為的就是讓客人喝的安心，店內提供各種精選茶品，《宮囍宮囍》禮盒的色彩鮮紅明亮、盒身小巧便攜，「宮囍」音同「恭喜」在逢年過節、婚禮、喬遷等每一個值得慶祝的時刻都適合當成伴手禮。包裝上的帝后圖樣，猶如一份來自皇家的祝福，獻給最珍重的對象。盒內精選兩款茶葉，紅玉紅茶、柴燒烏龍。紅玉紅茶茶湯鮮紅清澈，堪稱茶飲界的紅寶石，富含荔枝、鳳梨香氣，又有台灣香之稱；柴燒烏龍遵循古法手工碳焙而成，茶湯明亮金黃，茶質厚密甘醇，有特殊花香。蘊藏最純淨的美味，是送禮給家人朋友的最佳選擇。推薦伴手禮 : 宮囍宮囍",
+        "Address": "垂楊路563號",
+        "City": "嘉義市",
+        "PositionLat": 23.472834,
+        "PositionLon": 120.4407203,
+        "Phone": [
+            {
+                "Tel": "(05)2369768",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.theonetea.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000010",
+        "RestaurantName": "渼橘客新鮮果優格專賣店",
+        "Description": "新鮮水果與酸甜優格的絕妙風味當美味優格，遇見新鮮水果，繽紛美妙的滋味，悄悄在嘉義展開來。新鮮結合手作與無添加色素的水果優格，是老闆柯博仁對家人與消費者的堅持。當年歷經中年轉業，原本從事和食品業完全無關的工作，憑著做給最愛的太太和家人食用的心意，展開了這一段酸甜機緣。憑著太太本身愛吃水果的心意，柯博仁特別找來了種水果的親戚，先從果汁店開始發跡，結合在地新鮮食材、採用最天然簡單工法、不加香料、色素、人工調味，逐漸研發了果醬、果乾等健康美味，後來更研發出新鮮水果優格，以繽紛色彩、新鮮風味、果香層次，巧妙堆疊出優格的夢幻逸趣！一開始嘉義人還不太能接受優格酸酸的滋味，柯老闆只好挨家挨戶，親自拜訪嘉義各個校園、公司行號，以免費試吃來推廣自家產品，也從客人的反饋中，慢慢琢磨出如何調整配方，研發出讓酸味延後，大小朋友都會一吃愛上的優格口味，才逐漸打開知名度，當初還只是店中配角的優格，如今已躍升為主角了！手作優格符合SGS檢驗認證，新鮮的美味，是從源頭把關的堅持，像是找來專屬配合的酪農，確保鮮奶產地乳源、品質風味都有符合要求，今年也找來小農契作洛神花，而洛神花的種子，竟是去年自己種植收成的，公開不藏私的產地源頭、製作過程，讓消費者不僅能吃得到安心，也一定能感受到滿滿的心意。也因此渼橘客優格專賣在106與107年皆獲得亞洲最具規模食品展-東京食品展登展資格，要用台灣本土的風味，向世界推廣優格最美的初心。推薦餐點：彩虹水果優格、心花朵朵開－洛神堅果塔推薦伴手禮 : 渼神果禮盒",
+        "Address": "義教街927號",
+        "City": "嘉義市",
+        "PositionLat": 23.500289,
+        "PositionLon": 120.452173,
+        "Phone": [
+            {
+                "Tel": "(05)2750019",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000011",
+        "RestaurantName": "上島咖啡",
+        "Description": "復古回憶中的咖啡香因為一段機緣，上島咖啡在1979年懵懵懂懂地誕生了。在上島咖啡，你可以聆聽到台灣飲品事業的演進史，可以品嚐到新鮮烘焙的咖啡單品，與之共賞時代更迭，這是嘉義的經典，也是不斷進步的呈現。老闆吳一正回想30多年前踏入烘焙咖啡事業，當時真的很少人懂得咖啡這門藝術，因為自己喜愛和眼光而堅持，其中更歷經了泡沫紅茶盛行的年代，卻也因為當年累積的咖啡、飲品原物料實力，把握這個機會創新轉變，造就了咖啡飲品、餐飲通路百貨的今日。聊到這裡，相信許多嘉義人的故事，都在此發生，透過一杯咖啡，陪伴了多少嘉義人的美好回憶。經過了 30多年的功力歷練，可說是嘉義咖啡烘焙達人，堅持架上的咖啡豆一定是7日內新鮮烘焙的，所選的原物料、沖泡器具都一手把關，這裡賣的不只是咖啡，而是一個分享咖啡、品嚐咖啡的空間，挑高寬敞又明亮的賣場，讓來過這的人都相談盛歡、啜飲出真感情。 近年來引領在地咖啡文化風潮，提供各式教學課程，希望能幫助嘉義產地小農投入自家的烘焙技術、品牌包裝、行銷經營，與志同道合的小農，一同擴大整個嘉義的咖啡文化產業，不定期舉辦咖啡美學分享會，猶如茶道是一門藝術，各種精美咖啡器具沖製的過程亦是每一位咖啡職人的生活藝術，揉合視覺、嗅覺、味覺、與文學內蘊的享受，順喉而下、口中品嚐到的是一抹香醇溫潤，亦是多少嘉義人生活的記憶。推薦餐點：手沖咖啡、虹吸式咖啡",
+        "Address": "興業東路156號",
+        "City": "嘉義市",
+        "PositionLat": 23.4694664,
+        "PositionLon": 120.4578791,
+        "Phone": [
+            {
+                "Tel": "(05)2259248",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000012",
+        "RestaurantName": "Casa Lounge Bar",
+        "Description": "每當嘉義市跌入夜晚的懷抱裡，華燈初上，店長施義哲（小毛）會打開位於大雅路上的Casa Lounge Bar的大門，店內橘紅色的牆面將酒吧調和成一間溫暖的空間，迎接任何一位在夜晚需要小酌一杯的靈魂。在Casa Lounge Bar之前，小毛做過修車服務、汽車業務，近10年的時間在外縣市奔走風塵，後來想想，似乎任何事情都比不上家鄉的家人重要與可貴，所以不如就回嘉吧。「那時這個店面剛好要收起來，想說就把店頂下來投資，誰知道變成自己下海。」小毛笑著說到，在開店的前兩年，因為沉重的壓力，逼不得已的情況下只休過三天的休假，直到開店第三年，經營漸漸穩定，小毛才增加到一個月一天休假時間，到外縣市的酒吧取經、學習他們的優點。小毛有感Casa為少數在嘉義市專賣調酒的酒吧，讓店內的調酒訴說嘉義的故事也成為他的課題。運用自己的茶農朋友提供的茶葉，讓自己的調酒蘊含阿里山巍峨的風味；選用嘉義在地的鳳梨，增添調酒裡酸甜的滋味。在吧檯那端擺滿形形色色、五彩繽紛的酒精瓶罐，隨時等著小毛用自己天馬行空的想像力調製成一杯杯濃郁的杜康。 在Casa人多時，一個晚上需要出到將近80杯的調酒，每一杯都由小毛親自調配、出杯到客人手上，即使在忙碌的時候，也不會忘記觀察每位客人的心情與需求，希望每位顧客都能夠在這個空間找到自己酌飲的出口，在大雅路上的這間橘紅色酒吧，除了灼熱的杯中物之外，也因為嘉義的人情味在發光發熱著。",
+        "Address": "大雅路二段512號",
+        "City": "嘉義市",
+        "PositionLat": 23.4779411,
+        "PositionLon": 120.4700562,
+        "Phone": [
+            {
+                "Tel": "0922882673",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000013",
+        "RestaurantName": "木更咖啡 Mugeneration",
+        "Description": "木更咖啡的店主Orisun從大學開始就對於經典的設計物品有興趣，除了在宿舍裡擺了EAMES的座椅，也會在網路販售國外老品衣物。工業設計研究所畢業後，漸漸萌生了創造一個設計和生活相輔相成的空間這份想法。「開一間有差異化的咖啡店」是Orisun創業的理念，加上同為設計師太太和烘焙師妹妹的支持，本來在不同縣市的三人，一起聚集回嘉，各自在這個空間發揮自己的長才。身為風和日麗獨立唱片的嘉義唯一展售點，加乘店內有味道的進口經典老件桌椅、簡單卻讓人回味的咖啡甜點，這些特質讓木更咖啡獲得不少在嘉義市尋求演出空間的國內外音樂表演者青睞。 木更咖啡將舊的檜木重新設計組合成木框甜點展示櫃，十足地詮釋了「木」的「更」新的概念。同時，將生活中不易觸碰的各種經典設計結合平易近人的甜點、咖啡，讓客人在店裡使用器具後也可以直接買回家，而各樣恰到好處的擺設單品，讓客人在店鋪內的舉足之處都很有意思。優質的器具和環境是木更咖啡的基本配備，襯托人員散發出更香的人情味，因此在分隔工作區的玻璃推門，印上吃著瑪德蓮、喝著咖啡的兩隻變色龍，期待每個來到這個空間的靈魂，就連變色龍都能變得有溫度。「Stay Gold」是木更的精神，以「良品與良材」的用物選擇，提供有品質的空間和產品，讓一杯咖啡和甜點成為設計與生活最  適切的連結。在這裡留住每樣物品的黃金時刻、讓更多有趣的體驗生根。木更本身是設計公司，呼應所在的成仁街，因在日治時期此地常出藝術家、詩人等，裱褙店、雕刻店林立， 素有「美街」之稱。現今街道上的畫廊和師傅還是老樣子，在看似打著盹的美街紅磚道上，開始出現許多獨立特色小店，在揉雜居民生活不慌不忙的日子裡，多了一番全新氣象。木更讓一杯咖啡，不只作為設計與生活最適切的連結，更串起一段嘉義   市美麗又有趣的時光。推薦餐點：季節鮮奶油戚風、單品等級咖啡拿鐵",
+        "Address": "成仁街189號",
+        "City": "嘉義市",
+        "PositionLat": 23.480534,
+        "PositionLon": 120.452016,
+        "Phone": [
+            {
+                "Tel": "(05)2232288",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000014",
+        "RestaurantName": "藏咖啡",
+        "Description": "暗光鳥的私藏咖啡館步調緊湊的都市生活，越渴望摻入慢生活當調劑，每到夜晚，想喝一杯咖啡，真有這麼難嗎?藏咖啡老闆小彰秉持著用合理的價格，喝到一杯好咖啡的初衷，選用輕工業風格，白天有明亮的光線照入，將材質點亮成生活裡的風尚優雅，夜晚溫暖的燈光，賦予空間靜謐從容，不多的桌數安排，親手佈置出這間不擁擠、平日下班後也能坐下來好好喝杯咖啡的地方，特別開到晚上11、12點，讓你無論是獨處或是相聚時刻，都能無負擔享受藏咖啡帶來逸趣食光。 除了嚴選的咖啡單品，特別搭配上手製甜點，堅持選用簡單的在地鮮乳、當季新鮮水果，做出最純粹安心的味道，樸實的食材選擇，在經過小彰的巧思淬鍊，化身為讓味蕾、感官都驚艷的滋味，從咖啡拿鐵、焦糖瑪奇朵、當季野莓起司蛋糕、泡芙...由輕轉濃的美味節奏，預言了每一日的甜蜜饗宴，最特別的是假日限定、限量手作的彩虹千層蛋糕，繽紛可愛的彩虹色系，讓人不禁少女心大爆發，殺死不少女孩的相機容量，透過年輕世代的社群與口耳相傳，自然很快地成為年輕人必訪勝地，也帶領著我們領略這座城市最⾹醇的咖啡⽂化。推薦餐點：焦糖瑪奇朵、彩虹千層蛋糕",
+        "Address": "中山路233號",
+        "City": "嘉義市",
+        "PositionLat": 23.4808787,
+        "PositionLon": 120.451757,
+        "Phone": [
+            {
+                "Tel": "(05)2255622",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000015",
+        "RestaurantName": "25×40藝文空間",
+        "Description": "25歲正在台北上班的黃逸蓁，在閱讀了「傷心咖啡店之歌」一書後，想要開一間咖啡店的夢想就這樣萌生了。走過15年的職場生涯後，終於40歲的時候，在嘉義市的中正路完成了夢想。這就是25x40藝文空間兩個數字的命名由來。踏進25x40藝文空間，檜木老屋訴說著他們60年以上的歷史，這也是當黃逸蓁第一眼看到這間老屋時便決定要承租，並花費了三個月的時間進行修繕的原因，挑高沒有隔間的架構，彷彿敞開雙手歡迎任何過路客無意間的拜訪。店內提供的是不定期展覽與販售的文創作品，起因逸蓁就讀研究所時，在探討文創商品時有感許多藝文或是手創人士鮮少有展出作品的機會，因此希望透過提供一個平台可以讓他們的藝文作品能嶄露頭角。除了展售實體商品外，逸蓁也自行策劃各式藝文活動，經常邀請全國知名人士至店舉辦講座、工作坊、音樂會，希望藉由舉辦這些活動促進與活絡嘉義市的藝文交流。 店面的檜木老屋在以前與隔壁棟相連，施工的師傅說屋子使用的檜木是屬於阿里山高檔的木材，無法否認地這間房子以前可能屬於有一定權勢或是經濟地位的屋主。經過時代的更迭，現在這間房屋早已經卸下了它的名利，在碰到逸蓁後，變成嘉義市第一間開放的藝文空間，誠摯的邀請著每一位心中有著藝文花朵的人來到這裡，互相分享自己的美好夢想。推薦餐點：阿里山茶",
+        "Address": "中正路554號",
+        "City": "嘉義市",
+        "PositionLat": 23.4789133,
+        "PositionLon": 120.4466113,
+        "Phone": [
+            {
+                "Tel": "0905188033",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000016",
+        "RestaurantName": "Fei Fei 小餐館",
+        "Description": "「Fei Fei是我的貓咪，為了要紀念牠陪伴我的這些日子，才用牠的名字命名」，充滿思念的語氣，娓娓道來這間餐館命名由來，他是這間餐館的老闆兼甜點師－黃凱傑 。在製造業打轉12年的他，因為興趣緣故而轉戰烘焙業，「因為我很喜歡美食」他靦腆地說道，為了這句話，憑藉這股熱忱學習、上烘焙課，進而成立自己的品牌「Fei Fei Cookie」─在網路上販賣手工餅乾和甜點，更展開客製化的喜餅製作。創立品牌的初衷是堅持自己的烘焙不加任何添加物，要用最純粹的美味感動人心、用最單純的食材觸動味蕾，在小餐館開幕後，這股初衷仍舊延續燃燒，只為讓更多顧客感受到簡單卻真誠的心意。「戀戀巧克和雪花餅是最推薦的產品，雖然用的食材都很頂級，但是價錢卻很平價」，談到自己最拿手的手工餅乾時，黃凱傑滔滔不絕說著，「因為簡單、美味、平價是店內最重要的元素」，他又補充說道，秉持著小餐館三大原則，更能想像他想要這家店帶給顧客的感受物超所值，更希望在高級素材與價位上取得平衡。小餐館販售的餐點相當豐富，不僅僅是少女們最為之瘋狂的烘焙糕點及茶飲，還有大眾喜歡的中西式的料理，「因為我們想要讓顧客可以享用更多元化的料理」，一句話點明老闆黃凱傑以客為尊的出發點，也證明了他屹立不搖的決心。縱使料理多元，在食材上的把關也絕不馬虎，最重要的是餅乾和糕點為每日手工製作，更採透明化製程，為的就是讓顧客安心享用。陷入了欲品嘗美食但又考量荷包之間的拉鋸戰嗎？來到「Fei Fei小餐館」，或許一切迎刃而解！推薦餐點：法式卡士達泡芙、台灣好茶系列",
+        "Address": "蘭井街246-1號",
+        "City": "嘉義市",
+        "PositionLat": 23.4772942,
+        "PositionLon": 120.4468668,
+        "Phone": [
+            {
+                "Tel": "(05)2255123",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000017",
+        "RestaurantName": "黑爾詩健康烘焙",
+        "Description": "民國78年，在美國的鄧淑玲因為懷孕吃不慣油膩重鹹的食品，而開始了她的研發烘焙之路。回到台灣後，因食安事件頻傳，成立了黑爾詩工作室，提供天然酵母麵包預訂宅配的服務。鄧淑玲堅持自己的麵包需100%天然並搭配當季食材，因擔心半成品可能有食品添加劑，所以餡料也儘可能自行製作，實地參訪小農確保原物料品質。鄧淑玲的做法是採用天然的酸麵團酵母菌群低溫長時間發酵，在沒有任何人工添加劑的情況下，發展出天然風味與口感，店內的每一個麵包都是歷經40多個小時製程的健康養生麵包。因消費者對黑爾詩的肯定，在民國103年，黑爾詩有了實體店面，為提升產品品質更在105年通過ISO 9001認證。儘管天然酵母麵包做法繁複耗時，甚至經常受到氣候的影響，但讓淑玲一路堅持的初衷，就是客人的肯定與支持。天然與健康的養生麵包，是許多愛好健身運動、注重養生的顧客的不二選擇，尤其對於罹患三高的患者也深具吸引力，因為吃了淑玲的麵包，完全不會有胃脹氣、不舒服的感覺。因對發酵食品十分著迷，淑玲也研發酒釀、天貝等食品，她的梔子酒釀、梔子花釀和百香果釀即將上市！黑爾詩健康烘焙店內的牆上有著魔法森林與精靈的彩繪，象徵著店內的每一個麵包都是深具「健康」與「創意」魔法的食品，在入口之後，微酸的滋味與100%的天然食材，都是一口口使腸胃變得更加Health的魔法！推薦餐點：梔子紅豆麵包、青春釀、愛玉粉粿",
+        "Address": "五顯街178號",
+        "City": "嘉義市",
+        "PositionLat": 23.4870015,
+        "PositionLon": 120.4448348,
+        "Phone": [
+            {
+                "Tel": "(05)2337318",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://healthbakery.blogspot.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000018",
+        "RestaurantName": "活泉人文茶館",
+        "Description": "以檜木與詩詞佐茶近年來嘉義市「檜意森活村」的興起，帶動更多觀光客體驗小都市慢活與悠閒的生活步調。活泉人文茶坊位於檜意森活村入口處，坐擁一片清幽的荷花池景緻。由大同技術學院茶文化與事業經營學程的方教授所成立的活泉人文茶坊，入駐檜意森活村已餘三年，希望提供一個可以讓國內外旅客靜下心來品味台灣高山茶的甘甜、體驗東方茶之美及推廣茶文化的空間。在2014年至2016年間，活泉人文陸續接待了許多外國貴賓，將千百年的茶歷史沖成一壺壺溫熱的茶飲，令賓客感受活泉人文事茶的溫度。踏進活泉人文茶坊，各式精美的茶器、陶藝品溫柔而堅定的座落各自位置，彷彿與世隔絕的君子不染一點俗世灰塵。當目光越過檜木窗櫺，雅緻的荷花池景色凝結了時光焦躁的步伐，引領客人不由自主地落定窗邊木桌，享受高山茶與閒情陪坐的時光。活泉「戀茶食尚」系列茶點，提供手作愛情玫瑰塔、幸福彩虹酥與浪漫蝶豆花茶。店內的搗茶體驗，由自己選定單品茶後，以類似客家擂茶的手法，用木棒將陶缽裡的茶葉搗成細粉，細聞茶香飄揚，接著將搗好的茶粉加入沖泡壺，自製的冷泡茶便完成了，配上幸福彩虹酥，小小的茶藝體驗便為自己的下午寫下美好篇章。 在廉價而唾手可得的手搖茶充斥的時代，許多人漸漸遺忘台灣茶葉的美好，仍有許多愛茶者依舊用自己的方式，溫柔而堅決的守護台灣茶文化，活泉人文與大同技術學院茶文化與事業經營學位學程產學合作，也繼續推廣著台灣茶的珍貴。推薦餐點：搗茶體驗（可任選茶品）、彩虹酥",
+        "Address": "共和路199巷4號",
+        "City": "嘉義市",
+        "PositionLat": 23.474971,
+        "PositionLon": 120.4560784,
+        "Phone": [
+            {
+                "Tel": "(05)2712159",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000019",
+        "RestaurantName": "芬芳園企業社",
+        "Description": "用清香滿溢鼻尖，用甜美滿足味蕾啜一口高山清香，讓鼻腔與喉間充滿餘韻，每一杯透明嫩綠都是用手摘捻的一心二葉，經過繁複的細心作業後泡製成杯中的精粹。架上特殊工藝製成的茶磚，是店長努力研究的心血，還能客製化印製圖案或提字，送禮或擺放家中裝飾皆宜。對於傳統技術的堅持，每個製茶的步驟都不假他人之手，為的就是維持一貫   的好品質。近年來極力推廣咖啡葉茶，色澤琥珀，香氣甚濃，不含有咖啡  因成分，不會對身體造成負擔。而佐茶的甜點也相當講究，店內主打的楓  糖堅果塔使用五種健康堅果，以珍貴香甜的楓糖拌炒，鋪在香脆可口的塔   皮上，咬上一口甜蜜，配上一杯清香，是最宜人的享受。茶磚，也能造型化？沒錯，在「芬芳園企業社」裡，除了可以客製化茶磚的設計外，也有12生肖茶磚的製作，「因為送禮的話，顧客容易挑選自己或者是對方的生肖」，老闆娘何芬芳對於自己的發想頗為自豪，「而且因為太過精緻漂亮，客人反而都捨不得喝」，話語裡聽得出她對這份事業的驕傲，然而，這一切的成就並非從天而降。多年前一場車禍奪走了老闆的生命，頓時也讓生計陷入困境，因緣際會下接觸了老闆生前熱愛的茶葉，於是讓她至茶行從頭開始學習、摸索，一方面為延續老闆的遺願，一方面也是讓自己有捲土重來的機會。對於傳統技術很講究的何芬芳，堅持自採茶葉、手炒茶及烘茶，並且致力於創新研發，近年來更極力推廣「咖啡葉」。因為何芬芳注重養生、保健，想要讓國人對於咖啡葉有更多的了解與認識，她侃侃而談：「咖啡葉沒有咖啡因，而且泡越久越好喝，不會有任何苦澀，重要的是它還具有保健功效」。除了專注在創新研發上，何芬芳對於嘉義意象的傳達也不遺餘力，如店內最推薦的「鄒族山地娃娃伴手禮盒」，以嘉義鄒族為代表特製成禮盒的外觀，內容物包含了茶包、牛軋糖、鳳梨酥、方塊酥等，樣樣都是嘉義的特產，讓客人送禮之餘也能認識嘉義的在地文化。 想要品嚐不一樣的茶點風貌嗎？那就來「芬芳園企業社」走一遭吧！推薦餐點：手工楓糖堅果塔",
+        "Address": "興安街145巷23號",
+        "City": "嘉義市",
+        "PositionLat": 23.460119,
+        "PositionLon": 120.4508711,
+        "Phone": [
+            {
+                "Tel": "(05)2253688",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000020",
+        "RestaurantName": "滿冠茶園",
+        "Description": "喝一壺交心的好茶在手搖飲料店與日俱增的時代，大多數人喜歡快速、方便帶走的茶飲，卻往往忘記一件事實：一杯好喝的茶，是需要時間沖泡開來的。滿冠茶園的范怡珍熟知這件事實，因此民國103年時在文化路上開設了滿冠茶園，為得就是要親自將自己製的茶泡給消費者喝。怡珍說，喝茶這件事最需要的是面對面交流的平台，她必須透過完整的沏茶過程，讓客人了解店內每一款茶葉的香氣、口感與特色，例如蜜香烏龍的天然果香裡面悄悄偷渡了淡雅的蜜香，青心烏龍濃郁的茶湯在入口之後便為一股清新滑順的泉水，隨著每年每季的氣候不同，同一款茶葉如何因時制宜地變換自身的口味，這些故事都需要透過好幾壺茶的時間慢慢說給客人聽，因此一組客人往往需要一個小時以上的接待，但怡珍卻樂在其中，她說，接待客人的這些時間都堆砌成她開店至今最大的收穫。滿冠茶園的茶葉不追求華美的包裝，只堅持茶葉從自家種植、採摘、烘焙製作、包裝到販售，不能有一個步驟假手他人，光是106年送給SGS食品認證單位檢驗的項目總計有457項，茶葉的品質，一直是怡珍最在意的事情。 曾經有一位在台工作十年的韓國人帶著祕書來到店內，他每喝一壺茶，便轉頭交代秘書：這是他早晨要喝的茶、這是他吃飽午飯要喝的茶、這是他晚上要喝的茶，店內的茶滿足了他一天裡需要茶香沐浴的那些重要時刻。這位韓國人的喝茶態度與怡珍想推廣的「生活茶」理念不謀而合，這些細心栽種出來的阿里山茶葉，也正等著我們入門尋覓的那一天，成為填補我們日子裡那些時刻的重要嘉賓。推薦餐點：蜜香紅烏龍、碳焙老茶（私房茶）",
+        "Address": "文化路 260 號",
+        "City": "嘉義市",
+        "PositionLat": 23.4828362,
+        "PositionLon": 120.4489944,
+        "Phone": [
+            {
+                "Tel": "(05)2776577",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000021",
+        "RestaurantName": "卓武咖啡",
+        "Description": "民國90年，許定燁的父親許峻榮毅然決然結束自家的茶葉生產，在阿里山南端最險峻的卓武山，改種咖啡樹。一開始對於咖啡豆知識一知半解，是位十足的咖啡門外漢，經過五年備嘗艱辛的鑽研、摸索，從農場管理、採豆、炒豆，每個環節許峻榮都事必躬親，為了確保品質，戴著老花眼鏡一粒一粒的篩選著咖啡豆，每日每夜挑著揀著，終於揀選出「國產精品咖啡豆評鑑」全國頭等獎的咖啡豆，將一串串的紅寶石化為卓武山農場的代表作。回憶起父親在這五年期間的辛苦，許定燁說：「那時候曾經累積了2年、快700公斤的生豆賣不出去。」在民國96年，為了協助推廣自家產的咖啡豆，許定燁在嘉義市區開了店，店名就叫「卓武咖啡」，店內除了販售自家農場產的咖啡豆飲品外，隨著時間推移，慢慢增加了甜點、早午餐、咖啡沖煮器具、咖啡禮盒等豐富的品項。即使擁有「全國頭等獎咖啡」的殊榮，許定燁對於店內的咖啡品質依舊不敢怠慢，為能對店內的咖啡進行嚴格把關，繼續學習精進、考取國內外咖啡相關證照，順應潮流導入創新的「氮氣咖啡」與「氮氣紅茶」，打進了液態氮的咖啡與茶，表面產生了綿密細緻的泡沫，為入口的甘甜增添了豐富的口感。 在卓武咖啡裡，或許看不到光彩華麗的裝潢與時髦流行的氛圍，但我總能從許定燁身上與牆面那一張張卓武山咖啡農場的報導與照片，感受到台灣在地農民溫潤與知足，他們那充滿韌性、堅毅不撓的精神，化進咖啡裡散發著樸實無華的氣味，是一口又一口懇切實在的生活態度。推薦餐點：阿里山卓武農場系列咖啡、氮氣咖啡與氮氣紅茶",
+        "Address": "民生北路194號",
+        "City": "嘉義市",
+        "PositionLat": 23.4787066,
+        "PositionLon": 120.4464414,
+        "Phone": [
+            {
+                "Tel": "(05)2225896",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000022",
+        "RestaurantName": "新台灣餅舖",
+        "Description": "民國103年，電影KANO締造了3.4億的票房佳績，在同一年，於竹北光電產業公司擔任日文翻譯的盧雅羚，結束在外十幾年的職業生涯，回到嘉義市，協助自己年邁的爸爸經營家裡的店舖。新台灣餅舖最早可以追溯到日治時期1901年，由日本人吉田秀太郎所經營的「日向屋」，當時曾是日本皇太子來台出巡時的御用點心指定店，日向屋的倩影，在電影KANO裡面被還原了出來。光復過後由盧福接手繼續經營，正式將店鋪更名為「新台灣餅舖」，並且特別聘請了日本和菓子大師新見幸一來店鋪駐點指導，為的是將日向屋的點心一一重現，包含神木羊羹、日式饅頭、浮雪餅等點心，每一樣都延續了日式職人的用心與技藝，每一樣都乘載著日向屋的歷史故事。現在的新台灣餅舖由盧福的第二代、雅羚的父親盧昆常繼續經營，秉持著爸爸盧福「忠於原味、師法自然」的精神，推出了不添加防腐劑、內涵豐富餡料的傳統麻糬，讓饕客一次可以吃到紅豆、花生、芝麻三種內餡，並且配合現代人的飲食與消費習慣，將傳統的大餅改良成精緻的伴手禮，現在，不用等到特定喜慶節日，人人都可以到新台灣餅舖帶走一份含有歷史美味的糕餅。從民國35年創業至今，新台灣餅舖見證了台灣71年的歷史朝代更迭。不管外在環境如何更動面貌，新台灣餅舖唯一不變的是家人之間互相扶持、共同努力的精神，這份對麵粉、對家、對嘉義市堅定不移的情感，也正由盧昆常傳遞到女兒盧雅羚身上，繼續在噴水圓環旁發溫熱著。推薦餐點：傳統麻糬、浮雪餅",
+        "Address": "中山路294號",
+        "City": "嘉義市",
+        "PositionLat": 23.4798907,
+        "PositionLon": 120.4492894,
+        "Phone": [
+            {
+                "Tel": "(05)2222154",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.newtaiwan-bakery.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000023",
+        "RestaurantName": "Infusion 蛋糕紅茶專賣店",
+        "Description": "對 Infusion 蛋糕紅茶專賣店的店長張嘉宏而言最大的難題是：當我要他指出店內最推薦的餐點。經過外縣市 7 年的風塵洗滌後，嘉宏在105年回到嘉義市，與認識的甜點師傅賴宜含在嘉義市素有「美街」之稱的小小街道，合開了 Infusion 蛋糕紅茶專賣店。店面口是一大片的玻璃落地窗，交織著白色窗櫺如同畫框般將店內的風景分割成一幅又一幅溫馨靜謐的畫作。踏入畫的世界，舒適的氛圍與音樂漫不經意地在空間裡晃悠，引領著每位客人自然而然的成為藝術作品裡不可或缺的一隅。吧檯甜點櫃裡擺放的每一樣法式甜點，都是宜含結合自己在法國求學經驗與生活上各式的靈感故事，經過一至兩個月的時間研發、創作出來的，宜含將自己過去在學習音樂鍥而不捨、鐵杵磨針的精神，投注在甜點創作上，因此她的甜點樣樣都具備豐富而多樣的美感層次。配合不同的甜點，吧檯的嘉宏會推薦不同的單品茶，店內的茶品從茶葉挑選、沖煮到端給客人，每道程序都經過嘉宏的謹慎把關，將最好的餐點呈送到顧客的桌上，是嘉宏絕對不會將就敷衍的事情。我想這也是為何嘉宏始終無法指出店內最推薦的餐點，因為他確信自己呈送給顧客的每樣餐點都會達到心中最美好的標準。店內的牆面上不定期更換展出的藝術品，攝影照片、油畫、素描等作品，總是在客人不經意的抬頭時便會緩緩說出自己的故事，如同 Infusion 蛋糕紅茶專賣店渾然天成的藝術美感，也正默默地佇立在成仁街上，等著過路人不經意地踏入時，娓娓道來自己的故事。推薦餐點：檸檬塔、煙燻伯爵茶",
+        "Address": "成仁街179號",
+        "City": "嘉義市",
+        "PositionLat": 23.4802819,
+        "PositionLon": 120.4520577,
+        "Phone": [
+            {
+                "Tel": "(05)2270300",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000024",
+        "RestaurantName": "舊時光新鮮事",
+        "Description": "「我對於古蹟、歷史文化的保存和文藝欣賞都很有興趣」，「舊時光新鮮事」的執行長張嘉秀，一開始就解釋了為什麼要修復70年老屋，跨領域的經營一家餐廳，「但是我們不能只保留老屋的歷史感，還必須跟著時代的脈動前進」，她又補充店名注入「新鮮事」的原因。對於經營很有自己想法的張嘉秀執行長，堅持要用在地食材入菜及在地特色元素作為內部空間裝飾的主題，不僅讓顧客吃得健康，還能一邊欣賞嘉義的地景及人文之美。例如一樓通往二樓的天花板，由藝術家盧銘世彩繪著阿里山的星空，可以看見整個銀河系；運用民雄古名「打貓」的概念，店內也有許多關於貓咪的擺設和巧思。擁有護理背景的她，將兩層樓的老屋空間發揮得淋漓盡致，一樓作為餐廳使用，二樓的場域不僅保留日式木造原味，還加上不少新的裝置藝術，成為新的社交網絡打卡點。二樓特別規劃了「足浴」的空間，希望可以多多推廣台灣足部照護的觀念。不僅在空間的創造和運用上加入許多創意，餐點的部分也不遑多讓，幾經研發改良的「花朵杯─帶著走的排餐」更是挹注了低碳、環保的用心：利用餅乾基底做出花朵的形狀當作盛放餐點的器皿、以在地食材入菜的套餐更加了不少的古早味元素。在驚呼她對環保的執行上如此用心竭力之餘，張嘉秀執行長不忘補充說道披有金黃起司熔岩的「小豬掌聲鼓勵定食」是近來店內最熱賣的餐點，除了有豬油拌飯的甘甜回味，更有視覺衝擊的驚喜。「食當季，用當地」是張嘉秀執行長一直以來堅持的決心和信念，下次來這裡，不妨一起重溫老屋的舊時光、體驗一下空間營造的創意吧！推薦餐點：湯咖哩、好事繪花生、千層蛋糕",
+        "Address": "仁愛路494號",
+        "City": "嘉義市",
+        "PositionLat": 23.4763652,
+        "PositionLon": 120.442127,
+        "Phone": [
+            {
+                "Tel": "(05)2169909",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000025",
+        "RestaurantName": "一茶工房",
+        "Description": "一杯在地好茶的製成、一口人情好茶的心意，源自阿里山茶農的堅持。一茶工房採自然農法，樸質茶葉本色，不奢華、不誇大，秉持敬天、愛地、做好茶的在地精神，只為了傳遞喝一杯茶的幸福滋味。林盈嬌總監當年雖是繼承家業，卻也是從零開始，讀懂台灣好茶的路，每一步都走得艱辛，卻也踏實。從自家茶園產地出發，學習種茶、採茶、製茶、焙茶、到行銷茶葉、開一間品牌茶店，一手包辦最嚴格的茶葉把關，下定決心要讓客人品嚐到真真正正、道道地地的台灣好茶！一路走來沒有什麼秘訣，除了堅持，還是堅持。說到這段創業歷程，林盈嬌表示最難的是:搞懂「管理茶園」這一門深厚的學問!尤其是創業初期，每每到了山上採茶的季節，遇到經常缺工的狀況，心裡總會特別地慌，回想起這一段辛苦的日子，現在卻能笑著說:很值得！也因此敢大聲地告訴消費者「你喝的茶，我們自己種。」更是一種對於消費者、對於在地好茶的心意，也才能走出一茶品牌這條路，簡潔無華的包裝，不過分華麗的外在，更能讓消費者專注於茶自身的內涵，回歸健康無負擔飲茶的初衷。店內之星名叫桃喜紅茶，取自『討喜』諧音，改良自早時賣茶人的茶葉包裝，外觀連結「桃城」古圖，精選阿里山北緯23.5度青心烏龍種製成的紅茶，茶性溫和不張揚，但韻律節奏變化豐富，猶如嘉義人的真性情。透過茶飲新思維，要讓年輕人也走入台灣茶的世界，傳承不懈的使命，要透過一杯真正的台灣好茶，飲出箇中滋味。推薦餐點：台茶 18 號、英式司康",
+        "Address": "垂楊路563號",
+        "City": "嘉義市",
+        "PositionLat": 23.472834,
+        "PositionLon": 120.4407203,
+        "Phone": [
+            {
+                "Tel": "(05)2369768",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.theonetea.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000026",
+        "RestaurantName": "嘉冠喜煎餅",
+        "Description": "年近35歲在食品公司上班的陳文興，懷抱著自己創業的夢想，跨步走進一個危機重重的食品森林。從來沒有烘焙經驗的他，先從詢問前輩與相關老師開始，歷經屢次的失敗與挫折，花了將近5年的時間，才終於在森林中找到自己的一席之地。為了凸顯自家煎餅的差異性與獨特，陳文興開始研發「觀光市場」的煎餅，改變傳統煎餅的造型、口味，時時刻刻發想著各式創意十足的煎餅。周末一到，攤車一股腦兒地裝滿自己的產品，直接去觀光景點販售，時間久了，漸漸有知名度了，漸漸有其他攤商跟他批貨去賣，漸漸才發現自己的創意煎餅有更多的發揮空間，於是陳文興繼續揮灑著天馬行空的想像力。從配合木柵動物園圓仔風潮的「熊貓煎餅」到乘著黃色小鴨熱潮的「小鴨煎餅」，到現在已經可以提供廠商訂購專屬的客製化煎餅，細膩的模具可以精準的烙印出QRcode，拿出手機掃描煎餅，即刻可連到指定網頁或是臉書。不只提供造型可愛、客製化的煎餅，陳文興也特別設計專屬於嘉義市的桃子造型煎餅，創作靈感源於嘉義市形似桃子，素有「桃城」的稱號，這一款「諸羅桃菓」更獲得嘉義市十大伴手禮的殊榮。隔年繼續推陳出新，將嘉義市景色烙印在煎餅上，讓觀光客一口嚐進嘉義市的觀光之美。 一路走來十年的煎餅之路，陳文興在食品森林裡的路程一度充滿泥濘與險惡，他知道，在這個地域稍有疏忽便會被隱沒，因此時時刻刻警惕著自己創新與精進，在未來的路途上，也會繼續秉持著創業的初衷，讓每一次出擊都全力以赴、無懈可擊。",
+        "Address": "湖子內路263-1號",
+        "City": "嘉義市",
+        "PositionLat": 23.4502836,
+        "PositionLon": 120.4415822,
+        "Phone": [
+            {
+                "Tel": "(05)2866087",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://jkcfood.u98.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000027",
+        "RestaurantName": "愛木村休閒觀光工廠",
+        "Description": "走入六隻小豬的童話世界童話裡三隻小豬的故事來到現代搖身一變，就成了隱身在文化路巷弄內的「愛木村」裡的六隻小豬，透過牠們的帶領，讓遊客們經歷一場愛木村的翻新童話─認識檜木的美麗世界。愛木村的前身是順益木業，在嘉義已有半世紀的歷史，傳承至第二代顏維德夫婦時，為了延續木頭發展的可能性，持續不斷地與家中長輩溝通。從一開始的不被看好與理解，至最後獲得認同和肯定，歷經了整整三年的時間才有了愛木村的誕生，希冀透過這個空間讓更多人了解到木頭運用的層面、體認大自然中樹木的奧秘及林業發展的歷程，不僅要為林業帶來一條出路，更大的初衷是想要保留遊客們對於木頭的記憶。憑藉著此股初心，舉凡內部的裝潢設計、文案發想、空間構思等皆不假手他人，全由顏維德夫婦打造，還特別規劃了遊戲互動區與DIY木藝體驗，希望讓大小朋友們到此一遊後留下快樂的回憶與記錄，也藉以達到寓教於樂的目的。遊玩之餘，不可不嚐試一下這裡的招牌美食─檜樂蛋與水果冰棒。檜樂蛋不同於一般的茶葉蛋，除了有中藥秘方外還加入檜木熬煮，不僅健康美味，留在口齒間還有淡淡的檜木香；而水果冰棒的素材非常簡單，僅有牛奶與水果，老闆堅持不添加乳化劑或其他添加物，除了讓遊客們安心享用外，更保留了最原始的水果滋味。愛木村雖然以新人之姿竄起卻不斷的精益求精，短短五年的開業時間，遊客人數卻不斷攀升，未來甚至還有規劃成人班手藝體驗的構想，如此用心的經營，相信假以時日，愛木村還會繼續帶給我們驚喜的面貌。推薦餐點：檜樂蛋、水果冰棒、銅鑼燒冰淇淋、冬瓜茶",
+        "Address": "文化路909-3號",
+        "City": "嘉義市",
+        "PositionLat": 23.502252,
+        "PositionLon": 120.4391603,
+        "Phone": [
+            {
+                "Tel": "(05)2322441",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000028",
+        "RestaurantName": "R5小餐館",
+        "Description": "想要經營一家結合餐廳、咖啡館和藝廊三合一模式的店，是來自「R5小餐館」的創辦人—鍾孝澤的構想，曾擔任軟體工程師的他，心中一直有個開店的夢想，經過一番評估與考量後，毅然決然離職出來創業，將自己的飲食美學，透過R5小餐館，呈現給每一位上門的客人。曾在學生時代有旅遊打工經歷的鍾孝澤，品嚐過非常純粹的美式漢堡—沒有多餘的醬料調配，僅有以肉為靈魂主體的漢堡，「雖然簡單但是很清爽的口感」，他念念不忘的說著，「但是我回台後再也沒有品嚐到相似的感動了」，就是這股動力才讓他確立了開店的目標—經營一家新型態的西式料理店。鍾孝澤引以自豪的提到，店內的餐點都是使用天然食材，堅持不添加味精、雞粉等口味太重的調味料，不僅健康，重點是讓客人享受最純粹食物的美味。藉由這樣的料理精神，重現當年他品嚐到的那份單純。「另外搭配飲品和甜點也是專業級的，例如我們的精品咖啡和自家出爐的手工甜點」，鍾孝澤補充說道，除了在西式餐點上的用心外，他還想要兼顧飲品與甜點的品質，「我希望來這裡的客人不只覺得這是家餐廳，同時也是一家咖啡店、甜點店」，這是他展現的野心，在任何細節上都求好心切的他，不斷地與同好切磋琢磨，進而累積自己的經驗和專業度。不僅僅只是餐館，還顛覆人們的想像—利用活化牆面的概念定期舉辦展覽，讓小小的空間充滿文藝氣息，同時也是提供一個平台讓文藝愛好者有互相交流的機會。喜歡食材純粹的料理？愛好精品咖啡？喜好藝文活動？那就來「R5小餐館」一次滿足吧！推薦餐點：美式漢堡、抹茶牛奶泡泡",
+        "Address": "忠孝路205號",
+        "City": "嘉義市",
+        "PositionLat": 23.4838,
+        "PositionLon": 120.4536364,
+        "Phone": [
+            {
+                "Tel": "(05)2770250",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000029",
+        "RestaurantName": "GoodLuck coffee",
+        "Description": "Goodluck coffee位於南興路一條小巷弄內，算是內行人才知道的專業咖啡店，若單從巷口望進去，很難想像在一家機械行的身後藏著這家獨具特色的咖啡廳。走進Goodluck coffee裡，處處會看到經過Goodluck coffee咖啡老闆林芃瑋之手改裝而成的機械裝置，由發電機儀表板改裝而成的電燈開關、鑲著美國隊長盾牌的桌邊小檯燈等，在層層堆疊的木製牆面與桌椅上顯得格外有趣。芃瑋說，咖啡廳的空間原本是他青春時期的房間，房間緊鄰著爸爸林安財的銨鋒機械行，小時候在爸爸的耳濡目染之下，學得一手機械工程的長才，加上求學時期陸續學習過室內設計與建築，因此將房間改裝成咖啡廳的過程，前前後後兩年的時間，全部是自己捲起袖子、灑著汗水完成的。從外地求學的地方回到嘉義市，芃瑋的第一份職業是咖啡機工程師，工作是到每個咖啡廳維修咖啡機，在職前三年，開始醞釀著想要開一間咖啡廳的想法。店內層架上擺設的咖啡機器材，以及緊鄰著吧檯旁邊的咖啡機維修工作桌，各式的扳手、螺絲起子、鉗子沉甸甸地掛在牆上，彷彿曖曖內含光的君子，等到芃瑋執起時，便英勇敏捷地大展身手。 走出Goodluck coffee的廁所時，發現牆上掛著一幅舊時用日文寫成的感謝狀，詢問之下才知道，芃瑋的爺爺林武長在日治時期成立安豐鋸店，人稱「鋸子林」，在鋼筋水泥尚未現身在台灣社會前貢獻良多，因此受到廠商頒發的感謝狀。我想像著林武長作為鋸木鐵片工匠的專業，延續到兒子林安財及孫子林芃瑋身上，那份傳承三代，對工作的細膩、專一與用心，此刻也正安穩地著落在咖啡廳的每個角落。",
+        "Address": "南興路291號",
+        "City": "嘉義市",
+        "PositionLat": 23.4661961,
+        "PositionLon": 120.4552136,
+        "Phone": [
+            {
+                "Tel": "(05)2227301",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://goodluck-coffee.business.site/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000030",
+        "RestaurantName": "Dings Tea 丁式茶館",
+        "Description": "在市區啜飲一杯來自山上茶園的現沖高山茶丁式茶館是一個由返鄉的第二代茶農鍾明志和一隻獨一無二的牧羊犬丁丁結緣而起的品牌。有別於台灣一般常見的茶行，而是以咖啡館的形式，提供一杯杯現沖茶，要和年輕的你，一起讀懂台灣茶的心，沒有距離。鍾明志返鄉投入茶業後，赫然發現茶葉的消費人口中年輕世代的數量少的驚人，因為年輕一代接觸多了手搖飲料的便利與平價，對於傳統台灣茶反而有著距離感、不僅不懂其中的文化與意義，也不太敢走入茶行了解。因此，要如何給台灣茶和年輕人一個機會互相認識，便成了我們成立丁式茶館的初衷。於是丁式茶館開創了新的飲茶型態，打造了一個舒適、無壓的飲茶空間，進來茶館的客人可以挑個舒適的座位，隨心點杯茶單上的茶，等到茶葉沖好上桌後，選擇細細品味杯中的茶，或者是拿本架上的小說佐茶。甚或坐到吧檯和店長聊聊，聽他聊聊種茶和做茶的心得，以及分享和茶葉有關的歷史故事，讓客人對於茶，有著更新或者更深的認識。我們有幸生長在台灣茶葉的知名產區，希望透過茶館的經營能夠讓對台茶仍舊陌生的年輕朋友對於茶也有初步的認識，然後漸漸地在生活裡有著喝一杯茶的習慣。冬天悄悄來臨了，冬季限定-桂花烏龍茶暖心上市，何不進來坐坐，聽一杯台灣好茶的故事！推薦餐點：桂花烏龍茶 ( 冬季限定 )、頂級紅茶 ( 茶館代表 )",
+        "Address": "民權路216號",
+        "City": "嘉義市",
+        "PositionLat": 23.4832576,
+        "PositionLon": 120.4543117,
+        "Phone": [
+            {
+                "Tel": "(05)2592639",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.dingstea.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000031",
+        "RestaurantName": "滿棠茶品",
+        "Description": "民國98年，八八風災席捲台灣各地，其中也包含嘉義的瑞峯村－滿棠茶品葉又榛的家鄉，當時又榛心裡便萌生「希望能夠為自己的家鄉做點什麼。」的念頭。風災過後，又榛回到家鄉，思量著如何將瑞峯這個村落讓個多人知道，同時讓愛茶人得以品飲瑞峯茶的獨特滋味，因此在103年，又榛與先生的姐姐杏苑在嘉義市區以「滿棠茶品」的品牌經營門市，販售來自阿里山茶系-瑞峯村的好茶。  門市裡屢次獲得國內外茶葉比賽殊榮的茶款皆是來自家鄉茶園，茶葉也經過又榛層層的篩選把關，希望來到門市的顧客或旅人們都能透過品飲及對產地的介紹，認識阿里山茶的多元風貌。另外店內有提供中、英、日的沖泡簡介，教大家如何輕鬆泡好茶，年輕可愛的包裝與中、英語的介紹服務，成為國內外選購阿里山茶的不二去處。  除了販售優質的茶品，滿棠也結合瑞峯社區的力量，不定期舉辦農村體驗活動，讓消費者可以親自到冠軍茶的故鄉，體驗採茶、焙茶、揉茶到製茶的繁複工序，在清幽的竹林裡、大自然中啜飲芬芳好茶。滿-美好充實，棠-游子思鄉，滿棠茶品的品牌標誌是在鄒族裡具象徵性的藍鵲，循著門市裡的商品優雅飛翔的藍鵲身影，同時也乘載著又榛對於家鄉厚重而堅定的情感，有機會不妨來到滿棠共享這甜蜜純粹的美好。推薦餐點：不定時的限量茶品、金萱茶",
+        "Address": "新榮路260號",
+        "City": "嘉義市",
+        "PositionLat": 23.480926,
+        "PositionLon": 120.44405,
+        "Phone": [
+            {
+                "Tel": "(05)2251070",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.maintang.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000032",
+        "RestaurantName": "名香茗茶",
+        "Description": "值得等待的精粹茶香民國67年，陳建宏因為對茶葉的濃厚興趣，毅然決然告別雕刻師傅的身份，創立了名香茶行。正值28歲的陳建宏，在資訊不發達的時代裡，花了三年的時間找書籍、文獻資料、茶農朋友，獨自摸索、學習著關於「焙茶」的知識與技術。「開店的前三年，因為茶賣不出去，所以都在餓肚子。」陳建宏淡淡的笑著說。一路支持他的是對茶葉的熱愛，也因為這股深情，當他在民國97年看到中興大學生物科技研究所曾志正教授所發表的論文後，便馬上提起毛筆書寫了一封真誠的「自我推薦文章」給曾教授。隔天曾教授來電，邀請陳建宏到台中會面，兩人可愛的情緣就這樣開始了。透過產學合作，曾教授提供知識，陳建宏提供技術，花了六年的時間，合作開發了店內的代表作品－熷烏龍茶。在過往，需要花費六年時間烘焙的老茶，兩人將時程縮短成兩年，運用青心烏龍就可製成富含對人體有益的「茶肌素」、「沒食子酸」的熷烏龍茶，主打「無咖啡因及刺激的元素，溫和且不傷胃」。名香茶行在106年進行重新裝潢，現在踏入店內是一片窗明几淨的空間，有著淡雅質樸的日式風格，店內每一樣茶品皆是陳建宏一手烘焙出來的結晶。聽他說在焙茶的時節裡，一天需要花費八小時以上的時間，待在爐火旁一刻也不能懈怠，這樣的日子整整持續20天才能焙出理想好茶。他那對茶葉的執著與專一，只因為他不把茶葉當成「販售的商品」，而是把茶葉當成一門「藝術」看待，將藝術融入自己的生命裡面，培育出來的便是一壺又一壺充滿歲月精髓的好茶。推薦餐點：熷烏龍茶、拜金美人",
+        "Address": "吳鳳北路47號",
+        "City": "嘉義市",
+        "PositionLat": 23.4751827,
+        "PositionLon": 120.4536042,
+        "Phone": [
+            {
+                "Tel": "(05)2244888",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000033",
+        "RestaurantName": "巴黎6街",
+        "Description": "「巴黎6街」是一個阿嬤少女時代的夢想，原本經營汽車產業20多年的黃頴宸，年輕時夢想開一家屬於自己的咖啡店，曾經旅行過許多國家，最喜愛歐洲輕鬆、閒適、舒服的步調，對於歐洲的嚮往而有了「巴黎6街」想法，加上孫子們也喜歡吃餅乾和蛋糕，讓疼愛孫子的頴宸毅然決然投入這個既陌生又喜歡的烘焙產業，希望用銅板價也能讓愛孩子的家長能簡單買到健康、安心手工製作的餅乾、蛋糕。手工餅乾一直是「巴黎6街」主打的商品，不添加任何防腐劑、膨鬆劑等添加物，吃的不是化學合成的香精味，吃的是真正水果纖維和甜味，品嘗台灣土地孕育而生的甜美，希望帶給下一代真實的味覺。頴宸憂心忡忡地認為，台灣的洗腎人口已經越來越年輕化，至少在她的堅持下，還能為國人的健康盡一點棉薄之力。「古早味杏仁餅」和「咖啡黑磚」是店內的人氣產品，讓傳統杏仁餅有了煥然一新的面貌，既傳承了老一輩的口感同時又加入現代年輕人喜愛的元素；因應現代人養生概念而推出的「咖啡黑磚」，採用黑糖搭配原豆咖啡結合而成，方便攜帶也兼顧健康，也歡迎大家來嘗鮮呦！",
+        "Address": "仁愛路8號",
+        "City": "嘉義市",
+        "PositionLat": 23.4666367,
+        "PositionLon": 120.4406522,
+        "Phone": [
+            {
+                "Tel": "(05)2353588",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000034",
+        "RestaurantName": "幸福原在咖啡",
+        "Description": "平價咖啡館裡的尊榮手沖咖啡一場大火燒毀了黃惠雪的家，也讓她頓時一無所有，朋友們為了讓她重新振作以及生活有所寄託，便提議不如開間咖啡店吧，這才開始了她與咖啡接觸的契機，也讓基督徒的她篤信：是上帝為她開啟的另一扇窗。「我覺得咖啡很好玩，也漸漸玩出心得」，從黃惠雪的語中聽出她對研究咖啡有濃厚的興趣。的確，讓她最引以為傲的冰滴咖啡就是這樣「玩」出來的─買不起昂貴的器具，因而使用了相同原理的點滴滴筒，利用不同滴速、水質的搭配，調配出杯杯不同口感的冰滴咖啡，「再搭配店內手工製作的香蕉布朗尼或百香果磅蛋糕是一大享受」，黃惠雪自信滿滿的說。除了冰滴咖啡之外，店內也主打「手沖咖啡」，直接將器具推至顧客桌邊提供現沖服務，並且依照客人喜好的濃淡使用不同的手法來呈現咖啡的味道。店內使用的咖啡豆也是自家烘焙、經過惠雪的精挑細選。黃惠雪同時也是嘉義第一位杯測師，憑著對咖啡的熱愛以及味蕾的天賦，歷經不斷自學、摸索、虛心求教的過程，連續五天的考程竟然一次就通過，實屬難得，除了讓親朋好友們大感意外，也更加堅定她要走向經營咖啡店的決心。 這段從無到有的歷程絕非一蹴可幾，幾經挫折失敗更激發她的鬥志，正如她想要給顧客的初衷：在嘉義也可以有專業、好喝的咖啡。下次經過時，不妨就來品嚐一下這充滿故事香的冰滴吧！推薦餐點：冰滴咖啡、香蕉布朗尼",
+        "Address": "維新路135號",
+        "City": "嘉義市",
+        "PositionLat": 23.4844966,
+        "PositionLon": 120.4582547,
+        "Phone": [
+            {
+                "Tel": "(05)2752737",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000035",
+        "RestaurantName": "融合度咖啡館",
+        "Description": "最有人情味的咖啡廳如果沒有很仔細地尋找，很容易就錯過位於中山路上的「融合度咖啡」，小小一家、外觀並不起眼的店面，一走進便感受到老闆熱情的問候以及在座客人們的輕鬆自在。人稱「二姐」的老闆娘林珮瑜提到，這就是這間咖啡店想要帶給人的感受，希望營造出一種家庭式、猶如朋友間相處的氛圍，因而咖啡店的店名也由此而來─讓來訪的客人都能「融合」於這氣氛中，感受這滿滿人情味的「溫度」。早期還在加盟階段時，來訪的客群就是以小家庭居多，至現在創立了屬於自己的咖啡店後，已歷經16個年頭，客群的組成還是沒有改變。「有很多客人是陪伴著我們一起走過的」，「二姐」林珮瑜的眼神透露出感謝之情，「所以咖啡店仍舊以熟客為主，新客反而只佔兩、三成而已，然一旦來過後就會變成熟客」，她又語帶驕傲地說。的確，店內的咖啡豆是老闆黃暐舜精心挑選及烘焙，甜點和輕食是二姐親自把關食材後才製作，有多年在醫院工作經歷的她，為的就是要確保客人能夠吃得健康，對於細節上都如此親力親為的他們，無怪乎能一直保有客源。雖然也會因應顧客的需求而客製化，但店內最推薦的產品還是手沖咖啡系列，特別是獨家飲品─冰滴嘉融，它的誕生源於KANO電影，二姐特地為此命名，連同造型設計都為它注入意象─9顆冰滴球代表9位球員、圓形杯代表球場，最後倒入的牛奶則融合了9顆冰滴球，象徵著凝結9位球員的心。 沒有華麗的裝潢、精緻的擺設，樸實而簡單的店面販賣的不僅僅是咖啡、輕食和甜點，更多的是看見二姐穿梭在客群中與顧客話家常的人情味。下次路過時，不妨在這駐足停留一下，說不定，也會成為熟客的一環呢！推薦餐點：手沖咖啡 ( 巴拿馬花蝴蝶 )、掛耳式咖啡禮盒",
+        "Address": "中山路223號",
+        "City": "嘉義市",
+        "PositionLat": 23.4809235,
+        "PositionLon": 120.4521087,
+        "Phone": [
+            {
+                "Tel": "(05)2245033",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000036",
+        "RestaurantName": "Evie's Café 伊米咖啡",
+        "Description": "手沖咖啡沖出最甜蜜的夢想每個人對於「咖啡」都有不同的理解與想像，有些也許只作為提神劑，有些或許是追逐潮流，但對於 Evie’s Café伊米咖啡的宛珍而言，更顯出高度的期待—生活中美好事物的媒介。畢業於美國賓州Indiana University of Pennsylvania的企管所，在美國、中國、台北等地方，經歷過不同的工作型態，體悟出真正適合自己個性與期待的生活模式，幾經評估，決定離職，往理想中的未來邁進。想要以專業咖啡店當作媒介空間，將生活中的各種美好推廣給大眾。「創業過程真的很辛苦，遭遇到許多阻礙與困難，還有旁人的酸言酸語。不知道有多少次徘徊在堅持與放棄的掙扎之間。」經過六年時間的琢磨與堅持，在咖啡的烘豆、萃取、品嘗等部分，下了不少苦功，透過網路與口碑累積客戶，終於在2016年擁有店面，成為跟大家分享咖啡的實體平台。透過舉辦講座、教學、分享會、展覽等活動，將咖啡店打造成一個「美」的連結，含括文藝、攝影、繪畫、美食、設計，甚至是花藝、手作、教育等多種領域，藉由提供美好的咖啡與空間，積極與大眾分享、交流生活中不同層面的美好與幸福。最後，聊起店裡最想分享給大家的品項時，手沖咖啡與冰滴咖啡是宛珍不假思索、脫口而出的答案。「因為變化很多、層次感豐富，喝了覺得真的很幸福!」透過細聞咖啡的乾粉香氣、品嘗冰鎮和熱飲等不同表現方式，讓喝黑咖啡有多種的享受和樂趣，其用心程度可見一斑。為了實現這些幸福關聯，宛珍一路上堅持著用美好的咖啡做串連，她說將會努力不懈的持續下去。推薦餐點：提拉米蘇、手沖咖啡",
+        "Address": "康樂街44號",
+        "City": "嘉義市",
+        "PositionLat": 23.4752713,
+        "PositionLon": 120.4524626,
+        "Phone": [
+            {
+                "Tel": "(05)2771239",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000037",
+        "RestaurantName": "CouCou Cafe Pâtisserie 咕咕甜點咖啡",
+        "Description": "鐵道旁的法式甜點小屋CouCou，念起來像是布穀鳥的叫聲，法語裡是親切的打招呼用語。正如「咕咕甜點咖啡」，想要帶給人們的感覺—鄰家、親近、沒有距離感。「咕咕甜點咖啡」的老闆—朱凱安和林呈安，從小就懷抱著開店夢，等待實現的一天。朱凱安曾擔任三年的長榮海運船副，透過同船大副的手沖咖啡，燃起了對咖啡的好奇，在單調的航運生活裡，咖啡成為他唯一的慰藉，於是放棄高薪穩定的工作，離開大海，毅然決然地投入咖啡事業，也因緣際會認識了林呈安。林呈安對製作甜點的興趣是來自大學時期的萌芽。視覺傳達設計系的她，自學甜點是她紓壓的方式，也因此萌生了前往法國去學習的念頭。於是便開始積極的規劃準備：選修法文、到甜點廚房當學徒、英語檢定考試等等，經過5年的努力終於讓她如願以償。愛好美食與旅遊的林呈安，利用留學法國期間，遊歷了整個歐洲，而在旅行中體驗到的味蕾紀錄，現在也成為她設計甜點的靈感來源，店內道道都是令人讚不絕口的甜點。「例如『檸檬彎彎』，是將檸檬泡泡做成一朵彎月的形狀，那是我想像因為檸檬的酸度讓客人享用時，眉毛變化的模樣」，呈安俏皮的說著。另外一款「跳舞的芭娜娜」也顯現出她的童心：利用多層次的口感，讓跳跳糖與甜點結合，每吃一口都有跳舞的感覺。有優異的甜點當然也少不了優秀的咖啡搭配，店內的咖啡豆都是凱安挑選與自烘，其中一款「搖滾耶加」就是來自他的創意：利用氣泡水混合獨家配方與耶加豆的結合，迸出清爽新滋味，是店裡熱賣的商品之一。還在尋找專業的法式甜點與咖啡嗎？來到這裡，一次享有兩種滿足！「咕咕甜點咖啡」也規劃與嘉義農產品結合、和在地做連結，讓不論是外地遊子或遊客，都能品嚐到屬於「嘉義」獨一無二的好滋味！推薦餐點：檸檬彎彎、搖滾耶加",
+        "Address": "新生路450號",
+        "City": "嘉義市",
+        "PositionLat": 23.489556,
+        "PositionLon": 120.459329,
+        "Phone": [
+            {
+                "Tel": "(05)2766987",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000038",
+        "RestaurantName": "48 home",
+        "Description": "一對年輕夫妻的夢想，一棟充滿歐洲風情的鄉間小屋，帶著與世隔絕的獨立感超然的傲視四周。由夢想為開端，期望建構新的歷史，「48HOME」正在萌芽，以全新的面貌。以求學時期修習廣告設計所揣摩出的敏銳感，「48HOME」這間擁有60多年歷史的老房子自民國100年（2011）開始被賦予新的風貌。就如同許多老屋重生的店家一樣，店長張小姐同樣有著一心維護歷史價值的使命感存在；不同的是，擁有多年教授鄉村彩繪設計的她所構思的「48HOME」，在原創性及個人風格的傳達上，有著老師級人物的獨特發想與手法。無論是將鋁線信手折出裝飾籃或廚房用品，或店內活靈活現的雕刻品與色彩活潑的彩繪品，每樣作品都出自她溫柔且細膩的雙手。因為想要全新經營「48HOME」，店長將從事多年的鄉村彩繪教室暫時吹熄燈號，然則喜歡創作的心依然不減，於是她的創意充斥在店內每個角落。「48HOME」除了是她專屬的展示臺，也是與喜歡彩繪的朋友互相交流的空間。於是在這裡，處處充滿了驚喜的臉龐及笑聲。而靈感，更從未間斷！ 從整理老屋時就不惜成本使用進口、無毒的塗料；到正式營運時堅持自己採買食材，使用新鮮溫體牛肉等。每樣堅持都需要時間才能看到些許成果。所以店長感性的說著「感謝先生無條件的支持，讓她能用自己所堅持的方式，提供客人最完善的服務」。「48HOME」除了吸引喜歡歐式鄉村風格的朋友外，也曾有婚紗業者在此取景，為新人留下永恆的紀念。然則它能夠在僻靜的巷弄間漸漸的闖出名號，靠的不僅是具特色的歐風裝置，而是無處不在的創意巧思，與時時都有新意的溫暖空間。",
+        "Address": "融和街48號",
+        "City": "嘉義市",
+        "PositionLat": 23.4773637,
+        "PositionLon": 120.4595147,
+        "Phone": [
+            {
+                "Tel": "(05)2777422",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000039",
+        "RestaurantName": "come home咖啡漫步",
+        "Description": "一幢美麗的老房子、一個香港設計師、一位美食主義者，成就了一間浪漫氛圍的輕食&咖啡館。位於興業東路一幢五十多年的老宿舍，老闆刻意保留了房子原來的大門、圍牆、庭園、舊鐵窗，如果您稍不留意，極可能與它錯身而過，以為那不過是一間普通的民宅，Come home店名的發想便源自於此。當您推開餐廳的大門，眼前的景象足以讓您會心一笑－－原來舊與新可以協調的如此賞心悅目！一般餐廳所追求的是翻桌率，翻桌率愈高所能創造的利潤也就相對提高，但這間民國101年（2012）才開幕不久的清新風格餐廳，卻想要您來店之後可以很慵懶、無拘束地久坐在此，如同回到自己家裡一般，不會感到急促匆忙。因此，餐廳內每個角落都是自成一格，讓人忍不住都想坐一坐，感受不同的風景，也讓自己凝結在優雅的畫面中。除此之外，嘉義另一家美食餐廳－－歐琳達料理坊因調整菜色所更換下來的餐具，也靜靜地躺在Come home其中的一個角落，等待有緣人來尋寶。在「輕食」的主題下，Come home的菜單以早午餐、下午茶為特色，包含貝果、三明治、吐司等，以及風味獨特的各式飲品。還有一定要大大推薦的限定料理－－燉菜料理附烤長棍麵包。長棍麵包外酥內軟、相當有嚼勁，份量十足，沾上燉菜的濃郁醬汁，口味絕配。Come home 咖啡漫步讓客人有回到家的舒適感，廚房的上方更採用透光良好的採光罩，若幸運的話，還可看到短腿科基犬穿梭其間。這裡不只是一間餐廳，員工們更存在著如同家人般的親情，來此用餐，您不妨用心感受一下那股像家一般溫暖的氛圍。",
+        "Address": "興業東路138號",
+        "City": "嘉義市",
+        "PositionLat": 23.4694331,
+        "PositionLon": 120.4573883,
+        "Phone": [
+            {
+                "Tel": "(05)2223011",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000040",
+        "RestaurantName": "芙甜法式點心坊",
+        "Description": "黃色小屋裡的甜蜜盛宴坐落在中山上路一隅的芙甜，鮮黃色的建築物在陽光底下閃閃發光，甜蜜的像是帶著幸福感的美味甜點，從外觀看起便讓人眼睛為之一亮。而這帶著南法風情的百年老屋，正由芙甜為它揮灑出嶄新的樣貌。年輕的店長馮先生神情略帶羞澀，說起話來卻精神抖擻，熱絡的與我分享著關於這由七個好朋友所一起圓夢而創立的店。起因是同學有著法式甜點的專長，並在歐洲學藝、亞洲星級餐廳任職過，再加上他們都希望能在嘉義這個成長的故鄉中譜出更豐富的故事，於是芙甜在民國101年（2013）正式誕生。一樓帶著設計感的風情，從各地收集回來的復古家具巧妙融合，打造出芙甜精緻中帶著舒適的氣氛。坐在沙發上品嚐甜點，欣賞店家手繪的牆面，那俏皮的塗鴉喚起了我久違的童心，將甜品的滋味襯托的更加豐富。透過迴旋梯步上二樓，映入眼簾的是外國電影裡才會出現的閣樓，這您我孩提時代都曾夢想過的秘密基地在芙甜裡忠實再現。於是我被這充滿童趣的創意設計引導，像是少年一般探索著這未知的祕境。在探索的過程中，那少年時代的夢想，也一點一滴的重回心中。從好朋友轉為合夥關係，七人難免因為理念的實踐不同而有所爭執，然而大男孩的直率與高中開始的情誼並不因此變質，而是隨著觀念的交流變得更加密切。「重要的不是職稱，而是職責」店長這般說著，因此七人都在自己擅長的領域各自為這塊他們夢想的領域努力，偶爾吵鬧，卻感情不減。百年老屋加上七個大男孩的夢想與法式甜點，衝突的組合卻造就了芙甜的誕生。從嘉義起步，未來他們計畫將在地農產品加入甜點，創造出法式甜點更新穎的風味，也期許能將對嘉義的愛，透過甜點傳達給每位到訪芙甜的朋友。推薦餐點：好好蛋糕捲、藍莓氣泡飲",
+        "Address": "中山路168號",
+        "City": "嘉義市",
+        "PositionLat": 23.4814586,
+        "PositionLon": 120.4526032,
+        "Phone": [
+            {
+                "Tel": "(05)2256058",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000041",
+        "RestaurantName": "巴美食堂",
+        "Description": "「巴美」這個名字保留了民國30年代的記憶，巴美西裝當時在嘉義市頗負盛名，裁縫車答答的聲音卻隨著成衣工廠的機械化生產消聲匿跡。現在的巴美食堂，每到冷天總是座無虛席，大家擠在小小的空間裡一起用餐，彼此笑聲不斷，對照著店中陳列老屋照片，想像著這家人以前的日常生活，暖意在此綿延流動。",
+        "Address": "公民路396號",
+        "City": "嘉義市",
+        "PositionLat": 23.4728615,
+        "PositionLon": 120.4547408,
+        "Phone": [
+            {
+                "Tel": "(05)2250039",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000042",
+        "RestaurantName": "懷舊小館",
+        "Description": "懷舊小館是一個結合人文、藝術、美食與懷舊的放鬆空間，在整修過程中，除了安全強化外，盡可能保留這棟50年代建築的原始設計，店長以懷舊概念，將古董家具結合自身的紙雕、鋁雕與彩繪創作，妝點老屋的各個角落，一桌一椅、儲菜櫃、化妝檯、家用電器及裁縫車等，隨處可見創意巧思。",
+        "Address": "吳鳳南路37巷15號",
+        "City": "嘉義市",
+        "PositionLat": 23.4728615,
+        "PositionLon": 120.4547408,
+        "Phone": [
+            {
+                "Tel": "(05)2255559",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000043",
+        "RestaurantName": "二通672",
+        "Description": "嘉義市中正路，日治時期舊稱為「二通」，為南北貿易往來熱絡的街。擁有71年歷史的二通老屋，是日治的「板仔厝」。木造的樸實空間，以公平交易的雨林咖啡，以及台灣小農的安心品，將延續原木般誠懇的心，繼續傳遞溫馨。",
+        "Address": "嘉義市中正路672號",
+        "City": "嘉義市",
+        "PositionLat": 23.4786891,
+        "PositionLon": 120.443525,
+        "Phone": [
+            {
+                "Tel": "(05)2257770",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000044",
+        "RestaurantName": "這裡個人料理工作室",
+        "Description": "50年代日式木構建築，原是彰化銀行員工宿舍，歷經10多年的空屋，一度僅剩屋頂、2面牆及3個隔板，經過整理之後，以餐廳之姿重生，位於嘉義榮民醫院門診部旁邊的餐廳，由親切的廚師小為師父準備家常菜，營造出回到家的溫馨感。",
+        "Address": "嘉義市吳鳳北路35巷6號",
+        "City": "嘉義市",
+        "PositionLat": 23.4748946,
+        "PositionLon": 120.4536059,
+        "Phone": [
+            {
+                "Tel": "(05)2221167",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000045",
+        "RestaurantName": "被遺忘的府路巷-冰醬營",
+        "Description": "嘉義市國華街181巷通稱「府路巷」，清朝同治年間是嘉義考生進台南府城的趕考的路徑，舊屋力計畫輔導此巷一棟老屋修繕再活用，變身為「冰醬營」。這棟老屋已有43年，是木構與鋼筋混凝土混合建築物，樓梯、2樓地板是木造，還有鏤空雕花鐵窗，都洋溢昔日風情，承租後，請老師傅修繕，拆卸木門、鐵製花窗當壁飾裝置藝術，保留舊時代的氛圍。",
+        "Address": "嘉義市國華街181巷8號",
+        "City": "嘉義市",
+        "PositionLat": 23.4742819,
+        "PositionLon": 120.4483212,
+        "Phone": [
+            {
+                "Tel": "(05)2221167",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000046",
+        "RestaurantName": "Blaxk 布蕾可絲婚紗",
+        "Description": "2014年仲夏，一間與老街道、傳統產業不太相容的影像工作室，悄悄的進駐在嘉義二通，與這裡的居民風格完全不同。他們是布蕾可絲影像工作室。這群以烏鴉為吉祥物的黑衣青年們，在這裡開了一間另類的婚紗影像工作室。他們巧妙的讓工業設計風格與高齡六十年的老房子做了一場對談，打造了一間擁有老靈魂的前衛婚紗影像工作室。在保有原本建築結構的情況下，他們將空間作區隔規劃，就像他們的工作一樣。他們作設計、拍MV、辦展覽、拍婚紗，為了就是能為這座老舊城市帶來新的靈魂。",
+        "Address": "中正路449號",
+        "City": "嘉義市",
+        "PositionLat": 23.4787207,
+        "PositionLon": 120.4481276,
+        "Phone": [
+            {
+                "Tel": "(05)2255169",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000047",
+        "RestaurantName": "PANdora263.ART 潘朵拉工作室",
+        "Description": "希望藉由成立一個平台或空間，能讓全台灣認識嘉義的飲食文化，因此萌生修繕263號的想法。在保留舊有結構前提下，進行修繕，活用老屋中迷人的舊零件，堆砌出帶有藝術氛圍又能使人親近的在地小藝廊，「PANdora263.ART」藝廊雛形，於焉誕生。",
+        "Address": "蘭井街263號",
+        "City": "嘉義市",
+        "PositionLat": 23.4772993,
+        "PositionLon": 120.4481654,
+        "Phone": [
+            {
+                "Tel": "0963227307",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000048",
+        "RestaurantName": "嘉木居",
+        "Description": "在修繕過程中，嘉木居秉持著還原的理念在修理每一個環節，面對腐爛的木造架構我們除了採用同類型的木料更換外，並使傳統的榫接工法修理每一支腐爛樑柱，並於部份原本已呈鬆脫，但仍可使用的結構上做了穩定性加強除現木造房屋有的工藝之美，更兼具了安全性。目標為整修地方特色建築後，再加以整合嘉義文創工作者、 藝術創作者及收藏 家，提供創作及收藏品之展示平台，使民眾與創作 者可直接互動籍由認識展示平台，亦可開設相關教學課程並借由專用之資訊平台推廣嘉義在地文創產業。",
+        "Address": "興中街196號",
+        "City": "嘉義市",
+        "PositionLat": 23.4835584,
+        "PositionLon": 120.4499272,
+        "Phone": [
+            {
+                "Tel": "(05)2750369",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000049",
+        "RestaurantName": "台灣花磚古厝",
+        "Description": "近百年來，霧峰林家、台灣建城總理吳鸞旂…數千位賈商巨富，藉由珍貴的花磚裝點門宅，以彰顯家族富貴。台灣，因此充滿了世界級，珍貴的花磚文化。但在都市化更新中，地價的飛漲導致數千棟花磚老屋逐一被拆除。我們是一群由上班族組成的花磚志工，用二十年的歲月與積蓄，默默為台灣保留數千片百年花磚，並成立修護中心，一步一步在這土地建置完整的資料庫，期待留給後代珍貴的影像紀錄。不只保存，我們也「無償」提供珍貴的花磚，持續支持台灣老屋的修復工作。1. 周三~日開放參觀，時間10:00~12:00 , 2:00~5:00 2. 清潔費50元，可抵消費。3.過年2/17~2/20 正常開館",
+        "Address": "林森西路282號",
+        "City": "嘉義市",
+        "PositionLat": 23.4833579,
+        "PositionLon": 120.4460308,
+        "Phone": [
+            {
+                "Tel": "0979060750",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000050",
+        "RestaurantName": "Le Chat Noir 小黑貓",
+        "Description": "藝術，是最迷人的佐料走進 60 年老屋裡，你不會感到時代的滄桑感，反而充滿著嘉義與法國的藝術融合美感，老空間內綴滿法國帶回古董老件、藝術創作者老闆親手  繪 製 油畫， 店內不定期舉行藝文活動， 邀約台灣藝術家在此展演，甜點手作課、畫展、品酒會，讓這空間裝載許多細膩而躍動的藝術魂。除了帶回法國的空間格調，更帶回家鄉道地口味 - 法式薄餅，純法式軟皮，原本在台灣僅有北部少數五星級飯店才吃得到的甜點，在嘉義卻成為日常。佐上手工果醬，嚴選台灣新鮮水果、阿里山龍眼花蜜、橘子酒等 當地食材，揉合中法美味，甜點搭配法國莊園粉紅汽泡酒，觸動品味基因，  邀你在這裡遇見生活最迷人的佐味。法籍藝術家齊方斯Toph在Le Chat Noir小黑貓法式料理館，以畫展、各式藝文活動、法式料理、葡萄酒作台法文化交流，嘉義市林森東路518號，（05）2775502，0932125244推薦餐點：法式薄餅、法國莊園粉紅汽泡酒、香蕉卡士達塔",
+        "Address": "圳頭里林森東路518號",
+        "City": "嘉義市",
+        "PositionLat": 23.492295,
+        "PositionLon": 120.471423,
+        "Phone": [
+            {
+                "Tel": "0932125244",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000051",
+        "RestaurantName": "舊時光新鮮事",
+        "Description": "「我對於古蹟、歷史文化的保存和文藝欣賞都很有興趣」，「舊時光新鮮事」的執行長張嘉秀，一開始就解釋了為什麼要修復70年老屋，跨領域的經營一家餐廳，「但是我們不能只保留老屋的歷史感，還必須跟著時代的脈動前進」，她又補充店名注入「新鮮事」的原因。對於經營很有自己想法的張嘉秀執行長，堅持要用在地食材入菜及在地特色元素作為內部空間裝飾的主題，不僅讓顧客吃得健康，還能一邊欣賞嘉義的地景及人文之美。例如一樓通往二樓的天花板，由藝術家盧銘世彩繪著阿里山的星空，可以看見整個銀河系；運用民雄古名「打貓」的概念，店內也有許多關於貓咪的擺設和巧思。擁有護理背景的她，將兩層樓的老屋空間發揮得淋漓盡致，一樓作為餐廳使用，二樓的場域不僅保留日式木造原味，還加上不少新的裝置藝術，成為新的社交網絡打卡點。二樓特別規劃了「足浴」的空間，希望可以多多推廣台灣足部照護的觀念。不僅在空間的創造和運用上加入許多創意，餐點的部分也不遑多讓，幾經研發改良的「花朵杯─帶著走的排餐」更是挹注了低碳、環保的用心：利用餅乾基底做出花朵的形狀當作盛放餐點的器皿、以在地食材入菜的套餐更加了不少的古早味元素。在驚呼她對環保的執行上如此用心竭力之餘，張嘉秀執行長不忘補充說道披有金黃起司熔岩的「小豬掌聲鼓勵定食」是近來店內最熱賣的餐點，除了有豬油拌飯的甘甜回味，更有視覺衝擊的驚喜。「食當季，用當地」是張嘉秀執行長一直以來堅持的決心和信念，下次來這裡，不妨一起重溫老屋的舊時光、體驗一下空間營造的創意吧！",
+        "Address": "仁愛路494號",
+        "City": "嘉義市",
+        "PositionLat": 23.4765099,
+        "PositionLon": 120.442194,
+        "Phone": [
+            {
+                "Tel": "(05)2228101",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000052",
+        "RestaurantName": "25×40藝文空間",
+        "Description": "25歲正在台北上班的黃逸蓁，在閱讀了「傷心咖啡店之歌」一書後，想要開一間咖啡店的夢想就這樣萌生了。走過15年的職場生涯後，終於40歲的時候，在嘉義市的中正路完成了夢想。這就是25x40藝文空間兩個數字的命名由來。踏進25x40藝文空間，檜木老屋訴說著他們60年以上的歷史，這也是當黃逸蓁第一眼看到這間老屋時便決定要承租，並花費了三個月的時間進行修繕的原因，挑高沒有隔間的架構，彷彿敞開雙手歡迎任何過路客無意間的拜訪。店內提供的是不定期展覽與販售的文創作品，起因逸蓁就讀研究所時，在探討文創商品時有感許多藝文或是手創人士鮮少有展出作品的機會，因此希望透過提供一個平台可以讓他們的藝文作品能嶄露頭角。除了展售實體商品外，逸蓁也自行策劃各式藝文活動，經常邀請全國知名人士至店舉辦講座、工作坊、音樂會，希望藉由舉辦這些活動促進與活絡嘉義市的藝文交流。 店面的檜木老屋在以前與隔壁棟相連，施工的師傅說屋子使用的檜木是屬於阿里山高檔的木材，無法否認地這間房子以前可能屬於有一定權勢或是經濟地位的屋主。經過時代的更迭，現在這間房屋早已經卸下了它的名利，在碰到逸蓁後，變成嘉義市第一間開放的藝文空間，誠摯的邀請著每一位心中有著藝文花朵的人來到這裡，互相分享自己的美好夢想。推薦餐點：阿里山茶",
+        "Address": "中正路554號",
+        "City": "嘉義市",
+        "PositionLat": 23.4789133,
+        "PositionLon": 120.4466113,
+        "Phone": [
+            {
+                "Tel": "0905188033",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000053",
+        "RestaurantName": "Dadala cafe & stationery",
+        "Description": "Dadala café&stationery，一間坐落在文化路商圈巷弄內的文具咖啡館，店門口有著吸睛的大型文具版，推開木框拉門後，滿室琳瑯滿目的文  具雜貨與木質的家具、地板搭配得十分融洽。吧檯旁拐個彎，便會被三面  可愛的日式文具牆團團包圍，悄悄喚醒你心中的「文具魂」。這裡除了有好喝的咖啡、每日限量手做甜點外，最引人入勝的，就是店主每月親自至日本選購回國的獨特日式文具，為了呈現給顧客文具最美好的一面，常常花很長的時間調整它們在架上排列的模樣，只為了讓顧客可以感受到日式文具療癒人心的一面，咖啡結合文具的生活風格，在這裡被簡單的體現了。推薦餐點：米淇淋、精選單品手沖咖啡",
+        "Address": "延平街 219 號",
+        "City": "嘉義市",
+        "PositionLat": 23.476918,
+        "PositionLon": 120.451135,
+        "Phone": [
+            {
+                "Tel": "(05)2255789",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000054",
+        "RestaurantName": "Morikoohii 森咖啡",
+        "Description": "在一個全由檜木打造的日式建築聚落裡，森咖啡以獨特的美學進駐在最顯眼的入口處，經過５年的時光，孕育成檜意森活村裡最知名的咖啡廳風景。嚴選好的食材與茶具器皿，在文藝飄香的檜木小屋裡，端送給來到嘉義市的旅人一份最美好的感官體驗。店主秉著一股對在地的情愫，店內提供與日本職人伊藤篤臣合作的阿里山咖啡，是旅客每每造訪必點的獨「嘉」飲品。搭配在地好咖啡，好吃的  甜點也不能少，招牌的現煎鬆餅，不管是佐料進口奶油、楓糖，或是冬季新鮮草莓，迷人的奶蛋香與療癒的外觀總令屋內的人饞涎欲滴。另外也有刨冰、雞蛋仔鬆餅等餐點，都是不可錯過的美味。推薦餐點：煎鬆餅、阿里山咖啡",
+        "Address": "共和路 199 巷 1 號",
+        "City": "嘉義市",
+        "PositionLat": 23.486133,
+        "PositionLon": 120.454226,
+        "Phone": [
+            {
+                "Tel": "(05)2761601",
+                "Ext": 2122
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000055",
+        "RestaurantName": "Eleventh Cafe 射日塔景觀咖啡館",
+        "Description": "想要一覽空中 360 度環景，你得先放慢心思、散個步，沿著綠意才能遇到！ Eleventh Café 座落在嘉義公園射日塔 11 樓，享有嘉義市中心難得的廣闊視野，被綠意擁戴著，於是打造了 360 度落地玻璃景觀窗，為空間導入滿滿陽光和綠意，視野一覽無遺，若想把白天綠意 - 午後夕陽 - 星光夜景一次享受，下午 4 點來訪絕對是最佳時刻！自新加坡學成烘焙，將滿滿的甜蜜帶回嘉義小鎮，脆皮泡芙外酥脆、內香甜，現點現擠入卡士達內餡，佐一杯黑糖拿鐵，健康黑砂糖入味，香甜卻不膩口，讓悠閒的您，好好品味其中滋味。Tips!~ 憑射日塔門票於咖啡廳消費，咖啡與飲品可折抵 20 元喔！推薦餐點：脆皮泡芙、黑糖拿鐵",
+        "Address": "公園街 46 號",
+        "City": "嘉義市",
+        "PositionLat": 23.481234,
+        "PositionLon": 120.469115,
+        "Phone": [
+            {
+                "Tel": "(05)2751357",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000056",
+        "RestaurantName": "Casa lounge bar",
+        "Description": "解憂小酒吧　用甜釀換取你的苦悶藏身在大馬路的一角，這裡不僅是一間酒吧，而是能卸下白天面具的秘密空間。台灣愛丁頓調酒大賽冠軍的得主，不在繁華都會的高檔旅館酒吧，而選擇待在他最愛的「嘉」。簡單溫馨的小空間，就是小毛店長每天晚上的專屬舞台，在這裡他用酒杯與客人相會，用杯中純釀與客人談心。小毛店長的拿手絕活，讓人看的目不轉睛，每一杯獨家調製都承載著多  年的經驗。最近愛上的以茶入酒，更是將一身絕技精湛發揮。冠軍飲品「Yin  窨」，採用入口回甘的蜜香烏龍搭上雪豹伏特加，增添了接骨木花香的淡  雅並保留了清新的茶香回甘於喉間，除此之外更有多款調酒大膽加入紅茶  或是抹茶等創新組合，等著旅人來探索品嘗。推薦餐點：調酒比賽冠軍作品《Yin 窨》",
+        "Address": "大雅路二段 512 號",
+        "City": "嘉義市",
+        "PositionLat": 23.477897,
+        "PositionLon": 120.4702,
+        "Phone": [
+            {
+                "Tel": "0922882673",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000057",
+        "RestaurantName": "33+V.",
+        "Description": "來嘉必喝的靈魂聖品咖啡迷來到嘉義市，一定要造訪33+V， 來 到 33+V， 一 定 要 喝 一 杯ESPRESSO。 有「 超人」 綽號的店主深深地熱愛咖啡，甚至與志同道合的夥伴共同發起「火星塞計畫」，希望向更多人推廣咖啡的美好。尤其專研在ESPRESSO 上的他，總是吸引許多慕名而來的小粉絲，坐在吧檯前只為一睹他沖煮咖啡俐落帥氣的身影。店內的咖啡豆都是自己選豆、烘豆，33+V  精心製作的咖啡豆產品往往在還未上架時就已被預訂一空。超人也會依據每款咖啡豆的風味表現，為   他們賦予特殊的命名，「HIPPIE」、「Rainbow」、「蒲公英」、「爵士   風格」等咖啡豆款，每個命名背後都蘊含著超人對咖啡的深情告白，值得   來嘉時細細品味，享受一段咖啡的味覺旅程。推薦餐點：ESPRESSO",
+        "Address": "義教東路 49 號",
+        "City": "嘉義市",
+        "PositionLat": 23.49297,
+        "PositionLon": 120.468734,
+        "Phone": [
+            {
+                "Tel": "(05)2774567",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.33vespacafe.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000058",
+        "RestaurantName": "一間茶屋",
+        "Description": "新和風美味主義座落在檜意森活村、北門車站旁， 延續日式宿舍的文化底蘊與濃濃日本風味，打造一間適合旅途中小憩的日式食堂，入門榻榻米、日式禪風，質樸淡雅的空間氛圍，流露屬於在地文化的風格，大面窗景把自然景觀、採光引入空間，望著檜意森活村的愜意風雅，日式風味再添一筆。這裡不僅是食堂、更是一間茶屋，餐點除了大阪燒、廣島燒等道地料理，  更備上日式紅豆湯，濃醇滋味不甜不膩，選用嘉義陶瓷老師傅手工燒製的  在地陶碗，滿足味蕾兼具手感，現烤日式烤麻糬配上嚴選日本黃豆粉、自   炒黑糖，靜謐裡享用新和風品味學，彷彿來一場日本小旅行。推薦餐點：紅豆湯、阿里山冷泡茶",
+        "Address": "共和路 233 號",
+        "City": "嘉義市",
+        "PositionLat": 23.48719,
+        "PositionLon": 120.454502,
+        "Phone": [
+            {
+                "Tel": "(05)2777882",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000059",
+        "RestaurantName": "大媽蛋糕坊 BIG MOM CUPCAKE",
+        "Description": "在夢幻花海中夢想啟程一跨入蛋糕坊， 頭頂上漫天紫色花海映入眼簾，法式品味桌椅渲染著優雅的夢幻氛圍，加上蛋糕櫃裡繽紛動人的杯子蛋糕，相機立刻拍好拍滿，絕對是網美必拍的首選！不僅以外在的美感動你的眼，又以甜而不膩的滋味感動你的心！店主最喜歡看人吃了美味的蛋糕而露出幸福的笑容，那份成就感，讓自己也跟著幸福了起來。杯子蛋糕隨著時節變換創藝風格，堅持嚴選天然的動物性奶油，嬌貴的選材，必需在特定的溫度下才能掌握住口感與品質，雖然  比較費工卻絕對值得！ BIG MOM 夢想啟程號在嘉義跨出築夢的第一步， 揚起帆，要繼續徜徉在美好的甜點海洋。推薦餐點：可可杯子蛋糕、蜜香紅茶",
+        "Address": "興中街 165 號",
+        "City": "嘉義市",
+        "PositionLat": 23.482794,
+        "PositionLon": 120.450009,
+        "Phone": [
+            {
+                "Tel": "0981970039",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000060",
+        "RestaurantName": "白日夢手作甜品",
+        "Description": "走一條秘境，探索一片甜點森林白日夢手作甜品，若不透過別人介紹，還真的需要費很大的功夫才能找  到這一處隱藏版的可愛甜點店。店面是間超過 50 年的老房子，舊時三合院的規模裡現在有著夢幻療癒的花圃，沿著石子小徑走入店內，各式復古迷   人的家具老件與木造結構搭配的很是剛好，是遠離都市塵囂來頓美好午茶  的絕佳空間。店主鑽研甜點，總是四處奔波精進甜點功夫。店內最招牌的，莫過於每日手作、濃郁誘人的乳酪蛋糕，每一口都是店主嚴選食材、搭配當季水果，推出令客人驚喜的味道！另外也別忘了要來一杯店內的阿里山茶或是手沖咖啡，給自己一個完美的甜蜜饗宴！推薦餐點：乳酪蛋糕、水果茶",
+        "Address": "大雅路二段 490 巷 2 號",
+        "City": "嘉義市",
+        "PositionLat": 23.477985,
+        "PositionLon": 120.470677,
+        "Phone": [
+            {
+                "Tel": "(05)2752322",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000061",
+        "RestaurantName": "老院子1951想喝",
+        "Description": "踏著回憶的步伐，人文尋味1951 年蓋的這座院子，懷舊而充滿記憶的味道，店主將老物老件再利用，復古腳踏車搭配洗石子洗手台，鐵花窗、漂流木改造成鐵門、吧檯，   改寫全新的院子故事，兼具環保理念與手作工藝，院子植滿花草、療癒系  多肉植物，洋溢著滿滿愜意氣息。不僅建築手作改造，餐點也從食品本質開始要求，糖親手熬煮、茶品選用不加香精茶葉，香氣天然而無負擔，老院子手沖咖啡嚴選瓜地馬拉、耶加雪菲咖啡豆， 搭配檸檬塔，使用小農友善栽種的好食材，在嘴裡迸發酸甜的戀愛滋味，真材實料的老院子，不僅想喝、更想好好品味一番。推薦餐點：檸檬塔、老院子手沖咖啡豆",
+        "Address": "成仁街 201 號旁",
+        "City": "嘉義市",
+        "PositionLat": 23.481106,
+        "PositionLon": 120.45187,
+        "Phone": [
+            {
+                "Tel": "(05)2271951",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000062",
+        "RestaurantName": "玖 CAFÉ",
+        "Description": "咖啡與綠意飄香的品味空間當一間 60 年的舊屋，遇上綠色植栽、乾燥花、有質感的吧檯桌椅， 以及迷人的好咖啡，搖身變成一座嘉義市區裡的小花園。玖咖啡的命名來自於店主的生日，為了讓更多人感受到咖啡帶來的悸動，選擇在家鄉開業，創造了這一個兼具現代感與舒適氛圍的空間。店內的招牌同名咖啡「玖」不帶酒精，是啤酒花與咖啡因合璧的絕佳風味，入口便會讓人深深上癮。店內提供虹吸、冰滴、手沖 3 種不同的咖啡沖煮方式，甚至加入氮氣讓咖啡的口感更加驚喜。招牌甜點提  拉米蘇也是一道精緻可口的甜點，店內還經常舉辦各式活動與課程，邀請  每個人一起踏入這一個奇幻有趣的咖啡叢林！推薦餐點：玖咖啡、提拉米蘇",
+        "Address": "興業東路 387 號",
+        "City": "嘉義市",
+        "PositionLat": 23.469841,
+        "PositionLon": 120.458515,
+        "Phone": [
+            {
+                "Tel": "(05)2162626",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000063",
+        "RestaurantName": "享物手作烘焙。咖啡",
+        "Description": "讓吐司成為每日最簡單的美味悸動在食安問題令消費者人心惶惶的時代裡，店長帶著對烘焙與咖啡的熱情回嘉，她對於開店有一個最簡單的堅持－想給客人最 純粹與天然的食物味道。因此店內每日提供限量的手作吐司，都是採用單一牧場鮮乳跟天然食材製成，在店內飄散剛出爐的麵包香，最簡單、最天然、也是最原味，每日吐司口味不盡相同，鮮乳、蔓越莓、抹茶紅豆、芝麻，每一種都讓人驚喜。店內的咖啡經過店長嚴格把關，端給客人的是品質穩定的優質義式與單  品咖啡；甚至與農家合作，讓不喝咖啡的客人也能啜飲一杯無添加農藥的   花草茶。店內的甜點櫃裡每日登場的都是甜蜜又驚艷的饗宴，在靜謐的社   區小巷內，這裡販售的是最單純的食物美好。推薦餐點：芝麻鮮乳吐司、手沖單品",
+        "Address": "維新路190巷2弄1號",
+        "City": "嘉義市",
+        "PositionLat": 23.489997,
+        "PositionLon": 120.457509,
+        "Phone": [
+            {
+                "Tel": "(05)2713958",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000064",
+        "RestaurantName": "常常手作",
+        "Description": "嚐嚐一道用心樸實的手作溫暖若在檜意森活村附近，想要找個舒適、沒有壓力的閒坐空間，不如踏些步伐，造訪這間可愛溫馨的鹹派與甜塔專賣店。常常手作的兩位店主因秉持「喜愛烘焙」的初心，將一座座手作的派塔， 經過最合適的烘烤溫度，佐料豐富的食材，呈現給客人最樸實卻也最感動的料理。店內的招牌鹹派有味噌豬五花與大阪燒口味，因為用料紮實，小   小一個就可以給人飽足感。創意十足的甜點「憨吉蒙布朗」，搭配在地地瓜、   奶油與甜塔皮，口感層次豐富，金黃的外觀也很療癒，還有奶茶控不能錯   過的鮮奶茶系列，嚐一口就讓人停不下來。常常並沒有奢華炫麗的料理，    只有一口接著一口最真誠的食物感動。推薦餐點：憨吉蒙布朗、大阪燒鹹派、紅豆鮮奶茶",
+        "Address": "忠孝路 336 號",
+        "City": "嘉義市",
+        "PositionLat": 23.488843,
+        "PositionLon": 120.453512,
+        "Phone": [
+            {
+                "Tel": "(05)2765830",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000065",
+        "RestaurantName": "提娜多咖啡",
+        "Description": "循著咖啡香，環遊全世界這是一座檜木洋樓，古樸的文化大宅， 品味裡傾訴著在地的故事，是許多老嘉義人回憶的所在，伴隨著一陣陣咖啡香飄來，為檜木洋樓寫下新時代的記憶。老闆為咖啡代工專門，嚐遍來自世界精品莊園的咖啡豆，希望讓世界精品咖啡能普及到生活日常，平價就能享受到，喝咖啡變成輕鬆休閒的代名詞。店內招牌冰釀咖啡，精心特製 5 天粹釀 ( 一般常見為 3 天製成 )，更費時費工，量少質，喚醒細膩的咖啡味蕾，喝過的客人 100% 回流、口碑相傳，時常供不應求呢！烤雞腿排 Brunch 也是大大推薦，早午餐罕見的現烤料理，耗時費工，但新鮮 juicy 上桌，和冰釀咖啡一樣絕對值得一等。推薦餐點：冰釀咖啡、烤雞腿排 Brunch、莓果法式磚牆",
+        "Address": "公明路 167 號",
+        "City": "嘉義市",
+        "PositionLat": 23.480039,
+        "PositionLon": 120.454872,
+        "Phone": [
+            {
+                "Tel": "(05)2287787",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000066",
+        "RestaurantName": "Black Rust 黑鏽手作輕食",
+        "Description": "輕工業 mix 小清新無需太大的空間，也能創造出黑鏽專屬的「微格調」！略帶粗獷的輕工業風，搭配上小清新乾燥花束、藝術畫作，簡約卻深具風格，創造出特別的空間感受，網美、部落客必拍首選。店主因為喜歡到處品嚐精緻的美食，想把心目中美好的味道分享給大家，於是用雙手留住甜點的美味記憶，要讓好味道在此持續發光、發熱。主推薦檸檬冰咖啡，濃淬咖啡不加水，添加有機黑糖、新鮮現榨檸檬，入口時就像檸檬紅茶般的滑順，  後韻是一股淡淡咖啡香氣，風味清爽獨具魅力，限定甜點－甜甜圈鬆餅，  外酥內嫩、蓬鬆口感，無論是原味，還是佐上水果、抹茶，都是這個午後  最不容忽視的甜蜜存在。推薦餐點：甜甜圈鬆餅、檸檬冰咖啡、比利時巧克力塔",
+        "Address": "北門里吳鳳北路 338 號",
+        "City": "嘉義市",
+        "PositionLat": 23.484643,
+        "PositionLon": 120.45238,
+        "Phone": [
+            {
+                "Tel": "0979633338",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000067",
+        "RestaurantName": "聖塔咖啡",
+        "Description": "邂逅厄瓜多，滿園玫瑰香聖塔從咖啡進口、烘焙、沖煮源頭把關做起，一條龍式的咖啡專門店， 積極參與嘉義大學咖啡社創始、世界咖啡調酒大賽，不僅是分享的心，更有道不盡的執著與驕傲。黑咖啡原味淬取、世界各大產區豆匯聚在此，各自獨到的『Terroir』－ 法文代表著風土之意，像紅酒、茶葉一樣會根據每一產地的陽光、土壤、雨水、風與咖啡師之間的對話，造就  每一滴獨特風味，聖塔獨有的玫瑰莊園咖啡，就深入產區與厄瓜多咖啡小   農契作，吸取了當地盛產玫瑰的香氣，帶有一絲優雅花香，配上自有甜點  工作室，以手作檸檬塔、抹茶塔、戚風蛋糕最受歡迎，聖塔用心堅持的好  風味，絕對要你驚艷又美味。推薦餐點：玫瑰莊園咖啡、抹茶塔、起司塔",
+        "Address": "興中街 10 號",
+        "City": "嘉義市",
+        "PositionLat": 23.475206,
+        "PositionLon": 120.451816,
+        "Phone": [
+            {
+                "Tel": "(05)2282025",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000068",
+        "RestaurantName": "點。甜點",
+        "Description": "Tiffany 藍的甜點小屋一間洋溢著少女心的甜點小屋，裝扮著 Tiffany 藍的夢幻色彩，優雅地坐落在民權路的車水馬龍中，清新簡單的外表在旁邊的民宅中顯得更加脫俗。店主從零開始，秉著法式甜點的夢想，甚至出國上課精進自己的功夫，終於創作出櫥窗內一道道精緻美味的甜點。店內的甜點不僅口味完美，外觀也非常吸睛。「火焰」有著耀眼的大紅  色，包覆玫瑰與覆盆莓的多層次風味；「檸檬」外觀的擬真度一百分，爆  滿的酸甜內餡有如戀愛的滋味；獨家的閃電泡芙，繽紛的口味讓人陷入選  擇障礙。搭配店主特別與阿里山茶農合作的珠露烏龍茶，茶葉的清香柔和  口中的甜味，是一個極致的完美法式組合。推薦餐點：火焰、檸檬、珠露烏龍茶",
+        "Address": "民權路 300-3 號",
+        "City": "嘉義市",
+        "PositionLat": 23.482606,
+        "PositionLon": 120.451421,
+        "Phone": [
+            {
+                "Tel": "(05)2770093",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000069",
+        "RestaurantName": "傲漫手感烘焙工作坊",
+        "Description": "最引以為傲的手作驚喜Angela 與 Eric 原本僅是工作同事，因為共同擁有一個喜愛烘焙的魂， 讓兩人決定共同創業，原先是以工作室性質開始，但因為更想看到客人吃  到餐點後露出的幸福笑容，因此轉變為咖啡甜點店的型態，開啟了「傲漫  手感烘焙工作坊」的新旅程。店內的甜點麵包皆為親力親為，每天尚未營業前的時間就是兩人埋首做糕點的時光，主打手作千層蛋糕，搭配不同食材而堆疊出層層的美味。店內甜點皆以清爽鮮奶油為基底並且降低甜度，減輕腸胃負擔；架上熱門的每日限量麵包則是使用親自培養的酵母發酵而成；最熱門的飲品「啡檸不渴」由單品咖啡加上現榨檸檬汁、黑糖蜜調和，杯緣  抹上砂糖，為入口的咖啡添加了酸甜驚喜滋味，口感有如喝調酒一般令人   上癮，是夏季必點單品。推薦餐點：千層蛋糕、啡檸不渴",
+        "Address": "公明路 102-1 號",
+        "City": "嘉義市",
+        "PositionLat": 23.480702,
+        "PositionLon": 120.459542,
+        "Phone": [
+            {
+                "Tel": "0963520023",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000070",
+        "RestaurantName": "愛夫夫咖啡ifufucoffee",
+        "Description": "平價時尚 hen 可以愛夫夫咖啡提供一個舒適的空間，佐以不簡單 的美味、平易近人的價格，讓人可以每天都來造訪。這裡同時也是一間寵物友善咖啡館，店名來自柯基犬店狗「魯夫」，超萌的模樣總是擄獲許多顧客的芳心。咖啡系列全面使用星巴克咖啡豆，最夯飲品「雲朵拿鐵」在黑咖啡上注入厚厚一層濃密奶泡，宛如落在咖啡上搖曳的雲朵，入口綿密、濃醇的奶香讓人好享受。搭配一份招牌「童話鬆餅」，現做鬆餅佐料鮮奶油、水果，還有店主親自手繪的彩色圖樣，   可依照客人心願客製化，為用餐增添許多趣味。從清晨到夜晚，愛夫夫咖  啡以最實在的價格，回饋客人最精選的美味。推薦餐點：雲朵拿鐵、童話鬆餅（客製圖案須事前預定）",
+        "Address": "忠孝路 552-1 號",
+        "City": "嘉義市",
+        "PositionLat": 23.494245,
+        "PositionLon": 120.452824,
+        "Phone": [
+            {
+                "Tel": "(05)2759119",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000071",
+        "RestaurantName": "猫咪文創館",
+        "Description": "愛貓人士絕不能錯過！身為貓奴的店主，想要收容流浪貓的想法成為開店的初衷，店內除了販售貓咪周邊精品外，還有 9 隻不怕生的貓咪駐店， 可愛的模樣收服每位顧客的心。逗弄貓咪之餘還可以嚐嚐這裏的手沖單品，咖啡豆皆從國外挑選，加上自烘混搭，每一款都有其獨特香氣及特色。「莫札特」是招牌之一，帶有清淡的果酸味，與店內超高人氣的  法式甜點—巧克力蛋糕搭配，呈現法式午茶的美好滋味；焦糖鮮奶茶則是  另一款深受歡迎的飲品，經特調的焦糖比例，不僅不膩口，還完美地與茶  味結合，讓人一喝就愛上。想要品嚐特別又顛覆想像的咖啡嗎？來這裡絕  對不會失望！推薦餐點：莫札特單品、焦糖鮮奶茶、巧克力蛋糕",
+        "Address": "中山路 43 號",
+        "City": "嘉義市",
+        "PositionLat": 23.482625,
+        "PositionLon": 120.460106,
+        "Phone": [
+            {
+                "Tel": "(05)2781236",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000072",
+        "RestaurantName": "Ruby夫人吃●做●買",
+        "Description": "烘焙專門的先生 + 設計系出身的太太， 手牽手創造出有趣多元的親子同享空間！擁有專業烘焙及廚藝師資，還有現正熱門、大小朋友都愛的親子手作體驗。店內設有門市販售嚴選食品原料，玩累、逛累了還有餐廳供應精緻餐點與悠閒下午茶。就位於嘉義後火車站，好吃好喝、好逛好買！趕緊一起來吃喝玩樂啦！店內人氣首選，當然是滿足視覺與味蕾雙重感受的崩潰蛋糕系列。綿密  的蛋糕體包裹著特製內餡，搭配口感香脆的酥菠蘿創造絕配滋味，清爽奶醬一傾而下，一定要抓準時機才能拍上一瞬間的甜點美照！四種口味的崩潰蛋糕以及多種精緻餐點料理等您來品嘗！推薦餐點：檸檬塔、紫薯拿鐵",
+        "Address": "遠東街 50 號",
+        "City": "嘉義市",
+        "PositionLat": 23.485449,
+        "PositionLon": 120.436894,
+        "Phone": [
+            {
+                "Tel": "(05)2313168",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000073",
+        "RestaurantName": "Oi  Griddle Cakes 美式鬆餅",
+        "Description": "走進這間檜木老屋，自然外露的木造結構、堆砌的牆面， 訴說著自己動手改造的點滴故事， 沒有過度的加工， 裡頭住著最純粹的初心：『簡單，但只作最好』。每一道餐點都是手作用心推出，從炒糖漿、漢堡肉、到麵包都是手工自製，食材嚴選台灣小麥、麵粉、油品等，均無添加，自己培養水果酵母，鬆餅不加奶油改用芥花油，逼出更健康質樸的原味，回歸麵粉的自然清香口感，把簡單的鬆餅做到不簡單。佐一杯非基改黃金   豆漿，100% 現點現磨，含有黃金豆渣的濃厚風味，讓人喝過一口就難忘。『Oi』代表著加油打氣的意思，就像是現做的美味餐點，能讓每一天都充滿活力！推薦餐點：美式鬆餅、黃金豆漿",
+        "Address": "西門街 92 之 1 號",
+        "City": "嘉義市",
+        "PositionLat": 23.474335,
+        "PositionLon": 120.443595,
+        "Phone": [
+            {
+                "Tel": "(05)2259656",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000074",
+        "RestaurantName": "小老闆甜品店",
+        "Description": "2 位社會新鮮人當起了小老闆， 在輕工業風的店裡頭，覓得一片甜品新天地。其實初衷很簡單：「我們只是想做，讓人吃了可以開心一整天的甜品！」於是精心講究甜品食材，堅持純手工製作，賦予傳統豆花、奶酪不一樣的新滋味。店內豆花以非基因改造黃豆磨製，湯底不加糖水，取而代之配上濃郁豆漿，吃起來更加濃醇香，搭配一口招牌萬丹蜜紅豆，更是絕美滋味。奶酪  則以在地牧場直送牛奶，最新鮮、無防腐劑添加，從源頭把關好食安問題，  讓客人用得安心、也品到真心，就座落在文化夜市延平街裡，小小的店頭，有著對甜品的大大理想，只要嚐一口，就要你甜蜜無窮。推薦餐點：萬丹蜜紅豆、奶酪",
+        "Address": "延平街 242 號",
+        "City": "嘉義市",
+        "PositionLat": 23.476904,
+        "PositionLon": 120.449654,
+        "Phone": [
+            {
+                "Tel": "(05)2167557",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000075",
+        "RestaurantName": "五木咖啡店",
+        "Description": "輕工業風 Coffee Bar五木的起源，源自嘉義、源自家傳三代的木業根本，又位於林森路上， 便以『五木』思源，從家的源頭朝夢想出發！從外面看進店，還以為是間酒吧呢！輕工業風結合鐵件與木作，酒吧式的空間裡，卻瀰漫著濃濃咖啡香，沉浸在微醺的燈光氛圍，來杯咖啡特調 - 顛倒世界，你沒見過的創意特調， 以藍柑橘襯出藍色基調、一層牛奶、一層 Espresso 層次口感，好似調酒一樣杯杯驚豔！甜點畫盤也是人氣超夯的店內招牌，當天現做的比利時鬆餅每每上桌，伴著小美人魚、玩具總動員等趣味手繪，為午後的美味更添風味，趁著悠閒的午後，來『五木』品一杯咖啡特調吧！推薦餐點：咖啡特調 - 顛倒世界： 藍色藍柑橘邂逅牛奶和Espresso，賦予咖啡全新生命力，不只咖啡濃郁，再添上口感層次， 反轉你對咖啡的印象。",
+        "Address": "林森西路 193 號",
+        "City": "嘉義市",
+        "PositionLat": 23.483156,
+        "PositionLon": 120.446459,
+        "Phone": [
+            {
+                "Tel": "(05)2288073",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000076",
+        "RestaurantName": "The Origin 初咖啡",
+        "Description": "咖啡是理想，意志是雙腳，促使不斷向前進的力量，讓『初咖啡』在這廣闊的咖啡叢林，尋回心中最原初的那片風景單品手沖咖啡英文為 single origin， 取 origin 的精神， 要找回最原始簡單的咖啡原味，和你分享。精選自世界十大產區的單品咖啡豆，自家烘焙，萃取專屬『初咖啡』的單品風味，除了有手沖、虹吸以及義式濃縮等多元咖啡選擇， 還有特調咖啡加上碳酸氣泡水，創造具有啤酒口感的咖啡新體驗，豐富的口感層次，值得一試！ 最美的是，在店內大面乾燥花牆前， 來一片每日限量野莓重乳酪， 手工熬煮藍莓果醬，愜意 100%，歡迎愛喝咖啡的你一起來品咖啡、談夢想、享生活。推薦餐點：單品手沖咖啡、野莓重乳酪、利姆冒泡泡",
+        "Address": "力行街 15 號",
+        "City": "嘉義市",
+        "PositionLat": 23.473573,
+        "PositionLon": 120.437949,
+        "Phone": [
+            {
+                "Tel": "0923853861",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000077",
+        "RestaurantName": "小紅帽義式冰淇淋",
+        "Description": "你相信嗎？！真的有 100 種以上的口味提案呢！從嘉義山葵、小米酒、紅火龍果、烏魚子、達邦部落茶等在地農特產， 到蝶豆花、加拿大楓糖等琳瑯滿目的口味，每一道都是用心琢磨，透過客人的味蕾肯定。隨著四季產季變換口味，只用新鮮原料製作，最特別的莫過於阿里山香糖堅果口味，以高山甘蔗熬製，每一口都是獨家風味，不斷創造出視覺與味覺的甜蜜享受。『小紅帽』相信以最簡單、最純粹的食材，才能賦予餐點最好的風味，店內冰淇淋、無糖優格、現烘咖啡皆手工製作，咖啡豆自家烘焙，優格以純鮮奶製作，無添加膠質、奶粉，創作出低脂、低熱量，卻好美味、好幸福的滋味！推薦餐點：阿里山香糖堅果冰淇淋、漂浮冰咖啡由當季水果、在地農特產製成的低脂、低熱量義式冰淇淋，獨家「阿里山香糖堅果」 口味佐料珍貴的阿里山香糖，來嘉一定要吃。",
+        "Address": "友和路 95 號",
+        "City": "嘉義市",
+        "PositionLat": 0.0,
+        "PositionLon": 0.0,
+        "Phone": [
+            {
+                "Tel": "(05)2313560",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000078",
+        "RestaurantName": "南馨食品店",
+        "Description": "傳承一甲子的嘉鄉味創立於 1953 年，在嘉義已經走過半個世紀，嚴選新鮮食材手工精製而成的營養美味，傳承日治時代父親跟著日本人所學的餅藝，從最早的羊羹，到饅頭、雪花餅、甘藷及創新方塊酥。其中帶有復古滋味的南馨雪花餅，選用上等奶油為夾心，有檸檬與鳳梨兩種風味，表面撒上一層糖霜，狀似雪花故而得名，軟軟綿綿，入口即化，夏天亦可冷凍後食用，口感有如冰淇淋蛋糕。是一個陪我們走過 60 個年頭的嘉義好滋味。推薦伴手禮 : 南馨雪花餅",
+        "Address": "吳鳳北路 358 號",
+        "City": "嘉義市",
+        "PositionLat": 23.485084,
+        "PositionLon": 120.452319,
+        "Phone": [
+            {
+                "Tel": "(05)2716358",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000079",
+        "RestaurantName": "奮起福餅創始店",
+        "Description": "寶寶的幸福米餅，自然食材的純真滋味「奮起福」是嘉義青年所創立的嘉義文創品牌，是一間全以「台灣米」為創作出發點的特色店家，主要販售以米製餅乾為主，「單純無添加物，用心做適合全家人吃的米餅」是品牌核心精神。門市位於嘉義檜意森活村內，產品從嬰兒到大人吃的米餅都有，禮盒設計方面皆以嘉義阿里山特色為設計意象，並結合嘉義在地農特產 - 山葵融入傳統米香，設計出特殊風味的黃金山葵米磚，在 2019 年榮獲有著「食品界米其林」稱號的比利時 ITQI 絕佳風味獎，是台灣第一家以傳統點心 - 米香在國際大賽上參加獲獎的特色店家。推薦伴手禮 : ITQI 絕佳風味獎 - 黃金山葵米磚",
+        "Address": "共和路 378 巷 3 號",
+        "City": "嘉義市",
+        "PositionLat": 23.486003,
+        "PositionLon": 120.454558,
+        "Phone": [
+            {
+                "Tel": "0900770117",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://fenchifu.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000080",
+        "RestaurantName": "北門森鐵故事館",
+        "Description": "包進嘉義歷史典故的台灣餅北門森鐵故事館為推廣嘉義城市觀光而成立，館內獨家的特色伴手禮 - 桃城太平餅，其歷史典故源自於清朝發生於嘉義的守城之役，糧空又無外援時，軍民搗龍眼核充飢盼早日太平，故取同名為「太平餅」。桃城太平餅的食材內餡，採用知名的台南東山煙燻龍眼，果肉飽滿甜度適中，並搭配加州核桃，融合東西方的食材。獲經濟部表揚為全國百大商圈好店，且榮獲嘉義市國家環境教育獎特優，已成為在地非常具代表性的知性觀光景點。推薦伴手禮 : 桃城太平餅 ( 桂圓核桃酥 )",
+        "Address": "共和路 239 號",
+        "City": "嘉義市",
+        "PositionLat": 23.487307,
+        "PositionLon": 120.454592,
+        "Phone": [
+            {
+                "Tel": "(05)2758339",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000081",
+        "RestaurantName": "許家班糕餅舖有限公司",
+        "Description": "諸羅之寶，餅中珠寶歷史風華的諸羅城，內蘊豐富的人文與物產寶藏，故以「諸寶盒」作為產品系列主題。冰鎮綠豆糕，是突破傳統的創新點心，以純綠豆製作外皮，再以台灣在地天然食材 , 一改傳統綠豆糕入口乾澀、容易成塊的缺點，以冰鎮方式，可嚐到完整風味的食材，保有綿密口感少了黏嘴黏牙，入口即化，令人驚艷。許家銘餅鋪用心打造的諸寶盒，突破傳統做法使用在地食材，以阿里山高山烏龍茶配許家銘餅舖冰鎮綠豆糕推廣「一杯茶一塊糕，茶食文化」。堅持以製作給家人食用點心的概念，均使用新鮮食材，不含防腐劑，包裝不置放乾燥劑，所以需冷凍或冷藏。推薦伴手禮 : 諸寶盒",
+        "Address": "新生路 655 號",
+        "City": "嘉義市",
+        "PositionLat": 23.49367,
+        "PositionLon": 120.4569,
+        "Phone": [
+            {
+                "Tel": "(05)2770888",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000082",
+        "RestaurantName": "黃金客手工蛋捲",
+        "Description": "黃金般的千層酥餅，陽光般的美妙滋味嘉義除了方塊酥、火雞肉飯，「蛋捲」也可以是嘉義另一項代言產品，黃金客手工蛋捲透過巧手傳達「幸福手捲滋味」，讓愛吃蛋捲的您都能吃到安心，這裡沒有華麗的包裝及裝潢，呈現最原始及樸實的味道，堅持純手工製作最幸福的口感，創造好的口碑及品質，顛覆一般蛋捲的形狀，將蛋捲變形製作出多層次的口感，讓蛋捲的長相及口感製造出新型蛋捲「千層酥餅」，包裝以方便攜帶的小桶裝，搭配禮盒送禮超體面。推薦伴手禮 : 黃金客千層酥餅",
+        "Address": "新生路741號",
+        "City": "嘉義市",
+        "PositionLat": 23.495818,
+        "PositionLon": 120.454454,
+        "Phone": [
+            {
+                "Tel": "(05)2776442",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.golden-eggroll.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000083",
+        "RestaurantName": "犬行燒",
+        "Description": "烤蛋糕的專家嘉義在地特色商品，也是全台唯一擁有專利的狗形狀蛋糕，食材精心挑選，融合台灣在地農產品元素，口味創新且獨樹一幟，深受各界民眾喜愛，以及美食節目的青睞。犬行燒極力將品牌深耕嘉義打造在地文化特色之商品，亦為如此，今年更是研發出嘉義經典小吃「火雞肉飯口味」目的就是要讓前來嘉義旅遊的朋友們能感受到，這城市獨一無二的魅力。推薦伴手禮 : 犬行燒",
+        "Address": "中山路 178 號",
+        "City": "嘉義市",
+        "PositionLat": 23.48128,
+        "PositionLon": 120.452377,
+        "Phone": [
+            {
+                "Tel": "0906575393",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000084",
+        "RestaurantName": "林聰明沙鍋魚頭",
+        "Description": "聰明傳家燴，在地好滋味林聰明沙鍋魚頭 - 嘉義特產獨家口味擁有 60 年歷史的特色小吃。每天從早上熬煮豬骨高湯至下午，超過 10 小時以上的特熬，從白白的湯底色熬製成濃濃豆漿色般的獨家極品高湯，魚頭採用新鮮運送，隻隻肥美的大頭活鰱魚，自鰓上取豐厚的魚頭，魚身採魚中、魚尾切塊，炸至金黃色，外表香酥肉汁美味。濃濃的高湯佐以精選的大白菜、木耳、蝦米、豆腐、豆皮、蒜頭、辣椒、蔥、豬肉及獨家配方，再加上特製的沙茶醬，最後放入炸好的魚頭、香濃醇口有點辣又不會太辣的味道，總是令人垂涎三呎，一嚐成主顧。推薦伴手禮 : 招牌沙鍋魚頭禮盒組",
+        "Address": "中正路 361 號",
+        "City": "嘉義市",
+        "PositionLat": 23.478776,
+        "PositionLon": 120.450247,
+        "Phone": [
+            {
+                "Tel": "(05)2270661",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.smartfish.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000085",
+        "RestaurantName": "三哥肉鬆肉乾食品",
+        "Description": "屬於你我的東市場回憶嘉義市是棒球原鄉，「KANO」電影是以嘉義農林學校棒球隊為主題拍攝，上映後票房長紅，蔚為風潮，「一球入魂」「不要想著贏，要想不能輸」成為精神標語。以棒球主題融入禮盒設計，以肉乾結合棒球概念發想出強棒活力條、先發豬肉角、得分豬肉乾，以吉祥物搭配棒球比賽元素，搭配罐裝及抽屜盒組合而成，以「強棒出擊！棒球魂底嘉」為主題，推廣美味產品及伴手禮，進而行銷嘉義市，讓來嘉玩的遊客知道嘉義市的美食、景點、伴手禮。推薦伴手禮 : 強棒出擊！棒球魂底嘉",
+        "Address": "蘭井街 75 號",
+        "City": "嘉義市",
+        "PositionLat": 23.477933,
+        "PositionLon": 120.454855,
+        "Phone": [
+            {
+                "Tel": "(05)2292813",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "http://www.thbro.com.tw/index.php",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000086",
+        "RestaurantName": "可味肉乾",
+        "Description": "陪伴嘉義人半世紀的好味道在地經營 50 年老店；產品皆採用溫體豬肉製作，革命性的卡脆肉紙，最薄處只有 0.01cm，薄如蟬翼，只脆你口，老人小孩都適合，正宗台灣溫體豬搭配加州杏仁。滿足大口吃肉慾望的肉乾條，1cm 的厚度，整條肉乾下去烘烤，均勻受熱，將每一面的肉汁都鎖住，肉質 Q 彈香嫩，厚度十足。可微波 8 秒，即可享有彷彿現烤的肉乾，市面上唯一可加熱的肉乾。創下每 10 秒賣出一包的佳績。推薦伴手禮 : 肉乾禮盒",
+        "Address": "中正路 238 號",
+        "City": "嘉義市",
+        "PositionLat": 23.479418,
+        "PositionLon": 120.454146,
+        "Phone": [
+            {
+                "Tel": "(05)2277861",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://www.kewei1967.com/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000087",
+        "RestaurantName": "天養茶園 - 茶己",
+        "Description": "有多久沒有靜下心來，與自己相處一個午後的悠閒？『茶己』邀請你來為自己沖一杯好茶、好好喝杯茶。每項茶品都有著如詩一般的名字和故事，純真稚子 - 綠茶、時光旅程 - 烏龍茶等皆源自阿里山茶園老師傅之手，採自然農法、自然堆肥，保留茶葉無農藥、最純粹的風味，最特別的莫過於輕輕  一抹紅 - 蜜香紅茶，源自小綠葉蟬叮咬過茶菁所產生的花果蜜香，好似被親吻過的少女，臉頰抹上羞澀的紅暈，是不是很有意境呀！好茶還需有小點陪襯，手工綠茶乳酪蛋糕、紅茶餅乾、自然甜紅茶一口  捲為茶品增添微甜滋味，這個悠閒的午後，佐上一杯天養好茶，尋得一方  心的靜謐。推薦餐點：紅茶一口捲、輕輕一抹紅 - 蜜香紅茶、山豬嫩芽紅茶",
+        "Address": "博愛路二段 69 號",
+        "City": "嘉義市",
+        "PositionLat": 23.48313,
+        "PositionLon": 120.44073,
+        "Phone": [
+            {
+                "Tel": "0937208399",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000088",
+        "RestaurantName": "原來義大利麵",
+        "Description": "溫馨的室內空間，配上溫暖的燈火， 洋溢著猶如家一般的安心舒適感。大面玻璃窗讓白日暖陽進來散步，整個空間跟著天空一同被點亮。八年級生的老闆們一同創業，想將食物單純的美味透過西餐料理傳達出去，用平易近人的價位，讓大眾都能輕鬆享用最可口的菜餚。店內餐點主打義大利麵，更有燉飯及甜點咖啡，在這裡能夠享受悠閒的用餐時光。店裡的招牌菜餚是從視覺上就讓人垂涎欲滴的嫩煎牛佐菌菇義大利麵，精選牛里肌煎至剛好的熟度，表層鎖住醬汁，紅中帶嫩，入口即化的口感，銷魂不已，再佐上精心熬煮的紅酒醬，酒香與肉汁的結合，將美味提升至全新境界。推薦餐點：嫩煎牛佐菌菇義大利麵、煙花墨魚海鮮麵",
+        "Address": "仁愛路 88 號",
+        "City": "嘉義市",
+        "PositionLat": 23.466392,
+        "PositionLon": 120.441963,
+        "Phone": [
+            {
+                "Tel": "(05)2858180",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000089",
+        "RestaurantName": "鈺泉齋",
+        "Description": "隱身於國華街上的鈺泉齋， 一不小心很容易就錯過。外觀雖然不起眼，但店內卻別有洞天， 感受到的不僅是老闆娘的熱情，還有對於茶品質的堅持與專業。秉持著「友善大地」的理念，店內販售的商品都取自天然、有機、當地當季的原料，為的就是讓顧客安心又放心的食用。洛神紅茶與紅蘋果茶是推薦的隱藏版飲品， 採用在地小農種植的有機洛神襯托出紅茶的清香，形成一股酸酸甜甜的戀愛滋味；而紅蘋果茶 則採用整顆蘋果製成，新鮮、甜美的味道滿足挑剔的味蕾。純手工製作的黑芝麻巧克力也是店內必嚐的甜點之一，不管與哪一款飲品搭配，都是絕妙的下午茶組合。推薦餐點：洛神紅茶、紅蘋果茶、黑芝麻巧克力",
+        "Address": "國華街 62 號",
+        "City": "嘉義市",
+        "PositionLat": 23.475025,
+        "PositionLon": 120.449039,
+        "Phone": [
+            {
+                "Tel": "0913777818",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000090",
+        "RestaurantName": "Cemas Kakanen 時祐食品",
+        "Description": "No Chocolate, No Life!Cemas Kakanen 是台灣在地的職人巧克力專賣品牌，品牌採用屏東在地可可與日本嚴謹技術，並堅持「Tree to Bar」理念，從產地到餐桌，均以研發兼具高品質與台灣在地文化的巧克力為職志。致力於從樹到磚的巧克力製成研發，在保持台灣可可原始風味下，搭配不同的發酵法，專注提供台灣風味的手工巧克力與甜點，期許每個顧客都能體會到巧克力風味的深邃，擁有不同的情境享受。以最簡單的材料呈現原始的精彩，產地直送可可豆，純粹是從 0 到100 的追求，台灣莓果風味可可豆 + 台灣鳳梨乾與鳳梨醬 = 完美的黑金鳳梨酥。推薦伴手禮 : 黑金鳳梨酥",
+        "Address": "民族路 123 號",
+        "City": "嘉義市",
+        "PositionLat": 23.476699,
+        "PositionLon": 120.458139,
+        "Phone": [
+            {
+                "Tel": "(05)2762319",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://www.cemaskakanen.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000091",
+        "RestaurantName": "匠咖啡",
+        "Description": "遠從日本而來的職人咖啡師， 花費 22 年的時光研究咖啡，為日本知名咖啡品牌研發烘焙。現在， 他來到台灣，把研究咖啡歲月的精華在「匠咖啡」裡完美呈現，依不同咖啡豆的特色搭配混豆，完整展演咖啡豆的香氣與美味。在日本的甜點店裡，與咖啡搭配的是和菓子，匠咖啡也嘗試與大福結合，想展現更道地的日式甜點吃法。特地選用大王千金招牌首選冠軍的米大福，有別於一般糯米麻糬的口感， 入口即化，尤其「芝麻米大福」口味，是網路票選第一的人氣商品，再搭  以遵循傳統日本工法、手工烘焙，且口感清爽、酸度苦味均衡的「日式匠  咖啡」，成為不可錯過的日式甜點組合！推薦餐點：芝麻米大福、日式匠咖啡",
+        "Address": "北港路 1296 號",
+        "City": "嘉義市",
+        "PositionLat": 23.491117,
+        "PositionLon": 120.401734,
+        "Phone": [
+            {
+                "Tel": "(05)2387138",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000092",
+        "RestaurantName": "上紅丸梅製禮品專賣",
+        "Description": "鹼性之最 - 上紅丸 梅之粹來訪諸羅城，絕對不能錯過，位於「七彩噴水池」旁的老店「上紅丸梅製禮品專賣」，賣的不只是梅製品，更有在地人情味，以及對品質的堅持。其中最特別的是，嚴選台灣高山青梅萃取煉製而成的「上紅丸梅之粹」，製程完全不含任何防腐劑色素，香料等化學添加物。經常食用能使人體常保健康均衡狀態，在日本養生食品界一直備受推崇。其超高濃縮度對於現代人因飲食不正常、長期熬夜而產生的生理上種種不良狀況，具有強大的調理能力。其丸狀設計，方便人們攜帶食用，讓您在繁忙的日常生活之中隨時隨地補充一顆，享受真正的天然強力鹼性。推薦伴手禮 : 上紅丸 梅之粹",
+        "Address": "中山路 323 號",
+        "City": "嘉義市",
+        "PositionLat": 23.479838,
+        "PositionLon": 120.449288,
+        "Phone": [
+            {
+                "Tel": "(05)2272216",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000093",
+        "RestaurantName": "三隻小兔義式冰淇淋",
+        "Description": "最嘉義的義式冰淇淋精緻魔術方塊型禮盒內裝入了八種不同三隻小兔義式冰淇淋經典口味，食材包含台灣和自家果園種植的水果，嘉義農民黨 1 號芒果、桑葚及雲林茂谷柑和無籽檸檬及南投百香果、草莓、紅玉 18 號紅茶，也加入了國外特色食材，馬達加斯加香草豆莢與法國巧克力等，搭配嘉義在地酪農鮮乳及義大利進口之冰淇淋原料自製而成，由嘉基醫師推薦，成為了「天然、健康、原味」及「低脂健康、低卡高纖」的嘉義特色義式冰淇淋。推薦伴手禮 : 三隻小兔義式冰淇淋禮盒",
+        "Address": "中山里啟明路 255 號",
+        "City": "嘉義市",
+        "PositionLat": 23.483415,
+        "PositionLon": 120.463186,
+        "Phone": [
+            {
+                "Tel": "(05)2765276",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000094",
+        "RestaurantName": "日日好農",
+        "Description": "脆蛋捲，一口剛剛好「日日好農」認為，若是善待自然，自然必會回饋美味健康的食材。脆蛋捲總共有七種口味，所有口味均未添加香料防腐劑，以天然的雞蛋與麵粉展現味道為特點。最特別的是，蛋捲均切為一口大小，方便大人小孩食用，讓大家品嘗蛋捲時再也不會掉滿地。而蛋捲在嘉義有許多知名店家，是嘉義特產其中之一，「日日好農」以天然獨特風味加上方便食用方式，已成為近年嘉義伴手禮新寵 !推薦伴手禮 : 脆蛋捲嘗鮮三件組",
+        "Address": "朝陽街 55 號",
+        "City": "嘉義市",
+        "PositionLat": 23.475955,
+        "PositionLon": 120.460131,
+        "Phone": [
+            {
+                "Tel": "0966699589",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://shopee.tw/cmtseng",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000095",
+        "RestaurantName": "福源肉粽",
+        "Description": "粽葉飄香，再傳百年除雞肉飯，嘉義最富盛名的名產小吃「肉粽」，從空軍市場所發跡起源，由當初的第一串肉粽開始至今則擁有了三家店面，全程採用精選新鮮食材，每天包製，遵循傳統手法製作。種類多種、口味豐富多樣化，跟著時代創新的腳步更研發出種口味的肉粽，傳統美食融合著新時代健康的概念，滿足現代人的追求健康養生的口感。花生肉粽是福源伯夫妻的起家粽，僅靠花生、豬肉，糯米就能香氣迷人，口齒留香，著實是最需要基本功的肉粽。糯米本身有趨吉避凶的作用，而花生有好運連連的涵義，也促使花生肉粽成為嘉義拜拜祭祀時很重要的祭品。推薦伴手禮 : 平安好運禮盒 - 花生肉粽",
+        "Address": "文化路 716 之 1 號",
+        "City": "嘉義市",
+        "PositionLat": 23.497589,
+        "PositionLon": 120.442477,
+        "Phone": [
+            {
+                "Tel": "(05)2336776",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000096",
+        "RestaurantName": "椿豐高山茶坊",
+        "Description": "種茶、做茶已有三十年經驗，阿里山及玉山塔塔加皆有茶區，茶區海拔在 1200~1600 公尺，茶區擁有優良的地理環境，再加上熟練的製茶技巧，每季皆生產出一批批經典、色香味俱全的佳茗，自家茶農經營，定期送檢，提供顧客安心又優質的好茶 ! 「椿豐」是一個子承父業的事業體，有著父母對孩子的期望、疼愛，也有著孩子們對父母親的尊敬與孝順。有一代傳承下來的製茶工序，二代創新的行銷手法及包裝。在嘉義，通常都是到摯親好友家喝茶，而不是到茶館，以家的 概念來招呼旅客並展現我們嘉義的熱情，藉此拉近彼此的距離。推薦伴手禮 : 尋味茶葉禮盒",
+        "Address": "立仁路 430 號 1 樓",
+        "City": "嘉義市",
+        "PositionLat": 23.462581,
+        "PositionLon": 120.457011,
+        "Phone": [
+            {
+                "Tel": "(05)2227077",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000097",
+        "RestaurantName": "東發養蜂場",
+        "Description": "來自職人的堅持與專業東發養蜂場的男主人林永勝，自幼便與蜂為伍，因為深愛蜜蜂，甘心如同遊牧民族般隨花而居，與蜜蜂一起穿梭在盛開花朵中。蜜蜂與花蜜的關係，猶如楓糖漿於樹液，蜜蜂將採集花蜜儲存蜂巢裡，讓花蜜水分減少，釀成蜂蜜，帶有一些植物原木的氣味。東發養蜂場堅持等蜜蜂將蜂巢用蜂蠟完全填滿，再等多餘水分去除後才會採蜜，如此費工收集蜂蜜，除了可以增加蜂蜜保存期限，也會因為水分的去除而使蜂蜜變得更加濃稠。推薦伴手禮 : 東發國產蜂蜜",
+        "Address": "義教街 839 號",
+        "City": "嘉義市",
+        "PositionLat": 23.498684,
+        "PositionLon": 120.452053,
+        "Phone": [
+            {
+                "Tel": "(05)2719608",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000098",
+        "RestaurantName": "小夫妻拌麵",
+        "Description": "網友一致口碑推薦，外銷到世界各國的人氣拌麵 ! 百分百陽光日曬麵條，讓口感 Q 彈有勁，百分百新鮮厚工熬煮醬料，讓醬香入味四溢，將這份幸福珍貴的滋味，誠心裝載到伴手好禮內，讓這份拌手摯禮分享給相聚同在的親朋好友，感謝緣分將難能可貴的情誼讓我們如麵久遠的拌在一起，象稱情誼長存、幸福健康。推薦伴手禮 : 小夫妻拌麵",
+        "Address": "牛稠溪 590 號之 11",
+        "City": "嘉義縣",
+        "PositionLat": 23.512247,
+        "PositionLon": 120.432231,
+        "Phone": [
+            {
+                "Tel": "(05)2200655",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000099",
+        "RestaurantName": "義興朝日",
+        "Description": "台灣嘉義契作黑豆，最有嘉義味的醬油 ! 搭配嘉義獨特的氣候環境，耗時 540 天日曬熟成，無任何食品添加物，濃郁豐厚的口感，尾韻鮮甜爽口，是一瓶吃得出嘉義人文氣息的道地滋味。義興朝日是嘉義市唯一的古法釀造醬油廠，黑豆釀造的醬油有著豐富的營養價值，且每個地區醞釀出的醬油皆有不同風味，以嘉義風土人情釀出的醬油有別於其他地區，鮮味十足，是遊嘉旅客在吃飽喝足後伴手禮的好選擇，在離開嘉義之後也能在日常餐桌上延續對嘉義食的印象，是一瓶在家也能吃到的嘉義滋味。推薦伴手禮 : 台灣嘉釀",
+        "Address": "許厝庄 26-7 號",
+        "City": "嘉義市",
+        "PositionLat": 23.505865,
+        "PositionLon": 120.429314,
+        "Phone": [
+            {
+                "Tel": "(05)2321268",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000100",
+        "RestaurantName": "大丸禧水產有限公司",
+        "Description": "來自台灣雲嘉南沿海地區新鮮白蝦，將營養與美味”原隻”原味呈現，顛覆傳統新吃法，超乎想像的酥脆，免剝殼、清爽不黏手，堅持以最傳統方式，將每隻蝦頭尖刺取下，讓食用者安心，這是一道非常繁複的工序，以低溫油炸真空脫油機，以約 100° C 的油湯，在真空狀態下完成真空脫油水製程，降低油脂劣變程度，能夠在無添加防腐劑下有長的保存期限，並保持食品本身該有的甲殼素以及蝦紅素，符合國人對於零反式脂肪、高鈣及食安等要求。推薦伴手禮 : 諸羅蝦尖兵",
+        "Address": "興業東路 112 號",
+        "City": "嘉義市",
+        "PositionLat": 23.469644,
+        "PositionLon": 120.457117,
+        "Phone": [
+            {
+                "Tel": "(05)2160660",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://dawanshi.qdm.com.tw/",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000101",
+        "RestaurantName": "品滋畔",
+        "Description": "此商品為中秋禮盒，運用嘉義特有的農產品，塑造產品的在地特色性，以水果類別，結合鳳梨、芭樂、芒果及柳丁，慢火熬煮的水果餡料搭配低溫烘烤的水果乾，賦予水果酥餅更多的風味，甜而不膩。更特別的是，為了響應在地特色性，推出油蔥火雞肉酥餅，先將油蔥與雞胸肉炒熟，拌入特製辛香料，所做出的火雞肉酥餅，更有來到嘉義的象徵。在禮盒上，以神木的紋路為出發點，以嘉義為輪廓，用阿里山小火車作點綴，賦予禮盒在地的特色性。推薦伴手禮 : 品月滋畔中秋禮盒",
+        "Address": "青年街 15 號",
+        "City": "嘉義市",
+        "PositionLat": 23.46898,
+        "PositionLon": 120.43768,
+        "Phone": [
+            {
+                "Tel": "(05)2307390",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000102",
+        "RestaurantName": "翔龍草健康館",
+        "Description": "翔龍草藝皂為台灣西部第一家開發檳榔皂，主原料檳榔產自嘉義山區，檳榔內部構造檳榔鹼具有保濕作用，適量的檳榔成分對肌膚可發揮抗過敏功用。檳榔皂最大特色是控油、去角質調理肌膚，特別是肌膚有外傷下，一般沐浴乳、洗髮精使用，會造成傷口不適感，但洗檳榔皂不會造成不適，也不會造成傷口發炎，保濕度更高，對於身體清潔有很大幫助。推薦伴手禮 : 羅家庄檳榔皂",
+        "Address": "友愛路 349 號",
+        "City": "嘉義市",
+        "PositionLat": 23.487815,
+        "PositionLon": 120.43354,
+        "Phone": [
+            {
+                "Tel": "0955144212",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000103",
+        "RestaurantName": "陽光皇后 - 知名插畫家SMART聯合共同打造網美餐廳",
+        "Description": "還記得嘉義火車站名知的-沉睡大白熊嗎?其實在嘉義陽光皇后也能看到大白熊的家族故事喔！店裡以童話故事為主題，打造彷彿走入夢幻仙境錯覺，高達6米特色的鳥籠設計，令人嘆為觀止，可愛童趣插畫、皇宮般的水晶燈飾，再加上店家精心準備的拍照道具，以及獨家特色風味餐點，讓您置身童話夢遊仙境般的氛圍中，久久無法自拔，現已成為網紅必拍的熱門美食餐廳。融合店內特色鳥籠建築物-熱舞王妃(烤全雞)，製作過程繁雜、耗時又長，必須運用十幾種醬料醃製48小時以上，料理過後外酥內嫩，大口咬下雞汁瞬間噴發，就連雞胸肉也是Q彈多汁，是必點招牌之一，餐點皆為現點現做，義大利麵和燉飯也是進店必點，更是外地人必訪在地美食餐廳。",
+        "Address": "嘉義市新民路755號",
+        "City": "嘉義市",
+        "PositionLat": 0.0,
+        "PositionLon": 0.0,
+        "Phone": [
+            {
+                "Tel": "(05)2830309",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000104",
+        "RestaurantName": "蓁古早味現烤蛋糕店",
+        "Description": "【家的溫暖】你是否也常想起，小時候陪伴長大的味道呢？接觸西點蛋糕，唯一的夢想就是創造出，屬於回憶中幸福的滋味。「幸福不會因為科技的進步而消失，感動不會因為時代的變遷而消逝。」還記得阿嬤常說：這是陪伴她長大的味道。現烤的美味，是女兒「蓁」的最愛，故以蓁來命名，裡面充滿著心意與思念，簡單的食材，只要精選原料、精心製作，就能讓蛋糕溫暖人心，同SLOGAN「蓁材實料，幸福同翔。」幸福不只是存在於回憶，更能在當下體會到甜而不膩的感受，這份熱忱的美味分享給你，蓁古早味，真想與你分享這一味。",
+        "Address": "公明路181號",
+        "City": "嘉義市",
+        "PositionLat": 23.48002,
+        "PositionLon": 120.45456,
+        "Phone": [
+            {
+                "Tel": "(05)2228316",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": "https://www.baked-cake.com.tw/index.php",
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_376600000A_000105",
+        "RestaurantName": "001",
+        "Description": "456",
+        "Address": "成仁街201號",
+        "City": "嘉義市",
+        "PositionLat": 23.481088,
+        "PositionLon": 120.451859,
+        "Phone": [
+            {
+                "Tel": "(05)5551234",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000062",
+        "RestaurantName": "布袋 / 黑皮創意海鮮料理館(獲選參加2010台灣美食展特色餐廳)",
+        "Description": "「黑皮」是 happy的音譯，黑皮海鮮餐廳的笫三代負責人游志豪希望讓客人能夠有快樂的用餐環境。曾經在朴子市禎祥食品公司擔任研發技師的游志豪年輕富創意，研發出該店的招牌菜，以在地的海鮮八種食材，料理出巨無霸酥皮海鮮大肉圓，算是中西式料理合璧，相當受消費者喜愛。黑皮海鮮餐廳緊鄰布袋觀光魚市場，為了接待絡繹不絕的遊覽車遊客，該餐廳還有廿桌辦團體餐；其中最出名的就是號稱為加醬汁就達300公克的巨無霸酥皮海鮮大肉圓，也是每年肉圓比賽的常勝軍。也在其網站中展售，還可以宅急便服務到家，游志豪還開辦嘉義市和民雄連鎖店，要把黑皮海鮮料理品牌擴大營業。 由於游志豪有高學經歷，又擅長運用網路行銷，是嘉義濱海地區有使用網路行銷的餐廳之一，因頗富美食行銷創意，陸續有電視台的美食節目來報導，因此吸引不少外地遊客聞香下馬...",
+        "Address": "中山路43號",
+        "City": "嘉義縣",
+        "PositionLat": 23.37963,
+        "PositionLon": 120.15438,
+        "Phone": [
+            {
+                "Tel": "(05)3479860",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000075",
+        "RestaurantName": "布袋 / 海中鱻海產",
+        "Description": "本店與海釣漁船合作，當日現釣海鮮，尚鮮及最清爽好吃的料理，擁有最舒適的環境，保證物超所值，回味無窮。到布袋這個海港小鎮 當然要吃一吃新鱻的海產料理 要吃最新鱻的 最新鱻的何處找？當然就是＂海中鱻＂囉 強烈推薦 第一推 橙香生蚵 一份45元 採用現剖新鱻布袋蚵與和風天然醬汁調味，食用後陣陣果香，令人回味無窮。保證新鮮 味好～！料實在～！第二推 就是＂蚵仔麵線＂ＱＱ香香手工麵線與布袋新鱻蚵仔結合快炒而成，與眾不同的料理手法，蹦出新鱻好滋味。這是布袋對蚵仔麵線料理手法的改變跟一般市面上的蚵仔麵線不一樣 這是用炒的，炒的蚵仔麵線真的好吃 有機會可以試試看!!",
+        "Address": "中山路262號",
+        "City": "嘉義縣",
+        "PositionLat": 23.37986,
+        "PositionLon": 120.1507,
+        "Phone": [
+            {
+                "Tel": "(05)3476615",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000093",
+        "RestaurantName": "東石 / 樺榮海鮮餐廳(獲選參加2010台灣美食展特色餐廳)",
+        "Description": "自從嘉義縣政府將傳統東石漁港，改造成為東石漁人碼頭，吸引了全省絡繹不絕的遊客，而緊鄰漁人碼頭的樺榮海鮮餐廳，老闆許樺傑父子三人共同主廚料理，精巧美食料理，讓許多食客口耳相傳，甚至還在網路推介，累積十三年的信譽，和漁人碼頭一樣，是喜受高格調美食遊客的最愛。樺榮餐廳面對塭港漁港，是專業養蚵漁港，和漁人碼頭以捕魚為主不同，但是兩個地方相距約一公里，順著海堤道路可達。樺榮餐廳特別以當地蚵仔，料理風味獨特的生蠔，並結合觀光漁筏，載遊客到外傘頂洲參觀蚵仔的生長，沿途船長吳林山深入淺出的導遊，成為東石漁鄉特色。 樺榮餐廳以販賣野生海鮮出名，也是當地人推崇的餐廳之一。老闆曾經是蚵農，運用與漁夫的好交情，除了到東石魚市場拍賣採買，另外一些較高經濟的鮸魚、紅蟳、香螺等，漁民也會把最大隻最特別的海鮮漁獲留下來賣給...",
+        "Address": "塭港村52-43號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4665,
+        "PositionLon": 120.14614,
+        "Phone": [
+            {
+                "Tel": "(05)3730612",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000111",
+        "RestaurantName": "東石 /上好吃海產店(獲選參加2010台灣美食展特色餐廳)",
+        "Description": "(東石上好吃，20年口碑傳千里) 有廿年好口碑的東石鄉上好吃海產店，位於雲嘉南濱海國家風景區和東石大橋紅樹林生態園區交處，北方又有全國著名的鰲鼓農場和宗教信仰中心港口宮，西接東石漁人碼頭。海產店外觀樸素，但是內部有數十桌的包廂，經常高朋滿座，老闆以經濟實惠、在地新鮮的豐富食材和親切服務為訴求，吸引了許多在地人，是「上好吃」的招牌。上好吃海產店以東石蚵仔麵線、蚵捲、生蚵和紅燒皇帝魚、軟骨鯽魚、香螺五味為招牌菜，都是東石海鮮。「野生烏魚子」為當地捕抓，加上青蒜和白蘿蔔，利用簡單的在地食材，卻很美味。「蒸奇舌魚」是東石夏天盛產的特有海魚，口感類似白鯧魚，但味道更加細膩、腥味淡，大人小孩都喜歡吃。「蔥燒鯽魚」是上好吃店的名菜，要以傳家滷水泡過一天才入味，食材同樣來自東石養殖場。「蜜汁地瓜」使用每年豐...",
+        "Address": "永屯村屯仔頭39-7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.46259,
+        "PositionLon": 120.17371,
+        "Phone": [
+            {
+                "Tel": "(05)3733968",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000112",
+        "RestaurantName": "東石 / 海龍園餐廳(獲選參加2010台灣美食展特色餐廳)",
+        "Description": "東石港蚵仔養殖全台聞名，境內擁有數千公頃的漁場，及全台最大的外海蚵棚養殖，產量居全省之冠，為名符其實「蚵仔的故鄉」。牡蠣因含豐富有機鋅、硒及牛磺酸等營養成分，也稱為蠔，歐洲人稱它為「海產牛奶」，日本人稱它為「帝王食品」，在中國明朝時牡蠣有「西施乳」的美稱，在台灣則俗稱為「蚵仔」。每年四月至九月是牡蠣最肥美的時候，往往吸引相當多饕客前來品嚐。東石布袋海鮮餐廳的特色就是『青』，海龍園餐廳運用了當地最肥美的鮮蚵作出一道道美味的鮮蚵料理。此外，東石的海龍園餐廳為東石最大的餐廳之一，亦是當地人愛去的餐廳。「茄汁海味鮮蚵凍」將鮮蚵加入番茄汁並作成QQ的果凍，口味獨特，口感新奇。「醬燒軟骨鯽魚酥」利用當地養殖名產的鯽魚，以汽水醃漬達12小時之久，直至於骨頭完全酥化後烹煮而成，入口即化，整隻魚皆能食用。「義...",
+        "Address": "永屯村35號之3",
+        "City": "嘉義縣",
+        "PositionLat": 23.45979,
+        "PositionLon": 120.17318,
+        "Phone": [
+            {
+                "Tel": "(05)3730009",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000301",
+        "RestaurantName": "東石阿春小吃福袋蚵仔包",
+        "Description": "蚵仔包稱「福袋」，除了餡料不同、炸程不同，最主要是包裹方式不同， 讓「東石阿春小吃」的蚵仔包有個「福袋」的吉祥名稱，還有顧客另取「有顆 （蚵）福氣」的喜氣名字。福袋蚵仔包的餡料有高麗菜、韭菜、薑、小蝦米、冬粉、蚵和生全蛋，其製作過程是：高麗菜、韭菜切碎脫水、薑剁末去水，然後加入小蝦米、冬粉及自製調味料拌勻備用，顧客點食時，將麵皮鋪在碗上，裝上餡料、蚵，再打一粒生全蛋，包裹成圓形，頂端旋轉如湯包餡口束住，蚵仔包而稱「福袋」，就在此造型，由於蚵仔包圓袋餡口已束住，因此直接下油鍋油炸，不必像一般扁的蚵仔包要多一道平底鍋略煎，以防餡裂開口。「福袋蚵仔包」在油鍋炸熟後，即可起鍋切塊上桌，沾醬食用。因為油鍋是溫控，所以外皮金黃酥脆，內餡青翠熟軟，一口咬下去，菜香蚵香盈口，有幸福的滋味。由於餡口麵皮凸起，...",
+        "Address": "猿樹村206附7號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45815,
+        "PositionLon": 120.15026,
+        "Phone": [
+            {
+                "Tel": "(05)3731186",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000302",
+        "RestaurantName": "布袋停看吃蚵仔包",
+        "Description": "聽過蚵仔包的人不多，吃過的人更少，儘管它已被研發 20 年了。吃過蚵嗲，也吃過蚵仔煎的人很多，但很少人會把蚵嗲、蚵仔煎與蚵仔包聯想在一起，其實蚵仔包就是蚵嗲與蚵仔煎的綜合，而研發的人就是布袋「停看吃蚵仔包」的老闆林武雄。林武雄（1967 年生），原以養殖業維生，因收入不固定，為要養家活口，在朋友鼓勵下出來做生意，他不想跟別人賣一樣的東西，而特殊的東西就要自己研發。他想到從小吃到大的蚵嗲與蚵仔煎，試著把它們結合在一起，而有蚵仔包的構想，等試做有點模樣後，便開始在夜市場擺攤販賣，並根據客人的反映與建議，邊賣邊改良，蚵仔包從原來很大粒，大粒到小孩甚至客人吃不完，改良成今日的樣貌。蚵仔包的外皮是以麵粉自行研發特製的，其餡料是：韭菜、冬粉、蚵仔、蛋。其作法是：冬粉先炒過，再與韭菜拌勻備用；將麵皮置於碗...",
+        "Address": "中山路3號 (漁市場 A21 攤位)",
+        "City": "嘉義縣",
+        "PositionLat": 23.37957,
+        "PositionLon": 120.15519,
+        "Phone": [
+            {
+                "Tel": "0928328043",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000303",
+        "RestaurantName": "布袋雙燕蚵仔包",
+        "Description": "蕭阿燕年輕時出外工作，結婚後為貼補家用而批發蚵仔販售，因不諳做生意，批發來的蚵仔常賣不出去，有朋友建議道：汝既然對吃有興趣，布袋的蚵仔包好吃，蚵仔又是自己批發來的布袋當地生產，何不做來賣？觸發蕭阿燕販賣蚵仔包的動機而創設「雙燕蚵仔包」，這一賣就 10 多年，打下蚵仔包的金字招牌。蚵仔包的製作過程較為繁複，首先將紅蔥頭爆香起鍋，加入小蝦皮、韭菜、冬粉拌勻為餡料備用，客人點食時，將麵皮鋪在碗上，裝上餡料，加進蚵仔，打一粒蛋後包裹起來，先在平底鍋兩面略煎，讓蚵仔包定型不會裂開，再移到油鍋內炸至金黃，炸多久全靠經驗及火候控制，起鍋裝盤切塊即可上桌。蕭阿燕每天清早便來整攤，常常是還在整攤，顧客便已上門了，長長的排隊人龍，都為一嚐口碑中的「雙燕蚵仔包」。由於顧客大都是遊客，因此以外帶為主，川流不息的人潮...",
+        "Address": "中山路3號 (漁市場 A18 攤位)",
+        "City": "嘉義縣",
+        "PositionLat": 23.37948,
+        "PositionLon": 120.15556,
+        "Phone": [
+            {
+                "Tel": "(05)3476048",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000306",
+        "RestaurantName": "東石 60 年老店蚵嗲",
+        "Description": "東石巍峨聳立的先天宮廟前蚵嗲攤，從創業的吳左營、洪難，經第二代的吳新德、吳黃含笑，到第三代的吳振祥、高如嫻，已走過悠悠 1 甲子的歲月，東石人幾乎都吃過這攤的蚵嗲，甚至有人家已吃了 4 代。第一代創業時，是在家炸好蚵嗲，裝在保麗龍盒保溫，推到魚市場販賣，後移到舊市仔內，1990 年代第二代遷回住家現址販賣，2000 年代第三代克紹箕裘，完全依祖傳方法製作。裹粉是麵粉、豆粉調配的，餡料為：高麗菜、韭菜、薑、蚵仔。蚵嗲早年又叫「苦仔嗲」，但高如嫻表示，她聽公公吳新德跟她說過，古早蚵嗲煎尚未發明之前，將裹粉、菜、蚵仔放進俗稱觳仔 (khok-á) 的洋鐵罐內，再下鍋油炸，炸起來的蚵嗲就叫「觳仔嗲」，後來「觳仔嗲」音轉成「苦仔嗲」。除賣蚵嗲外，60 年老店蚵嗲的蚵仔麵線及蚵仔料理值得推...",
+        "Address": "東石村 199-1 號",
+        "City": "嘉義縣",
+        "PositionLat": 23.4563,
+        "PositionLon": 120.1499,
+        "Phone": [
+            {
+                "Tel": "(05)3732771",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000307",
+        "RestaurantName": "過溝廟口蚵嗲",
+        "Description": "過溝的出外遊子，或嫁出去的女兒，或旅外打拼的鄉親，只要回到過溝故里，都迫不急待的來到庄廟建德宮廟埕的「廟口蚵嗲」攤，點食蚵嗲、肉嗲，或炸粿，以解旅居在外，日思夜夢的故鄉味；有的人甚至先到廟口吃一兩塊炸粿或蚵嗲，解饞之後才提著行李踏進家門。「廟口蚵嗲」已然是過溝人的鄉愁。蚵嗲或肉嗲，過溝當地仍習慣稱之為「苦仔嗲」，源自於「廟口蚵嗲」創始人蔡吳秀春創攤伊始，臺灣社會經濟普遍欠佳，蚵仔或豬肉一則較匱乏，再則均屬高價位食材，時人消費不起，所以麵粉加豆粉拌勻的炸粉，包裹的餡料只有高麗菜、韭菜和薑，沒有蚵仔，也沒有肉，所以叫做「菜嗲」。蔡吳秀春習慣將「菜嗲」炸得久些，加上當時使用豬油，一般不換油，所以炸出的「菜嗲」又酥又脆又黑，吃起來苦苦的，因此大家都呼它做「苦仔嗲」，沿襲至今，雖已不流行豬油，也不再久...",
+        "Address": "過溝建德宮廟前",
+        "City": "嘉義縣",
+        "PositionLat": 23.41649,
+        "PositionLon": 120.18055,
+        "Phone": [
+            {
+                "Tel": "0913560390",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000308",
+        "RestaurantName": "布袋古早味蚵嗲",
+        "Description": "「布袋古早味蚵嗲」雖然是一個不甚起眼的小攤，沒有門牌，也沒有電話，卻是布袋漁港遊客最常光顧的攤位，因為，這是個貼心的蚵嗲攤。蚵嗲一般是裝盤切塊食用，但對於沒有時間坐下來食用，或搭乘遊覽車的顧客，就算切塊裝紙袋，吃起來也是極為不便，老闆娘貼心地想出蚵仔捲的點子，相同的食材及炸粉，製作成長條狀，再加 1 枝竹籤，油炸起來口感與蚵嗲相同，握著竹籤，邊走邊吃，或在車上吃，方便又不沾手。相同的理念，原本一顆一顆的蚵仔酥，也製成長條形加竹籤，其他如蝦仔捲、鱈魚捲、花枝丸、韭菜捲等也都串有竹籤，一個小小的貼心，卻讓小攤位成就大買賣，每天顧客川流不息，因此，老闆娘一早整完攤顧客尚未上門前，便開始動手油炸各類炸物，堆滿炸鍋上的欄架，以備隨時湧到的顧客，或整車的遊客。布袋「古早味」蚵嗲，炸粉是豆粉拌米漿，以米漿...",
+        "Address": "中山路「黑皮海產餐廳」斜對面",
+        "City": "嘉義縣",
+        "PositionLat": 23.37982,
+        "PositionLon": 120.15465,
+        "Phone": [
+            {
+                "Tel": "(03)8875306",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000309",
+        "RestaurantName": "新塭蚵嗲",
+        "Description": "「新塭蚵嗲」從日治末周水河創攤至今，已傳到第三代，走過 80 多年的歲月，已然是新塭人鄉愁的所在。旅外鄉親返鄉，必定來吃，返鄉而沒吃新塭蚵嗲，就像沒回新塭一樣。蔡崇吉 (1956 年生 ) 的祖父周水河是布袋鹽場的僱曬鹽工，在雨季或冬天曬鹽的空窗期，為貼補家用，在嘉應廟口擺攤炸蚵嗲。蚵嗲昔時叫「苦仔嗲」，一則韭菜的比例較高，再則當時人喜歡把蚵嗲炸得酥黑，吃起來苦苦的，故名。新塭人喜歡豬肉為餡的肉嗲，勝於以蚵仔為餡的蚵嗲，因此，店招雖名「新塭蚵嗲」，實則以肉嗲為主。日治時期沒有豬肉，因此，有海豚時炸海豚肉，有烏魚時炸烏魚肉，隨季節而更換。蔡崇吉的父親蔡煥男 (1923 年生 ) 也是鹽工，在併曬政策下失去工作，而承接嘉應廟廟口的蚵嗲攤。1980 年代，蕭玉蘭嫁入後，又接手公公的蚵嗲攤，成為「新...",
+        "Address": "新塭嘉應廟牌樓前、戲臺後",
+        "City": "嘉義縣",
+        "PositionLat": 23.3271,
+        "PositionLon": 120.15948,
+        "Phone": [
+            {
+                "Tel": "(05)3431327",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000327",
+        "RestaurantName": "東石老饕蚵仔煎",
+        "Description": "陳家綉離開職場後，在考慮再創事業第二春時，想到東石是蚵仔的盛產地，食材新鮮，又取得容易，而打算以蚵仔為料理，至於蚵仔的哪一種料理呢﹖她看上了老少咸宜，便宜又好吃的蚵仔煎，於是以「老饕蚵仔煎」為店招，在東石街上掛牌經營。老饕蚵仔煎的粉，是專賣店調好送過來的，其料有：蚵仔、小白菜、雞蛋。其作法是：先打蛋在平底鍋，加上蚵仔、小白菜後，再淋上粉水，煎赤，翻面再煎赤，即可起鍋，裝盤，上桌。「老饕」講究衛生、健康，不好的不用，如坊間豆芽菜大多泡藥速成，因此，蚵仔煎不放豆芽菜。蚵仔煎外，哇沙米燙蚵值得品嘗。新鮮蚵仔汆燙，起鍋裝盤，上桌，蘸沾醬吃，新鮮、簡單又好吃。沾醬是以水果醋、哇沙米、蒜泥、薑末自家調配，與鮮蚵，真是絕配。此外，還有雞肉絲飯，銷路超好。",
+        "Address": "東石村 157-1號",
+        "City": "嘉義縣",
+        "PositionLat": 23.45756,
+        "PositionLon": 120.15094,
+        "Phone": [
+            {
+                "Tel": "(05)3732338",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000332",
+        "RestaurantName": "過溝米苔目",
+        "Description": "清晨天才濛濛亮，埕院就擠滿購買的群眾，待人潮稍退，用推車推到廟口，也總在 1 個小時內售完，打烊時還不到早上 8 點，這便是「過溝米苔目」的傳奇。「過溝米苔目」創設人莊錦華（1938 年生），因兒子不幸往生，媳婦余亮瑩（阿月仔）要出外工作，莊錦華帶著三個年幼孫子兼製作碗粿販賣，補貼家用，後來其妹傳授她製作米苔目要訣，而改賣米苔目。莊錦華最先挑著鉛桶沿街叫賣，後來改為推車，最後才定點在廟口販售。2010 年，莊錦華年紀大，而由媳婦余亮瑩（阿月仔）接手經營，也定點在廟口販售，續寫「過溝米苔目」傳奇。米苔目的製作相當費工夫。前一晚，就要將在來米（純籼糯米）泡浸 5 個小時，清晨 2 點多起床，以磨米機磨成米漿，留少部分勾芡用外，其餘倒進大灶鼎上以手工攪炒到乾為止，加麵粉、地瓜粉在攪拌機中攪拌均勻，...",
+        "Address": "128號 過溝東勢頭",
+        "City": "嘉義縣",
+        "PositionLat": 23.418,
+        "PositionLon": 120.18253,
+        "Phone": [
+            {
+                "Tel": "(06)3453377",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000338",
+        "RestaurantName": "三家村陽春麵",
+        "Description": "「三家村陽春麵」是三家村附近唯一的麵攤，已經營有 40 年的歷史，三家村人從小吃到當阿公了都還會來吃。老闆孔繼俊 (1934 年生 ) 原為職業軍人，太太去世後，為撫養 3 個孩子，於是提早退伍，開設麵攤賣陽春麵貼補家用。媳婦侯麗雲 (1966 年生 ) 嫁進來後，先幫忙打雜、見習，半年後熟悉烹煮秘訣後，便接手經營，孔繼俊每天仍會到賣場幫忙。三家村陽春麵的作法分 3 個步驟。首先是製作佐料：豆干搓籤，剁碎，加豬油炒酥，備用。其次是熬高湯：豬大骨長時間熬煮，備用。最後下麵煮熟。客人點食時，先舀佐料在碗裡，加入大骨高湯，再加進麵條，上桌。",
+        "Address": "三家村 75-9 號",
+        "City": "嘉義縣",
+        "PositionLat": 23.47024,
+        "PositionLon": 120.17267,
+        "Phone": [
+            {
+                "Tel": "(05)3733531",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000341",
+        "RestaurantName": "副瀨手工饅頭",
+        "Description": "李土葛 (1935 年生 ) 為養家活口，於 1971 年開始製作手工饅頭、包子，推著攤車到附近村莊兜售，後來才在副瀨庄廟富安宮廟口定點販售；2003 年因年紀大，而由兒子李永春 (1970 年生 ) 接手經營，並回到住家副瀨村 37 號開設早餐店，只賣早上，從上午 5 點賣到上午 9 點就打烊。2011 年，李永春的太太彭小玲與小姑兩人，將販賣的觸鬚伸至東石，她們選擇人潮、車潮較多的東石鄉農會前空地，擺攤掛牌「副瀨手工饅頭」販賣手工饅頭與包子，由於做工道地，生意不錯，而成為東石知名的點心攤。「副瀨手工饅頭」採用高筋麵粉製作，完全人工，不假機器。包子餡料為：高麗菜、豬肉、紅蘿蔔、豆薯，加豆薯，是為讓包子更加清甜、可口。除包子、饅頭外，「副瀨手工饅頭」還賣麻花捲。包子、饅頭都是在副瀨住家製作好...",
+        "Address": "東石鄉農會對面路邊",
+        "City": "嘉義縣",
+        "PositionLat": 23.45794,
+        "PositionLon": 120.15203,
+        "Phone": [
+            {
+                "Tel": "0935977197",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000342",
+        "RestaurantName": "新塭包子饅頭",
+        "Description": "蔡崇明 (1951 年生 ) 原是臺鹽嘉義鹽場職員，太太是個裁縫師，替庄民縫製衣服來貼補家用。1970 年代起，成衣廠大量出現，裁縫生意大受影響，收入頓減，為讓太太在照顧孩子之餘有個副業，以增加家庭收入，蔡崇明去到高雄烏樹林鹽場向二哥、二嫂學習包子、饅頭的製作方法。蔡崇明的兄嫂是烏樹林鹽場福利社的員工，為增加收入而向一位做包子、饅頭的外省老伯伯學習的。蔡崇明習得包子、饅頭製作方法回到新塭，開始包子、饅頭的販賣，剛開始技法還不熟練，會去向布袋場務所鹽工，人呼「海空仔」的外省老伯伯請教，不斷改進、研發而成就今日令譽。兒子蔡承恩 (1979年生 ) 於 2010 年回來幫忙並學習，2014 年結婚後正式接手經營。包子、饅頭的製作，從前一天就得開始。前一天下午先揉麵團，令其發酵，半夜 12 點半起床...",
+        "Address": "新民里 296 號",
+        "City": "嘉義縣",
+        "PositionLat": 23.32795,
+        "PositionLon": 120.1601,
+        "Phone": [
+            {
+                "Tel": "(05)3430296",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000349",
+        "RestaurantName": "東石水煎包",
+        "Description": "坐落在「166」、「168」道路交叉口的東石農會前路旁，人來人往充滿活力，幾個小吃攤相中這裡的商機，紛紛設攤開賣，呂漢雄 (1958 年生 ) 的水煎包攤便是其中之一。呂漢雄為了生計，每天下午來此設攤販賣水煎包，是東石地區知名的點心攤。東石水煎包的粉是中筋麵粉，內餡有豬肉、高麗菜、冬粉、紅蘿蔔、韭菜。其作法是：豬肉加豆油下鍋滷熟，起鍋備用。高麗菜、紅蘿蔔、韭菜切好，滷好的豬肉、冬粉拌勻備用。來到賣場後，麵粉加水揉搓成條狀，捏小塊壓平包料，即為煎包。平底鍋下少許油，放進煎包，淋上粉水，煎赤後翻面再煎赤，前後約 10 分鐘，起鍋備用。客人購買時，裝袋外帶。除內餡必須在家先行炒製外，其餘都在攤上現做、現煎、現賣，當天做當天賣，賣完為止，新鮮吃得到看得到，讓東石水煎包甚獲好評。",
+        "Address": "東石農會前路旁",
+        "City": "嘉義縣",
+        "PositionLat": 23.45797,
+        "PositionLon": 120.15192,
+        "Phone": [
+            {
+                "Tel": "0910979236",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000350",
+        "RestaurantName": "新塭水煎包",
+        "Description": "蔡新祈 (1951 年生 ) 以養殖為業，太太黃麗嬌 (1953 年生 ) 則在成衣加工廠工作，1986 年黃麗嬌辭掉成衣加工廠的工作，以便照顧就讀國小的孩子，以免孩子放學回來到處遊蕩；為貼補家用，亟思發展家庭副業，因胞妹曾參加社區烹飪活動，於是黃麗嬌便向胞妹學得包子、饅頭的製作，便在自家設攤販賣水煎包，不久又加賣蛋餅及煎餃。創業初始，水煎包是包高麗菜、肉燥和蔥酥；有一年，庄廟嘉應廟建醮，全村人都要吃素，葷的水煎包不能吃，於是改為只包菜的水煎包，一直延續到現在。由於水煎包製作費工，母親蘇雪雲 (1930 年生 )會幫忙包，父親蔡登選 (1930 年生 )則幫忙煎。袖珍型的水煎包，每天定量只做 120 粒，賣完就不再製作，向隅者明日請早，這是新塭水煎包的堅持。新塭水煎包的外皮為：麵粉，內餡為：...",
+        "Address": "新民里 278-1 號",
+        "City": "嘉義縣",
+        "PositionLat": 23.32774,
+        "PositionLon": 120.15933,
+        "Phone": [
+            {
+                "Tel": "(05)3431437",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000352",
+        "RestaurantName": "過溝豆花",
+        "Description": "過溝豆花是一家呷好逗相報的豆花店，顧客來自全臺各地，賣場卻設在遠離過溝市中心的偏遠住家，但住在巷仔內的人 ( 內行人 ) 都知道，也都找得到這家純手工製作、傳統古早味的豆花店。這是一家有口碑、「巷仔內的店」。老闆陳天進 (1943 年生 ) 原是個農夫，耕作少量的田，曾開過洗衣店，鄉下人衣物送洗者少，婚後為家計，改賣豆花，從磨豆到製成軟綿綿、香噴噴的豆花，全都以傳統手工製作，自製自銷，真材實料，口味道地，贏得口碑。過溝豆花原本只有傳統口味及土豆 ( 花生 ) 口味，傳到第二代陳昆銘 (1975年 ) 手中，才又加入綠豆、紅豆兩種口味，卻各有千秋。土豆口味，採用北港土豆，可吃到整粒土豆，綿密且入口即化；綠豆口味，整粒的綠豆，不會肉殼分散，鬆軟可口，不會有硬殼的感覺；紅豆口味，也是整粒的紅豆，不...",
+        "Address": "嘉18鄉道3號",
+        "City": "嘉義縣",
+        "PositionLat": 23.41847,
+        "PositionLon": 120.18388,
+        "Phone": [
+            {
+                "Tel": "(05)3452117",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000353",
+        "RestaurantName": "布袋三多傳統豆花",
+        "Description": "從北部返鄉，待業中的張志明，吃過朴子的豆花後，決定以豆花作為事業的第二春，於是向朴子師傅習得豆花製作要訣後，開始豆花的販賣生涯。他組裝三輪車，載著自製的手工傳統豆花，到內田、大寮、新塭、後壁寮、虎尾寮、郭岑寮、新店、北港仔...等村落沿街叫賣，後來才在布袋市場口定點販賣。張志銘一直只賣傳統白豆花及花生豆花，有時，白豆花會加進豆漿，另有一番滋味。當大家已習慣到菜市場口吃碗豆花的生活樂趣時，張志明卻於 1989 年重回臺北職場打拚，張志明製作的豆花成為布袋人懷念的味道，常有人問其家人，何時可以吃到傳統手工豆花﹖直到 2012 年兒子張震懿才又重新開張，並研發增售綠豆、紅豆、粉圓等口味，販售地點改在統聯客運布袋總站，現在則由孫媳婦彭鈺旻掛牌「三多傳統豆花」在自家住宅前販賣。花生豆花是張志銘創業時的...",
+        "Address": "太平路77號",
+        "City": "嘉義縣",
+        "PositionLat": 23.37838,
+        "PositionLon": 120.16337,
+        "Phone": [
+            {
+                "Tel": "0921557630",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000354",
+        "RestaurantName": "新塭冷凍豆花",
+        "Description": "廟口常是攤販集中地，新塭嘉應廟口也不例外，但不設在廟口前，而在入口的大牌樓下，「新塭冷凍豆花」便是其中之一。老闆王文振的胞兄在 1995 年在高雄開設豆花店，2004 年王文振到高雄向胞兄學習豆花製作後，回到新塭嘉應廟牌樓下設攤販售，除傳統純豆花外，還有土豆、綠豆、紅豆、薏仁等口味。新塭冷凍豆花強調養生，豆花當天清晨手工製作，不加防腐劑，黃豆進口自加拿大，非基因改造，有進口證明書；紅豆、綠豆、薏仁都是當天熬煮，都是臺灣生產，都附有農藥檢驗合格書。糖水用臺糖砂糖長時間熬煮而成。王文振的冷凍豆花不必加碎冰，便冰涼爽口，因為豆花攤本身便是一個大冰箱，這是王文振販賣豆花多年的經驗成果。除賣豆花外，「新塭凍豆花」還賣綠豆湯、薏仁湯、紅茶等。豆花使用臺糖二砂，綠豆湯及薏仁湯則使用臺糖特砂。紅茶的茶葉，與...",
+        "Address": "新塭嘉應廟牌樓下",
+        "City": "嘉義縣",
+        "PositionLat": 23.32711,
+        "PositionLon": 120.15928,
+        "Phone": [
+            {
+                "Tel": "0933690058",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000493",
+        "RestaurantName": "好美船屋",
+        "Description": "好美農漁產業 - 蛤蜊之鄉咱們家的產品來自－布袋好美寮自然保護區專門養殖蛤蜊！與白蝦、虱目魚低密度友善養殖(以上文字，該公司FB內容)鹽工便當：好美海口鹽工便當使用日曬薄鹽的虱目魚一夜干搭配肥瘦勻稱五花肉，以小火慢燉成為入口即化的虱目魚東坡肉為主菜，並搭配虱目魚香腸及季節時蔬成為極具在地特色的鹽工便當。利用好美里特產-蛤蜊，做成蛤蜊拌飯/蛤蜊XO醬/蛤蜊絲瓜/蛤蜊肉炒蝦仁/蛤蜊湯，並隨季節調整搭配時令鮮蔬作成營養滿分、低碳足跡的好美海口人鹽工便當。鹹良好物：蛤蠣娘XO醬、蛤蜊麥糙",
+        "Address": "好美里700號",
+        "City": "嘉義縣",
+        "PositionLat": 23.33687,
+        "PositionLon": 120.13972,
+        "Phone": [
+            {
+                "Tel": "(05)3431948",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    },
+    {
+        "RestaurantID": "Restaurant_A15011100H_000496",
+        "RestaurantName": "黑皮與白牙小吃部",
+        "Description": "黑皮妹蚵仔海鮮料理店 選用布袋在地海鮮食材:白蝦、吳郭魚、蚵仔做出美味的料理，黑皮妹手作大花枝丸。布袋漁市場海鮮鹽工便當把漁市場各式各樣在地海鮮做成鹽工便當。",
+        "Address": "岑海里文昌街42號之1",
+        "City": "嘉義縣",
+        "PositionLat": 23.37913,
+        "PositionLon": 120.15422,
+        "Phone": [
+            {
+                "Tel": "0910754217",
+                "Ext": null
+            }
+        ],
+        "Images": null,
+        "WebsiteUrl": null,
+        "OpenTime": null
+    }
+]

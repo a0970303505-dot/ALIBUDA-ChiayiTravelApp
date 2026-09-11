@@ -1,0 +1,3725 @@
+[
+    {
+        "StationUID": "CYI501001001",
+        "StationID": "501001001",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 33,
+        "SrcUpdateTime": "2026-06-08T22:25:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_嘉義市政府",
+        "PositionLat": 23.481634,
+        "PositionLon": 120.453745
+    },
+    {
+        "StationUID": "CYI501001002",
+        "StationID": "501001002",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:52:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_行政執行署",
+        "PositionLat": 23.482012,
+        "PositionLon": 120.457342
+    },
+    {
+        "StationUID": "CYI501001003",
+        "StationID": "501001003",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-09T01:31:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 1,
+            "ElectricBikes": 7
+        },
+        "StationName": "YouBike2.0_嘉義高商(公園派出所)",
+        "PositionLat": 23.482663,
+        "PositionLon": 120.462988
+    },
+    {
+        "StationUID": "CYI501001004",
+        "StationID": "501001004",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 34,
+        "SrcUpdateTime": "2026-06-08T21:43:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義高中(志航街)",
+        "PositionLat": 23.478707,
+        "PositionLon": 120.462594
+    },
+    {
+        "StationUID": "CYI501001005",
+        "StationID": "501001005",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 24,
+        "SrcUpdateTime": "2026-06-08T22:43:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_嘉義高中(大雅路)",
+        "PositionLat": 23.477031,
+        "PositionLon": 120.465573
+    },
+    {
+        "StationUID": "CYI501001006",
+        "StationID": "501001006",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-09T03:10:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_臺灣銀行嘉義分行",
+        "PositionLat": 23.4798596,
+        "PositionLon": 120.4488291
+    },
+    {
+        "StationUID": "CYI501001007",
+        "StationID": "501001007",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T00:06:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_彰化銀行嘉義分行",
+        "PositionLat": 23.47963,
+        "PositionLon": 120.44583
+    },
+    {
+        "StationUID": "CYI501001008",
+        "StationID": "501001008",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 86,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T04:27:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 84
+        },
+        "StationName": "YouBike2.0_嘉義火車站(願景館)",
+        "PositionLat": 23.47917,
+        "PositionLon": 120.44186
+    },
+    {
+        "StationUID": "CYI501001009",
+        "StationID": "501001009",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 34,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T01:45:16+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 34
+        },
+        "StationName": "YouBike2.0_嘉義火車站(出口)",
+        "PositionLat": 23.47877,
+        "PositionLon": 120.44089
+    },
+    {
+        "StationUID": "CYI501001010",
+        "StationID": "501001010",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T22:48:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_新光三越遠東站(永和街口)",
+        "PositionLat": 23.47283,
+        "PositionLon": 120.44029
+    },
+    {
+        "StationUID": "CYI501001012",
+        "StationID": "501001012",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T02:12:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義舊市府(西榮街口)",
+        "PositionLat": 23.47336,
+        "PositionLon": 120.44604
+    },
+    {
+        "StationUID": "CYI501001013",
+        "StationID": "501001013",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T02:18:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_文化公園停車場",
+        "PositionLat": 23.4738724,
+        "PositionLon": 120.4493073
+    },
+    {
+        "StationUID": "CYI501001014",
+        "StationID": "501001014",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T01:03:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_嘉義市議會",
+        "PositionLat": 23.47918,
+        "PositionLon": 120.43182
+    },
+    {
+        "StationUID": "CYI501001015",
+        "StationID": "501001015",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T20:48:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_檜意森活村",
+        "PositionLat": 23.486138,
+        "PositionLon": 120.453829
+    },
+    {
+        "StationUID": "CYI501001016",
+        "StationID": "501001016",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 18,
+        "SrcUpdateTime": "2026-06-09T04:44:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義醫院(中興路)",
+        "PositionLat": 23.48091,
+        "PositionLon": 120.43012
+    },
+    {
+        "StationUID": "CYI501001017",
+        "StationID": "501001017",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T21:17:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_友愛興達路口(德安停車場)",
+        "PositionLat": 23.48465,
+        "PositionLon": 120.43354
+    },
+    {
+        "StationUID": "CYI501001018",
+        "StationID": "501001018",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T23:09:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_自由友愛站",
+        "PositionLat": 23.48931,
+        "PositionLon": 120.4361
+    },
+    {
+        "StationUID": "CYI501001019",
+        "StationID": "501001019",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T21:58:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_世賢八德站(自由路)",
+        "PositionLat": 23.49265,
+        "PositionLon": 120.43191
+    },
+    {
+        "StationUID": "CYI501001020",
+        "StationID": "501001020",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 20,
+        "SrcUpdateTime": "2026-06-08T22:15:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_博愛後驛街口",
+        "PositionLat": 23.478941,
+        "PositionLon": 120.437805
+    },
+    {
+        "StationUID": "CYI501001021",
+        "StationID": "501001021",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:21:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉樂福觀光夜市",
+        "PositionLat": 23.47165,
+        "PositionLon": 120.43119
+    },
+    {
+        "StationUID": "CYI501001022",
+        "StationID": "501001022",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T22:13:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_金山玉山路口",
+        "PositionLat": 23.47179,
+        "PositionLon": 120.42466
+    },
+    {
+        "StationUID": "CYI501001023",
+        "StationID": "501001023",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T21:27:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_228國家紀念公園(自強街)",
+        "PositionLat": 23.464925,
+        "PositionLon": 120.414697
+    },
+    {
+        "StationUID": "CYI501001024",
+        "StationID": "501001024",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 17,
+        "AvailableReturnBikes": 23,
+        "SrcUpdateTime": "2026-06-09T03:51:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 14
+        },
+        "StationName": "YouBike2.0_中央廣場(北榮街口)",
+        "PositionLat": 23.481109,
+        "PositionLon": 120.449457
+    },
+    {
+        "StationUID": "CYI501001025",
+        "StationID": "501001025",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-08T22:26:16+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_中央噴水站",
+        "PositionLat": 23.480155,
+        "PositionLon": 120.45028
+    },
+    {
+        "StationUID": "CYI501001026",
+        "StationID": "501001026",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 30,
+        "SrcUpdateTime": "2026-06-09T00:08:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_嘉義家職",
+        "PositionLat": 23.47133,
+        "PositionLon": 120.45854
+    },
+    {
+        "StationUID": "CYI501001027",
+        "StationID": "501001027",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T22:45:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_兒童福利服務中心",
+        "PositionLat": 23.469973,
+        "PositionLon": 120.461705
+    },
+    {
+        "StationUID": "CYI501001028",
+        "StationID": "501001028",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-08T21:36:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_文化中心",
+        "PositionLat": 23.487493,
+        "PositionLon": 120.453047
+    },
+    {
+        "StationUID": "CYI501001029",
+        "StationID": "501001029",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T22:47:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_嘉北火車站(前站出口)",
+        "PositionLat": 23.499749,
+        "PositionLon": 120.448592
+    },
+    {
+        "StationUID": "CYI501001030",
+        "StationID": "501001030",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 53,
+        "SrcUpdateTime": "2026-06-08T23:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 14,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義女中(文化公園)",
+        "PositionLat": 23.47377,
+        "PositionLon": 120.45081
+    },
+    {
+        "StationUID": "CYI501001031",
+        "StationID": "501001031",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 28,
+        "SrcUpdateTime": "2026-06-08T23:11:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 6
+        },
+        "StationName": "YouBike2.0_台電嘉義營業處(民族停車場)",
+        "PositionLat": 23.47416,
+        "PositionLon": 120.455074
+    },
+    {
+        "StationUID": "CYI501001032",
+        "StationID": "501001032",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 0,
+        "SrcUpdateTime": "2025-12-20T02:04:17+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義市體育場(2號出入口)",
+        "PositionLat": 23.471687,
+        "PositionLon": 120.460978
+    },
+    {
+        "StationUID": "CYI501001033",
+        "StationID": "501001033",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T23:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_新光三越遠東站",
+        "PositionLat": 23.4732456,
+        "PositionLon": 120.4421274
+    },
+    {
+        "StationUID": "CYI501001035",
+        "StationID": "501001035",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T23:08:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_大同技術學院",
+        "PositionLat": 23.469153,
+        "PositionLon": 120.46538
+    },
+    {
+        "StationUID": "CYI501001036",
+        "StationID": "501001036",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 50,
+        "SrcUpdateTime": "2026-06-08T21:54:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義高工",
+        "PositionLat": 23.471501,
+        "PositionLon": 120.464382
+    },
+    {
+        "StationUID": "CYI501001037",
+        "StationID": "501001037",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 25,
+        "SrcUpdateTime": "2026-06-08T23:22:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_嘉義市體育館(彌陀路)",
+        "PositionLat": 23.473837,
+        "PositionLon": 120.462379
+    },
+    {
+        "StationUID": "CYI501001038",
+        "StationID": "501001038",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 38,
+        "SrcUpdateTime": "2026-06-09T01:18:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_華南高商",
+        "PositionLat": 23.479245,
+        "PositionLon": 120.459596
+    },
+    {
+        "StationUID": "CYI501001039",
+        "StationID": "501001039",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 20,
+        "SrcUpdateTime": "2026-06-09T03:19:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_北香湖公園(友愛路口)",
+        "PositionLat": 23.49241,
+        "PositionLon": 120.44506
+    },
+    {
+        "StationUID": "CYI501001040",
+        "StationID": "501001040",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 18,
+        "SrcUpdateTime": "2025-11-13T00:02:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_港坪運動公園(大同路)",
+        "PositionLat": 23.47603,
+        "PositionLon": 120.42216
+    },
+    {
+        "StationUID": "CYI501001041",
+        "StationID": "501001041",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T23:18:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_玉山郵局(友忠路)",
+        "PositionLat": 23.471917,
+        "PositionLon": 120.428923
+    },
+    {
+        "StationUID": "CYI501001042",
+        "StationID": "501001042",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-08T21:49:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_檜意森活村(忠孝北門街口)",
+        "PositionLat": 23.484636,
+        "PositionLon": 120.453731
+    },
+    {
+        "StationUID": "CYI501001043",
+        "StationID": "501001043",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-09T05:05:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 6
+        },
+        "StationName": "YouBike2.0_嘉義市轉運中心",
+        "PositionLat": 23.48019,
+        "PositionLon": 120.43972
+    },
+    {
+        "StationUID": "CYI501001046",
+        "StationID": "501001046",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T21:29:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_嘉義市博愛游泳池",
+        "PositionLat": 23.49086,
+        "PositionLon": 120.43864
+    },
+    {
+        "StationUID": "CYI501001047",
+        "StationID": "501001047",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-09T04:56:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_世賢圖書館",
+        "PositionLat": 23.49041,
+        "PositionLon": 120.42857
+    },
+    {
+        "StationUID": "CYI501001048",
+        "StationID": "501001048",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T22:27:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_世賢八德站(八德路口)",
+        "PositionLat": 23.49202,
+        "PositionLon": 120.43008
+    },
+    {
+        "StationUID": "CYI501001050",
+        "StationID": "501001050",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T02:56:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_僑平國小(德明路口)",
+        "PositionLat": 23.48398,
+        "PositionLon": 120.43173
+    },
+    {
+        "StationUID": "CYI501001052",
+        "StationID": "501001052",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T20:55:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學(蘭潭校區)",
+        "PositionLat": 23.463706,
+        "PositionLon": 120.482568
+    },
+    {
+        "StationUID": "CYI501001054",
+        "StationID": "501001054",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 25,
+        "SrcUpdateTime": "2026-06-08T21:56:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 12
+        },
+        "StationName": "YouBike2.0_蘭潭音樂噴泉(嘉大宿舍側門)",
+        "PositionLat": 23.465465,
+        "PositionLon": 120.480728
+    },
+    {
+        "StationUID": "CYI501001055",
+        "StationID": "501001055",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 38,
+        "SrcUpdateTime": "2026-06-08T21:24:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 7
+        },
+        "StationName": "YouBike2.0_嘉義大學(新民路)",
+        "PositionLat": 23.463453,
+        "PositionLon": 120.440895
+    },
+    {
+        "StationUID": "CYI501001056",
+        "StationID": "501001056",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-09T03:19:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 14,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義市監理站",
+        "PositionLat": 23.50046,
+        "PositionLon": 120.45356
+    },
+    {
+        "StationUID": "CYI501001057",
+        "StationID": "501001057",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T22:02:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_頂庄公園",
+        "PositionLat": 23.49749,
+        "PositionLon": 120.45726
+    },
+    {
+        "StationUID": "CYI501001058",
+        "StationID": "501001058",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-08T20:56:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_機六停車場(忠孝路346巷)",
+        "PositionLat": 23.48923,
+        "PositionLon": 120.45528
+    },
+    {
+        "StationUID": "CYI501001059",
+        "StationID": "501001059",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T01:33:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_民權五福街口",
+        "PositionLat": 23.48427,
+        "PositionLon": 120.46628
+    },
+    {
+        "StationUID": "CYI501001060",
+        "StationID": "501001060",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T00:54:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 14,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_蘭潭國小",
+        "PositionLat": 23.47506,
+        "PositionLon": 120.47173
+    },
+    {
+        "StationUID": "CYI501001061",
+        "StationID": "501001061",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T23:22:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_南興國中探索教育園區",
+        "PositionLat": 23.47149,
+        "PositionLon": 120.46864
+    },
+    {
+        "StationUID": "CYI501001062",
+        "StationID": "501001062",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T21:17:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_民生南路120巷口",
+        "PositionLat": 23.47003,
+        "PositionLon": 120.44686
+    },
+    {
+        "StationUID": "CYI501001063",
+        "StationID": "501001063",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:16:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_嘉義市立美術館(蘭井街)",
+        "PositionLat": 23.47669,
+        "PositionLon": 120.44084
+    },
+    {
+        "StationUID": "CYI501001064",
+        "StationID": "501001064",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-09T04:50:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_勞工育樂中心",
+        "PositionLat": 23.4661852,
+        "PositionLon": 120.4671399
+    },
+    {
+        "StationUID": "CYI501001065",
+        "StationID": "501001065",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T22:22:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_垂楊安和街口",
+        "PositionLat": 23.4747438,
+        "PositionLon": 120.4588246
+    },
+    {
+        "StationUID": "CYI501001066",
+        "StationID": "501001066",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T21:45:05+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_霖園長青公園",
+        "PositionLat": 23.4745738,
+        "PositionLon": 120.461545
+    },
+    {
+        "StationUID": "CYI501001067",
+        "StationID": "501001067",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T20:47:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_嘉義市拖吊保管場",
+        "PositionLat": 23.4624,
+        "PositionLon": 120.43747
+    },
+    {
+        "StationUID": "CYI501001068",
+        "StationID": "501001068",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 16,
+        "SrcUpdateTime": "2026-06-08T21:43:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_重慶南京路口",
+        "PositionLat": 23.46555,
+        "PositionLon": 120.43622
+    },
+    {
+        "StationUID": "CYI501001069",
+        "StationID": "501001069",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T21:58:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_興業徐州六街口",
+        "PositionLat": 23.46773,
+        "PositionLon": 120.4381
+    },
+    {
+        "StationUID": "CYI501001070",
+        "StationID": "501001070",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-08T21:44:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 1,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_興業新民路口",
+        "PositionLat": 23.46799,
+        "PositionLon": 120.44065
+    },
+    {
+        "StationUID": "CYI501001071",
+        "StationID": "501001071",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T21:49:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_民生公園(興業西路)",
+        "PositionLat": 23.46836,
+        "PositionLon": 120.44647
+    },
+    {
+        "StationUID": "CYI501001072",
+        "StationID": "501001072",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-09T05:13:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_民生公園(杭州五街口)",
+        "PositionLat": 23.46542,
+        "PositionLon": 120.44516
+    },
+    {
+        "StationUID": "CYI501001073",
+        "StationID": "501001073",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:16:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_仁愛兒童遊戲場",
+        "PositionLat": 23.46764,
+        "PositionLon": 120.4435
+    },
+    {
+        "StationUID": "CYI501001074",
+        "StationID": "501001074",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T21:52:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_番仔溝公園",
+        "PositionLat": 23.47436,
+        "PositionLon": 120.43458
+    },
+    {
+        "StationUID": "CYI501001076",
+        "StationID": "501001076",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 16,
+        "AvailableReturnBikes": 1,
+        "SrcUpdateTime": "2026-06-09T04:21:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 13,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_經國新城G棟(新榮路35巷)",
+        "PositionLat": 23.46968,
+        "PositionLon": 120.44301
+    },
+    {
+        "StationUID": "CYI501001077",
+        "StationID": "501001077",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 28,
+        "SrcUpdateTime": "2026-06-08T23:29:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義市國民運動中心",
+        "PositionLat": 23.471965,
+        "PositionLon": 120.462642
+    },
+    {
+        "StationUID": "CYI501001078",
+        "StationID": "501001078",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 2,
+        "SrcUpdateTime": "2026-06-08T21:52:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_國立中正大學清江學習中心",
+        "PositionLat": 23.46176,
+        "PositionLon": 120.44362
+    },
+    {
+        "StationUID": "CYI501001079",
+        "StationID": "501001079",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T22:32:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_興嘉公園(上海路)",
+        "PositionLat": 23.46838,
+        "PositionLon": 120.43459
+    },
+    {
+        "StationUID": "CYI501001080",
+        "StationID": "501001080",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 13,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T23:58:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 13,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_世賢吳鳳南路口",
+        "PositionLat": 23.4660826,
+        "PositionLon": 120.4542225
+    },
+    {
+        "StationUID": "CYI501001081",
+        "StationID": "501001081",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 23,
+        "SrcUpdateTime": "2026-06-08T21:46:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_民族國小",
+        "PositionLat": 23.4763393,
+        "PositionLon": 120.4544289
+    },
+    {
+        "StationUID": "CYI501001083",
+        "StationID": "501001083",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T21:42:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_立仁高中",
+        "PositionLat": 23.4629832,
+        "PositionLon": 120.4587766
+    },
+    {
+        "StationUID": "CYI501001084",
+        "StationID": "501001084",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T01:23:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_大雅路二段478巷口",
+        "PositionLat": 23.47888,
+        "PositionLon": 120.471
+    },
+    {
+        "StationUID": "CYI501001085",
+        "StationID": "501001085",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T01:17:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_中興北港路口",
+        "PositionLat": 23.47968,
+        "PositionLon": 120.42957
+    },
+    {
+        "StationUID": "CYI501001086",
+        "StationID": "501001086",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-05-21T13:09:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_西市場(國華街)",
+        "PositionLat": 23.478772,
+        "PositionLon": 120.4485543
+    },
+    {
+        "StationUID": "CYI501001087",
+        "StationID": "501001087",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T23:15:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 6
+        },
+        "StationName": "YouBike2.0_嘉油鐵馬道(新民路)",
+        "PositionLat": 23.45862,
+        "PositionLon": 120.4391
+    },
+    {
+        "StationUID": "CYI501001088",
+        "StationID": "501001088",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T17:44:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_玉山國中(友忠路)",
+        "PositionLat": 23.46858,
+        "PositionLon": 120.42598
+    },
+    {
+        "StationUID": "CYI501001089",
+        "StationID": "501001089",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-09T00:28:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_崇文公園",
+        "PositionLat": 23.4712538,
+        "PositionLon": 120.4521476
+    },
+    {
+        "StationUID": "CYI501001090",
+        "StationID": "501001090",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T04:58:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_南興公園",
+        "PositionLat": 23.466283,
+        "PositionLon": 120.4572558
+    },
+    {
+        "StationUID": "CYI501001091",
+        "StationID": "501001091",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:22:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_北社尾公園",
+        "PositionLat": 23.4935,
+        "PositionLon": 120.42468
+    },
+    {
+        "StationUID": "CYI501001092",
+        "StationID": "501001092",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T05:20:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_宣信公園",
+        "PositionLat": 23.4687924,
+        "PositionLon": 120.459759
+    },
+    {
+        "StationUID": "CYI501001093",
+        "StationID": "501001093",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T21:55:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義市河濱運動公園",
+        "PositionLat": 23.45766,
+        "PositionLon": 120.46236
+    },
+    {
+        "StationUID": "CYI501001094",
+        "StationID": "501001094",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T21:15:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_軍輝溪興街153巷口",
+        "PositionLat": 23.45419,
+        "PositionLon": 120.45708
+    },
+    {
+        "StationUID": "CYI501001095",
+        "StationID": "501001095",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T22:06:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉北國小",
+        "PositionLat": 23.49285,
+        "PositionLon": 120.45442
+    },
+    {
+        "StationUID": "CYI501001096",
+        "StationID": "501001096",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 21,
+        "SrcUpdateTime": "2026-06-08T21:57:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義基督教醫院保健大樓",
+        "PositionLat": 23.50037,
+        "PositionLon": 120.45094
+    },
+    {
+        "StationUID": "CYI501001097",
+        "StationID": "501001097",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 13,
+        "SrcUpdateTime": "2026-06-08T23:04:15+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義地方檢察署",
+        "PositionLat": 23.4886266,
+        "PositionLon": 120.4634864
+    },
+    {
+        "StationUID": "CYI501001098",
+        "StationID": "501001098",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 20,
+        "SrcUpdateTime": "2026-04-28T15:56:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_舊市府停車場(民生北路)",
+        "PositionLat": 23.47462,
+        "PositionLon": 120.44664
+    },
+    {
+        "StationUID": "CYI501001099",
+        "StationID": "501001099",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T21:16:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_長榮公園",
+        "PositionLat": 23.4847,
+        "PositionLon": 120.45824
+    },
+    {
+        "StationUID": "CYI501001100",
+        "StationID": "501001100",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 16,
+        "SrcUpdateTime": "2025-11-13T00:02:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_林森西文化路口",
+        "PositionLat": 23.48454,
+        "PositionLon": 120.44918
+    },
+    {
+        "StationUID": "CYI501001101",
+        "StationID": "501001101",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-09T04:14:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_世賢北港站",
+        "PositionLat": 23.4844,
+        "PositionLon": 120.42305
+    },
+    {
+        "StationUID": "CYI501001102",
+        "StationID": "501001102",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T21:57:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_世賢保安四路口",
+        "PositionLat": 23.49447,
+        "PositionLon": 120.43527
+    },
+    {
+        "StationUID": "CYI501001103",
+        "StationID": "501001103",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 16,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T23:02:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_崇仁醫專",
+        "PositionLat": 23.4801,
+        "PositionLon": 120.48215
+    },
+    {
+        "StationUID": "CYI501001104",
+        "StationID": "501001104",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T22:34:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 7
+        },
+        "StationName": "YouBike2.0_文雅國小",
+        "PositionLat": 23.4838,
+        "PositionLon": 120.48759
+    },
+    {
+        "StationUID": "CYI501001105",
+        "StationID": "501001105",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-09T02:26:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_忠孝北街",
+        "PositionLat": 23.51576,
+        "PositionLon": 120.44218
+    },
+    {
+        "StationUID": "CYI501001106",
+        "StationID": "501001106",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T01:03:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_文昌公園",
+        "PositionLat": 23.4785,
+        "PositionLon": 120.45631
+    },
+    {
+        "StationUID": "CYI501001107",
+        "StationID": "501001107",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-09T05:20:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_精忠社區",
+        "PositionLat": 23.49185,
+        "PositionLon": 120.47722
+    },
+    {
+        "StationUID": "CYI501001108",
+        "StationID": "501001108",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:27:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_長億花園廣場社區",
+        "PositionLat": 23.49067,
+        "PositionLon": 120.46129
+    },
+    {
+        "StationUID": "CYI501001109",
+        "StationID": "501001109",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T04:17:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_義昌公園",
+        "PositionLat": 23.47653,
+        "PositionLon": 120.44632
+    },
+    {
+        "StationUID": "CYI501001110",
+        "StationID": "501001110",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-09T05:07:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_臺灣銀行嘉北分行(耐斯廣場站)",
+        "PositionLat": 23.49715,
+        "PositionLon": 120.45226
+    },
+    {
+        "StationUID": "CYI501001111",
+        "StationID": "501001111",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 15,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T20:43:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 15,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學學生活動中心(美食街)",
+        "PositionLat": 23.4679,
+        "PositionLon": 120.48315
+    },
+    {
+        "StationUID": "CYI501001112",
+        "StationID": "501001112",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 13,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T21:59:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 12,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_嘉義大學蘭潭招待所",
+        "PositionLat": 23.46546,
+        "PositionLon": 120.48251
+    },
+    {
+        "StationUID": "CYI501001113",
+        "StationID": "501001113",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T18:34:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學嘉禾館(體育館)",
+        "PositionLat": 23.46633,
+        "PositionLon": 120.48391
+    },
+    {
+        "StationUID": "CYI501001114",
+        "StationID": "501001114",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T00:54:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 12,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學行政中心(電物一館)",
+        "PositionLat": 23.46779,
+        "PositionLon": 120.48394
+    },
+    {
+        "StationUID": "CYI501001115",
+        "StationID": "501001115",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 41,
+        "SrcUpdateTime": "2026-06-08T21:54:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學綜合教學大樓",
+        "PositionLat": 23.47094,
+        "PositionLon": 120.48727
+    },
+    {
+        "StationUID": "CYI501001116",
+        "StationID": "501001116",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T21:50:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_慈幼幼兒園",
+        "PositionLat": 23.491767,
+        "PositionLon": 120.46644
+    },
+    {
+        "StationUID": "CYI501001117",
+        "StationID": "501001117",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:22:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_林森新榮路口",
+        "PositionLat": 23.48087,
+        "PositionLon": 120.44352
+    },
+    {
+        "StationUID": "CYI501001118",
+        "StationID": "501001118",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-09T04:58:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_世賢忠孝路口",
+        "PositionLat": 23.495546,
+        "PositionLon": 120.45138
+    },
+    {
+        "StationUID": "CYI501001119",
+        "StationID": "501001119",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T18:34:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_大溪厝",
+        "PositionLat": 23.484384,
+        "PositionLon": 120.413203
+    },
+    {
+        "StationUID": "CYI501001120",
+        "StationID": "501001120",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T23:41:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 13,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_自由遠東街口",
+        "PositionLat": 23.486756,
+        "PositionLon": 120.438749
+    },
+    {
+        "StationUID": "CYI501001121",
+        "StationID": "501001121",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 16,
+        "AvailableReturnBikes": 33,
+        "SrcUpdateTime": "2026-06-08T22:50:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 16,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_文化公園(民族路)",
+        "PositionLat": 23.476051,
+        "PositionLon": 120.451238
+    },
+    {
+        "StationUID": "CYI501001122",
+        "StationID": "501001122",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T23:29:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 6
+        },
+        "StationName": "YouBike2.0_中正公園",
+        "PositionLat": 23.482,
+        "PositionLon": 120.447994
+    },
+    {
+        "StationUID": "CYI501001123",
+        "StationID": "501001123",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 13,
+        "SrcUpdateTime": "2026-06-09T01:01:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_重慶世賢路三段口",
+        "PositionLat": 23.462507,
+        "PositionLon": 120.43139
+    },
+    {
+        "StationUID": "CYI501001124",
+        "StationID": "501001124",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T21:24:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_嘉義市果菜市場",
+        "PositionLat": 23.490809,
+        "PositionLon": 120.396929
+    },
+    {
+        "StationUID": "CYI501001125",
+        "StationID": "501001125",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 2,
+        "SrcUpdateTime": "2026-06-08T21:35:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 6
+        },
+        "StationName": "YouBike2.0_大雅路一段368巷",
+        "PositionLat": 23.483845,
+        "PositionLon": 120.497274
+    },
+    {
+        "StationUID": "CYI501001126",
+        "StationID": "501001126",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T00:47:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 7
+        },
+        "StationName": "YouBike2.0_大雅雅竹路口",
+        "PositionLat": 23.477179,
+        "PositionLon": 120.475248
+    },
+    {
+        "StationUID": "CYI501001127",
+        "StationID": "501001127",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:48:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_湖廣停10停車場",
+        "PositionLat": 23.451012,
+        "PositionLon": 120.441564
+    },
+    {
+        "StationUID": "CYI501001128",
+        "StationID": "501001128",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T20:40:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_臺中榮總嘉義分院(後門)",
+        "PositionLat": 23.465655,
+        "PositionLon": 120.423591
+    },
+    {
+        "StationUID": "CYI501001129",
+        "StationID": "501001129",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 16,
+        "SrcUpdateTime": "2026-06-08T22:32:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_公明維新路口",
+        "PositionLat": 23.48059,
+        "PositionLon": 120.458682
+    },
+    {
+        "StationUID": "CYI501001130",
+        "StationID": "501001130",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T02:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_康樂仁愛路口",
+        "PositionLat": 23.47431,
+        "PositionLon": 120.442506
+    },
+    {
+        "StationUID": "CYI501001131",
+        "StationID": "501001131",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T21:33:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_頭港真武宮",
+        "PositionLat": 23.468456,
+        "PositionLon": 120.405712
+    },
+    {
+        "StationUID": "CYI501001132",
+        "StationID": "501001132",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:47:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_新民永安街口",
+        "PositionLat": 23.470031,
+        "PositionLon": 120.439957
+    },
+    {
+        "StationUID": "CYI501001133",
+        "StationID": "501001133",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:33:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_元一宮",
+        "PositionLat": 23.490512,
+        "PositionLon": 120.44266
+    },
+    {
+        "StationUID": "CYI501001134",
+        "StationID": "501001134",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T22:14:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_湖廣停2停車場",
+        "PositionLat": 23.459242,
+        "PositionLon": 120.452354
+    },
+    {
+        "StationUID": "CYI501001135",
+        "StationID": "501001135",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-09T04:34:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_劉厝2號公園",
+        "PositionLat": 23.463948,
+        "PositionLon": 120.418485
+    },
+    {
+        "StationUID": "CYI501001136",
+        "StationID": "501001136",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T01:52:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 8
+        },
+        "StationName": "YouBike2.0_新榮賢雅街口",
+        "PositionLat": 23.471386073649,
+        "PositionLon": 120.444953542936
+    },
+    {
+        "StationUID": "CYI501001137",
+        "StationID": "501001137",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:28:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_上海新建街口",
+        "PositionLat": 23.47064,
+        "PositionLon": 120.43789
+    },
+    {
+        "StationUID": "CYI501001138",
+        "StationID": "501001138",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T21:36:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_北香湖公園(博愛路)",
+        "PositionLat": 23.489608,
+        "PositionLon": 120.446834
+    },
+    {
+        "StationUID": "CYI501001139",
+        "StationID": "501001139",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-09T02:41:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_博愛向榮街口",
+        "PositionLat": 23.487741,
+        "PositionLon": 120.444923
+    },
+    {
+        "StationUID": "CYI501001140",
+        "StationID": "501001140",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-09T00:04:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_英統別墅",
+        "PositionLat": 23.49182,
+        "PositionLon": 120.469965
+    },
+    {
+        "StationUID": "CYI501001141",
+        "StationID": "501001141",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T18:33:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_彰武宮",
+        "PositionLat": 23.4736,
+        "PositionLon": 120.407663
+    },
+    {
+        "StationUID": "CYI501001143",
+        "StationID": "501001143",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T01:56:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_志昇新榮路口",
+        "PositionLat": 23.469284,
+        "PositionLon": 120.444883
+    },
+    {
+        "StationUID": "CYI501001144",
+        "StationID": "501001144",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 29,
+        "AvailableReturnBikes": 1,
+        "SrcUpdateTime": "2026-06-08T22:18:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 20,
+            "ElectricBikes": 9
+        },
+        "StationName": "YouBike2.0_嘉義大學林森校區",
+        "PositionLat": 23.487661,
+        "PositionLon": 120.459607
+    },
+    {
+        "StationUID": "CYI501001145",
+        "StationID": "501001145",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 11,
+        "AvailableReturnBikes": 23,
+        "SrcUpdateTime": "2026-06-09T03:34:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_宣信國小(興業東路)",
+        "PositionLat": 23.469889,
+        "PositionLon": 120.45954
+    },
+    {
+        "StationUID": "CYI501001146",
+        "StationID": "501001146",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-09T01:29:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_KANO園區停車場",
+        "PositionLat": 23.4816872,
+        "PositionLon": 120.4640992
+    },
+    {
+        "StationUID": "CYI501001147",
+        "StationID": "501001147",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T23:50:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_行嘉吊橋",
+        "PositionLat": 23.455398,
+        "PositionLon": 120.455622
+    },
+    {
+        "StationUID": "CYI501001148",
+        "StationID": "501001148",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T19:52:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_紫微宮",
+        "PositionLat": 23.48083,
+        "PositionLon": 120.40341
+    },
+    {
+        "StationUID": "CYI501001149",
+        "StationID": "501001149",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T18:43:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_下埤里(北港路)",
+        "PositionLat": 23.48974,
+        "PositionLon": 120.40573
+    },
+    {
+        "StationUID": "CYI501001150",
+        "StationID": "501001150",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 16,
+        "AvailableReturnBikes": 25,
+        "SrcUpdateTime": "2026-06-08T21:53:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 13
+        },
+        "StationName": "YouBike2.0_嘉華高級中學",
+        "PositionLat": 23.483979,
+        "PositionLon": 120.47512
+    },
+    {
+        "StationUID": "CYI501001151",
+        "StationID": "501001151",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:39:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_南興國中(側門)",
+        "PositionLat": 23.46707,
+        "PositionLon": 120.461787
+    },
+    {
+        "StationUID": "CYI501001152",
+        "StationID": "501001152",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T21:28:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_博愛路自強街口",
+        "PositionLat": 23.464809,
+        "PositionLon": 120.424587
+    },
+    {
+        "StationUID": "CYI501001153",
+        "StationID": "501001153",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T22:41:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_和平中正路口",
+        "PositionLat": 23.480069,
+        "PositionLon": 120.456891
+    },
+    {
+        "StationUID": "CYI501001154",
+        "StationID": "501001154",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 4,
+        "SrcUpdateTime": "2026-06-08T18:49:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_嘉義市奉天宮",
+        "PositionLat": 23.503572,
+        "PositionLon": 120.439116
+    },
+    {
+        "StationUID": "CYI501001155",
+        "StationID": "501001155",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T04:46:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_中興友孝路口",
+        "PositionLat": 23.48228,
+        "PositionLon": 120.43492
+    },
+    {
+        "StationUID": "CYI501001156",
+        "StationID": "501001156",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-09T00:36:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_南田公園",
+        "PositionLat": 23.47076876280309,
+        "PositionLon": 120.45529934912368
+    },
+    {
+        "StationUID": "CYI501001157",
+        "StationID": "501001157",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T23:18:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_王田里集會所",
+        "PositionLat": 23.48651,
+        "PositionLon": 120.46784
+    },
+    {
+        "StationUID": "CYI501001158",
+        "StationID": "501001158",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T21:45:05+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 7
+        },
+        "StationName": "YouBike2.0_圳頭里福正宮",
+        "PositionLat": 23.48872,
+        "PositionLon": 120.46884
+    },
+    {
+        "StationUID": "CYI501001159",
+        "StationID": "501001159",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T22:58:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 8
+        },
+        "StationName": "YouBike2.0_盧義路文雅街口",
+        "PositionLat": 23.482278732615548,
+        "PositionLon": 120.48321439550685
+    },
+    {
+        "StationUID": "CYI501001160",
+        "StationID": "501001160",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-09T01:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_短竹公園",
+        "PositionLat": 23.46947,
+        "PositionLon": 120.46802
+    },
+    {
+        "StationUID": "CYI501001161",
+        "StationID": "501001161",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T21:57:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_民生南南京路口",
+        "PositionLat": 23.45574,
+        "PositionLon": 120.44334
+    },
+    {
+        "StationUID": "CYI501001162",
+        "StationID": "501001162",
+        "ServiceStatus": 0,
+        "ServiceType": 2,
+        "AvailableRentBikes": 0,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-02-22T14:20:18+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_育人國小",
+        "PositionLat": 23.47279,
+        "PositionLon": 120.4163
+    },
+    {
+        "StationUID": "CYI501001163",
+        "StationID": "501001163",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T21:27:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_友忠公園",
+        "PositionLat": 23.47731,
+        "PositionLon": 120.43383
+    },
+    {
+        "StationUID": "CYI501001164",
+        "StationID": "501001164",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-09T04:54:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_立仁路宣信街口",
+        "PositionLat": 23.46471,
+        "PositionLon": 120.46333
+    },
+    {
+        "StationUID": "CYI501001165",
+        "StationID": "501001165",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T19:15:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義市肉品市場",
+        "PositionLat": 23.50815,
+        "PositionLon": 120.43581
+    },
+    {
+        "StationUID": "CYI501001166",
+        "StationID": "501001166",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:30:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_世賢路松江一街口",
+        "PositionLat": 23.49475,
+        "PositionLon": 120.44211
+    },
+    {
+        "StationUID": "CYI501001167",
+        "StationID": "501001167",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-09T01:15:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_世賢大華路口",
+        "PositionLat": 23.47361,
+        "PositionLon": 120.42142
+    },
+    {
+        "StationUID": "CYI501001168",
+        "StationID": "501001168",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T23:30:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_安心醫院",
+        "PositionLat": 23.453,
+        "PositionLon": 120.43357
+    },
+    {
+        "StationUID": "CYI501001169",
+        "StationID": "501001169",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T19:21:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_湖廣停八停車場",
+        "PositionLat": 23.45812,
+        "PositionLon": 120.44789
+    },
+    {
+        "StationUID": "CYI501001170",
+        "StationID": "501001170",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 13,
+        "SrcUpdateTime": "2026-06-08T21:41:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_湖子內公園",
+        "PositionLat": 23.45454,
+        "PositionLon": 120.4471
+    },
+    {
+        "StationUID": "CYI501001171",
+        "StationID": "501001171",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T23:12:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_上海漢口路口",
+        "PositionLat": 23.46575,
+        "PositionLon": 120.43196
+    },
+    {
+        "StationUID": "CYI501001172",
+        "StationID": "501001172",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T22:36:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_世賢竹圍路口",
+        "PositionLat": 23.48679,
+        "PositionLon": 120.42523
+    },
+    {
+        "StationUID": "CYI501001173",
+        "StationID": "501001173",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T21:40:05+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_新民重慶路口",
+        "PositionLat": 23.46584,
+        "PositionLon": 120.44001
+    },
+    {
+        "StationUID": "CYI501001174",
+        "StationID": "501001174",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T21:58:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_八德竹圍路口",
+        "PositionLat": 23.4864,
+        "PositionLon": 120.43068
+    },
+    {
+        "StationUID": "CYI501001175",
+        "StationID": "501001175",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 22,
+        "SrcUpdateTime": "2026-06-09T01:55:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_劉厝3號公園",
+        "PositionLat": 23.46123,
+        "PositionLon": 120.4154
+    },
+    {
+        "StationUID": "CYI501001176",
+        "StationID": "501001176",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T21:37:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 0,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_勞保局",
+        "PositionLat": 23.4634,
+        "PositionLon": 120.45504
+    },
+    {
+        "StationUID": "CYI501001177",
+        "StationID": "501001177",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-09T04:45:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義公園(公園街)",
+        "PositionLat": 23.48038,
+        "PositionLon": 120.46651
+    },
+    {
+        "StationUID": "CYI501001178",
+        "StationID": "501001178",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 12,
+        "SrcUpdateTime": "2026-06-08T20:55:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 1,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_中山新生路口",
+        "PositionLat": 23.48228,
+        "PositionLon": 120.46113
+    },
+    {
+        "StationUID": "CYI501001179",
+        "StationID": "501001179",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T23:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_民權共和路口",
+        "PositionLat": 23.48305,
+        "PositionLon": 120.45499
+    },
+    {
+        "StationUID": "CYI501001180",
+        "StationID": "501001180",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 2,
+        "SrcUpdateTime": "2026-06-08T22:31:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 1,
+            "ElectricBikes": 8
+        },
+        "StationName": "YouBike2.0_北門車站",
+        "PositionLat": 23.48737,
+        "PositionLon": 120.45459
+    },
+    {
+        "StationUID": "CYI501001181",
+        "StationID": "501001181",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 2,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T20:25:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_忠孝博東路口",
+        "PositionLat": 23.49054,
+        "PositionLon": 120.45325
+    },
+    {
+        "StationUID": "CYI501001182",
+        "StationID": "501001182",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 24,
+        "SrcUpdateTime": "2026-06-08T22:34:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_中央廣場(民權路)",
+        "PositionLat": 23.48227,
+        "PositionLon": 120.45003
+    },
+    {
+        "StationUID": "CYI501001183",
+        "StationID": "501001183",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T22:21:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_東洋新村(公車站)",
+        "PositionLat": 23.48138,
+        "PositionLon": 120.49018
+    },
+    {
+        "StationUID": "CYI501001185",
+        "StationID": "501001185",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T04:08:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_四維路僑嘉二街口",
+        "PositionLat": 23.4808,
+        "PositionLon": 120.42629
+    },
+    {
+        "StationUID": "CYI501001186",
+        "StationID": "501001186",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-09T00:33:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_仁愛路延平街口",
+        "PositionLat": 23.4762,
+        "PositionLon": 120.44204
+    },
+    {
+        "StationUID": "CYI501001187",
+        "StationID": "501001187",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T20:21:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_嘉義大學農業科學館",
+        "PositionLat": 23.47226,
+        "PositionLon": 120.48489
+    },
+    {
+        "StationUID": "CYI501001190",
+        "StationID": "501001190",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 13,
+        "AvailableReturnBikes": 1,
+        "SrcUpdateTime": "2026-06-09T02:06:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_雙竹友竹街口",
+        "PositionLat": 23.4842,
+        "PositionLon": 120.43824
+    },
+    {
+        "StationUID": "CYI501001191",
+        "StationID": "501001191",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-09T00:35:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_保義路忠孝二街口",
+        "PositionLat": 23.50383,
+        "PositionLon": 120.45295
+    },
+    {
+        "StationUID": "CYI501001192",
+        "StationID": "501001192",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T20:35:05+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_宏都宏都大樓",
+        "PositionLat": 23.50207,
+        "PositionLon": 120.45467
+    },
+    {
+        "StationUID": "CYI501001193",
+        "StationID": "501001193",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 8,
+        "AvailableReturnBikes": 8,
+        "SrcUpdateTime": "2026-06-08T23:59:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_義教西義教東路",
+        "PositionLat": 23.49484,
+        "PositionLon": 120.46683
+    },
+    {
+        "StationUID": "CYI501001194",
+        "StationID": "501001194",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T22:00:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_垂楊國小",
+        "PositionLat": 23.47259,
+        "PositionLon": 120.43904
+    },
+    {
+        "StationUID": "CYI501001195",
+        "StationID": "501001195",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-09T01:13:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_忠孝民樂街口",
+        "PositionLat": 23.48082,
+        "PositionLon": 120.45455
+    },
+    {
+        "StationUID": "CYI501001196",
+        "StationID": "501001196",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 6,
+        "SrcUpdateTime": "2026-06-08T21:18:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_中山共和路口",
+        "PositionLat": 23.48174,
+        "PositionLon": 120.45487
+    },
+    {
+        "StationUID": "CYI501001197",
+        "StationID": "501001197",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 16,
+        "SrcUpdateTime": "2026-06-08T22:35:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_嘉農校友會",
+        "PositionLat": 23.48207,
+        "PositionLon": 120.45408
+    },
+    {
+        "StationUID": "CYI501001198",
+        "StationID": "501001198",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T23:40:05+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 10,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_林森東新生路口",
+        "PositionLat": 23.48733,
+        "PositionLon": 120.46043
+    },
+    {
+        "StationUID": "CYI501001199",
+        "StationID": "501001199",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 13,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T21:58:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 11,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_四維興達路口",
+        "PositionLat": 23.48487,
+        "PositionLon": 120.42727
+    },
+    {
+        "StationUID": "CYI501001200",
+        "StationID": "501001200",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T20:02:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_中興大華路口",
+        "PositionLat": 23.47526,
+        "PositionLon": 120.42819
+    },
+    {
+        "StationUID": "CYI501001201",
+        "StationID": "501001201",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T21:49:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_劉厝公園",
+        "PositionLat": 23.46817,
+        "PositionLon": 120.41673
+    },
+    {
+        "StationUID": "CYI501001202",
+        "StationID": "501001202",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T21:46:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 4
+        },
+        "StationName": "YouBike2.0_健康九湖美十路口",
+        "PositionLat": 23.45065,
+        "PositionLon": 120.43617
+    },
+    {
+        "StationUID": "CYI501001203",
+        "StationID": "501001203",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T18:57:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_廣停3",
+        "PositionLat": 23.44796,
+        "PositionLon": 120.44066
+    },
+    {
+        "StationUID": "CYI501001204",
+        "StationID": "501001204",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T21:13:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_南京漢口路口",
+        "PositionLat": 23.46384,
+        "PositionLon": 120.43637
+    },
+    {
+        "StationUID": "CYI501001206",
+        "StationID": "501001206",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-09T00:44:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_湖內兒童公園",
+        "PositionLat": 23.45527,
+        "PositionLon": 120.44174
+    },
+    {
+        "StationUID": "CYI501001207",
+        "StationID": "501001207",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 15,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T00:50:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 13,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_雅竹路大雅路二段433巷口",
+        "PositionLat": 23.47589,
+        "PositionLon": 120.47288
+    },
+    {
+        "StationUID": "CYI501001208",
+        "StationID": "501001208",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T23:55:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 6,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_義教東東義路93巷口",
+        "PositionLat": 23.49395,
+        "PositionLon": 120.46855
+    },
+    {
+        "StationUID": "CYI501001209",
+        "StationID": "501001209",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 19,
+        "SrcUpdateTime": "2026-06-08T21:41:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_湖子內公園(湖美一健康九路口)",
+        "PositionLat": 23.45016,
+        "PositionLon": 120.44701
+    },
+    {
+        "StationUID": "CYI501001210",
+        "StationID": "501001210",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T21:43:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_義教里口袋公園",
+        "PositionLat": 23.49929,
+        "PositionLon": 120.45222
+    },
+    {
+        "StationUID": "CYI501001211",
+        "StationID": "501001211",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 13,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-09T01:20:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 8,
+            "ElectricBikes": 5
+        },
+        "StationName": "YouBike2.0_小雅大雅路口",
+        "PositionLat": 23.47765,
+        "PositionLon": 120.46978
+    },
+    {
+        "StationUID": "CYI501001213",
+        "StationID": "501001213",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 10,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T22:29:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_世賢路安業街口",
+        "PositionLat": 23.46416,
+        "PositionLon": 120.45116
+    },
+    {
+        "StationUID": "CYI501001214",
+        "StationID": "501001214",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 17,
+        "AvailableReturnBikes": 28,
+        "SrcUpdateTime": "2026-06-09T04:49:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 15,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_嘉義大學新民校區宿舍(賢德樓)",
+        "PositionLat": 23.46185,
+        "PositionLon": 120.4454
+    },
+    {
+        "StationUID": "CYI501001215",
+        "StationID": "501001215",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 13,
+        "SrcUpdateTime": "2026-06-08T20:57:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_宏仁女中",
+        "PositionLat": 23.50626,
+        "PositionLon": 120.4464
+    },
+    {
+        "StationUID": "CYI501001216",
+        "StationID": "501001216",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 24,
+        "SrcUpdateTime": "2026-06-09T03:00:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_南興國中(芳安路)",
+        "PositionLat": 23.46883,
+        "PositionLon": 120.46361
+    },
+    {
+        "StationUID": "CYI501001217",
+        "StationID": "501001217",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 16,
+        "SrcUpdateTime": "2026-06-08T17:05:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_第五河川分署",
+        "PositionLat": 23.4581,
+        "PositionLon": 120.46063
+    },
+    {
+        "StationUID": "CYI501001218",
+        "StationID": "501001218",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 12,
+        "AvailableReturnBikes": 17,
+        "SrcUpdateTime": "2026-06-08T21:30:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_新生公明路口",
+        "PositionLat": 23.48078,
+        "PositionLon": 120.46151
+    },
+    {
+        "StationUID": "CYI501001219",
+        "StationID": "501001219",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T20:27:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 1,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_盧義林森東路口",
+        "PositionLat": 23.49433,
+        "PositionLon": 120.48218
+    },
+    {
+        "StationUID": "CYI501001220",
+        "StationID": "501001220",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 5,
+        "SrcUpdateTime": "2026-06-08T21:55:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 7,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_博愛中興路口",
+        "PositionLat": 23.48162,
+        "PositionLon": 120.43948
+    },
+    {
+        "StationUID": "CYI501001221",
+        "StationID": "501001221",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T21:39:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_自由友忠路口",
+        "PositionLat": 23.48553,
+        "PositionLon": 120.44124
+    },
+    {
+        "StationUID": "CYI501001222",
+        "StationID": "501001222",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T21:50:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_湖美一湖美三路口",
+        "PositionLat": 23.44453,
+        "PositionLon": 120.44437
+    },
+    {
+        "StationUID": "CYI501001223",
+        "StationID": "501001223",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 9,
+        "SrcUpdateTime": "2026-06-08T20:22:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 5,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_下埤鎮安宮",
+        "PositionLat": 23.49253,
+        "PositionLon": 120.41239
+    },
+    {
+        "StationUID": "CYI501001224",
+        "StationID": "501001224",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T21:21:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_何庄",
+        "PositionLat": 23.47475,
+        "PositionLon": 120.402489
+    },
+    {
+        "StationUID": "CYI501001225",
+        "StationID": "501001225",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 14,
+        "AvailableReturnBikes": 3,
+        "SrcUpdateTime": "2026-06-08T22:54:02+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 12,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_蘭潭鎮德宮(大雅路)",
+        "PositionLat": 23.48026,
+        "PositionLon": 120.48569
+    },
+    {
+        "StationUID": "CYI501001227",
+        "StationID": "501001227",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 6,
+        "AvailableReturnBikes": 19,
+        "SrcUpdateTime": "2026-06-08T20:50:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_四維大同路口",
+        "PositionLat": 23.47725,
+        "PositionLon": 120.42512
+    },
+    {
+        "StationUID": "CYI501001228",
+        "StationID": "501001228",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 11,
+        "SrcUpdateTime": "2026-06-08T22:10:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_興美十街興安街口",
+        "PositionLat": 23.46151,
+        "PositionLon": 120.44879
+    },
+    {
+        "StationUID": "CYI501001230",
+        "StationID": "501001230",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 9,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T22:00:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 9,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_世賢保安二路口",
+        "PositionLat": 23.49443,
+        "PositionLon": 120.4384
+    },
+    {
+        "StationUID": "CYI501001231",
+        "StationID": "501001231",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 7,
+        "AvailableReturnBikes": 7,
+        "SrcUpdateTime": "2026-06-08T17:45:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 4,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_世賢海口寮路口",
+        "PositionLat": 23.49429,
+        "PositionLon": 120.43267
+    },
+    {
+        "StationUID": "CYI501001232",
+        "StationID": "501001232",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 10,
+        "SrcUpdateTime": "2026-06-08T21:28:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_世賢玉山路口",
+        "PositionLat": 23.47126,
+        "PositionLon": 120.422
+    },
+    {
+        "StationUID": "CYI501001233",
+        "StationID": "501001233",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T20:17:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 3,
+            "ElectricBikes": 0
+        },
+        "StationName": "YouBike2.0_綠映水漾公園",
+        "PositionLat": 23.46404,
+        "PositionLon": 120.46756
+    },
+    {
+        "StationUID": "CYI501001234",
+        "StationID": "501001234",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 5,
+        "AvailableReturnBikes": 15,
+        "SrcUpdateTime": "2026-06-08T20:53:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 3
+        },
+        "StationName": "YouBike2.0_忠孝北成功三街口",
+        "PositionLat": 23.5173,
+        "PositionLon": 120.44765
+    },
+    {
+        "StationUID": "CYI501001235",
+        "StationID": "501001235",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 3,
+        "AvailableReturnBikes": 14,
+        "SrcUpdateTime": "2026-06-08T21:09:03+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 1
+        },
+        "StationName": "YouBike2.0_晨光智能發展中心",
+        "PositionLat": 23.50577,
+        "PositionLon": 120.44968
+    },
+    {
+        "StationUID": "CYI501001236",
+        "StationID": "501001236",
+        "ServiceStatus": 1,
+        "ServiceType": 2,
+        "AvailableRentBikes": 4,
+        "AvailableReturnBikes": 19,
+        "SrcUpdateTime": "2026-06-08T20:44:04+08:00",
+        "UpdateTime": "2026-06-09T05:20:36+08:00",
+        "AvailableRentBikesDetail": {
+            "GeneralBikes": 2,
+            "ElectricBikes": 2
+        },
+        "StationName": "YouBike2.0_嘉油鐵馬道(紅瓦厝站)",
+        "PositionLat": 23.45804,
+        "PositionLon": 120.42981
+    }
+]

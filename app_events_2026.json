@@ -1,0 +1,1190 @@
+[
+    {
+        "EventID": "Event_A15010000H_081658",
+        "EventName": "2026阿里山四季茶旅活動",
+        "AlternateNames": null,
+        "Description": "阿里山四季茶旅活動係藉由培訓在地茶旅達人、茶旅體驗環境氛圍營造及行銷推廣活動，推廣阿里山好茶及多元品茗情境；四季茶旅活動以春分夏至，白露大雪為主題，結合在地茶旅達人司茶，伴著阿里山自然地景風貌（如：櫻花、螢火蟲、瀑布、竹林、森林、黃頭鷺、紫藤、雲瀑等），山林芬多精，品茗阿里山優質茶湯滋味；本計畫並將旅遊動線串連到產地製茶體驗、旅宿及品茗，開發多元茶品、茶輕食、茶文創商品，並搭配本處阿里山日產業展及國際旅展等聯合行銷茶旅遊程，提供國人與國際人士預約體驗深度茶之旅，形塑專屬阿里山茶文化體驗觀光品牌，促進阿里山茶文化、生態、產業等在地創生及深耕，活絡阿里山在地觀光產業，創造阿里山茶旅觀光產業整體效益與產值。",
+        "PositionLat": 23.50479,
+        "PositionLon": 120.6959,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "竹崎鄉",
+            "TownCode": "10010140",
+            "ZipCode": "604",
+            "StreetAddress": "2026年活動地點尚未確定"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "阿里山四季茶旅-查旅行手作團茶活動",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/ba8cbed3-ac28-4791-85bf-74e067e023d6.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-04-01T00:00:00+08:00",
+        "EndDateTime": "2026-11-30T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081673",
+        "EventName": "2026嘉義市光織影舞-光影藝術展",
+        "AlternateNames": null,
+        "Description": "結合嘉義市特色及文化，以四季與中秋節為主題，設置8件光影藝術裝置，搭配表演活動，吸引旅客來嘉義市駐留體驗。    嘉義市國際藝術紀錄影展",
+        "PositionLat": 23.49205,
+        "PositionLon": 120.4453,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義市",
+            "CityCode": "10020",
+            "Town": "西區",
+            "TownCode": "10020020",
+            "ZipCode": "600",
+            "StreetAddress": "北香湖公園"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2254321",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "「2025 光織影舞」以迪士尼經典動畫《愛麗絲夢遊仙境》為主題,呈現奇幻又浪漫的沉浸式體驗",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/36c7f6f9-97c9-4371-b702-65148f08af79.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.facebook.com/zoominchiayi",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-10-04T00:00:00+08:00",
+        "EndDateTime": "2026-10-19T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081682",
+        "EventName": "故宮亞洲藝術節—喜馬拉雅月",
+        "AlternateNames": null,
+        "Description": "自2017年起於南部院區辦理「故宮亞洲藝術節」，每年聚焦特定亞洲國家，配合當期亞洲主題特展，於10月份推出主題展示、闖關遊戲、服飾體驗創意課程、藝文表演、專題講座等活動，前已辦理印度、新加坡、泰國、蒙古、印尼、越南及韓國等國文化系列活動，每年度活動辦理期間吸引8萬至10萬國內外遊客參與體驗。",
+        "PositionLat": 23.47313,
+        "PositionLon": 120.2927,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "太保市",
+            "TownCode": "10010010",
+            "ZipCode": "612",
+            "StreetAddress": "故宮大道888號"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)3620555",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "開幕表演",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/ed7db635-48e3-4034-a85e-18cef38719d1.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-10-04T00:00:00+08:00",
+        "EndDateTime": "2026-11-02T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081696",
+        "EventName": "2026城隍夜巡夯枷解厄",
+        "AlternateNames": null,
+        "Description": "國定古蹟嘉義城隍廟城隍夜巡夯枷解厄活動涵蓋有近百年歷史的嘉義城隍中元祭，炸寒單庇佑信眾平安等，今年嘉義城隍夜巡，推出的創新活動之一，與在地劇團阮劇團合作，將民眾口中有關嘉義城隍中元祭的靈異傳奇，用微電影模式製作成短片，除此以外還邀請兩岸三地城隍爺及民眾參加，如金門的公背婆、打花草、及大陸新加坡的大爺二爺等，使本活動兼具國際性、獨特性和永續性。",
+        "PositionLat": 23.47839,
+        "PositionLon": 120.454,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義市",
+            "CityCode": "10020",
+            "Town": "東區",
+            "TownCode": "10020010",
+            "ZipCode": "600",
+            "StreetAddress": "吳鳳北路168號"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2254321",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "夯枷祭典",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/c0f7f4d2-54ea-4221-a888-18916d69e9a1.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-09-22T00:00:00+08:00",
+        "EndDateTime": "2026-09-22T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081700",
+        "EventName": "2026東石海之夏",
+        "AlternateNames": null,
+        "Description": "為嘉義縣暑期濱海觀光指標性活動，以濱海觀光與歡樂親子遊為主題，包含流行音樂會、特色產業DIY、親子活動等，結合外傘頂洲踏浪、吃海鮮觀海景之獨特濱海遊程，持續帶動嘉義沿海東石、布袋相關產業觀光收益。",
+        "PositionLat": 23.44905,
+        "PositionLon": 120.1351,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "東石鄉",
+            "TownCode": "10010090",
+            "ZipCode": "614",
+            "StreetAddress": "東石漁人碼頭"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)362812",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "每日晚間於舞台邀請流行歌手安排演唱會",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/ccdb0a9e-f3b6-4c91-86b5-e512a7ccd417.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.facebook.com/2014dshot/?locale=zh_TW",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-07-01T00:00:00+08:00",
+        "EndDateTime": "2026-08-31T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081709",
+        "EventName": "2026臺灣國際觀鳥馬拉松",
+        "AlternateNames": null,
+        "Description": "觀鳥馬拉松活動，以涵蓋雲林、嘉義、臺南等三縣市的山水環境區域內鳥類生態為標的，舉辦全程24小時的觀鳥活動，除滿足賞鳥人的視野期待，發掘雲嘉南地區鳥類生態之美外，更希望提升國內外關注雲嘉南濱海地區的目光。雲嘉南濱海國家風景區位處臺灣西海岸，沿海的沖積沙洲、潟湖、濕地，提供許多適合多樣化生物成長的生態環境，擁有豐富的動、植物，成為一個十分與眾不同的風景區。從北端的湖口濕地、鰲鼓濕地、朴子溪口濕地、好美寮濕地、南布袋濕地，到北門潟湖、七股濕地、和南端的四草濕地，是冬季候鳥來台度冬的重要棲息地，鳥況十分熱鬧。除外，眾多系列活動包含定點定時賞鳥導覽解說、觀鳥生態遊程導覽等，近距離觀賞冬候鳥們及濱海濕地生態。2026年1月24日、31日定點定時導覽解說(鰲鼓溼地)2026年2月5日學校觀鳥遊程(大灣國小)2026年2月7日、28日定點定時導覽解說(北門濕地)2026年2月27日觀鳥生態遊程導覽-嘉義1日遊2026年3月21日、28定點定時導覽解說(布袋濕地生態園區)",
+        "PositionLat": 23.50719,
+        "PositionLon": 120.1477,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "東石鄉",
+            "TownCode": "10010090",
+            "ZipCode": "614",
+            "StreetAddress": "鰲鼓村"
+        },
+        "Telephones": [
+            {
+                "Tel": "(06)7861000",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "布袋濕地高蹺鴴及其他水鳥",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/8e1f22c0-5ae1-460a-864c-bb966192810d.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2490",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-10-01T00:00:00+08:00",
+        "EndDateTime": "2027-03-31T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081724",
+        "EventName": "2026阿里山神木下婚禮",
+        "AlternateNames": null,
+        "Description": "「阿里山神木下婚禮」除聚焦主活動及貳部曲「星光婚旅」，也將阿里山的美景、森林鐵路、神木、傳統的鄒族文化及多元的在地產業推向國際舞台，打造戀人至阿里山約會、婚拍及蜜月的難忘浪漫回憶，吸引國內外旅客至阿里山體驗浪漫之旅。",
+        "PositionLat": 23.51735,
+        "PositionLon": 120.8081,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "阿里山鄉",
+            "TownCode": "10010180",
+            "ZipCode": "605",
+            "StreetAddress": "阿里山國家森林遊樂區-香林神木"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "阿里山神木下婚禮-新人著傳統鄒族服飾",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/e321f861-1277-4cee-986a-7de7b8d819a9.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.ali-nsa.net/zh-tw/event/calendardetail/3431",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-03-01T00:00:00+08:00",
+        "EndDateTime": "2026-10-31T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081729",
+        "EventName": "2026台灣燈會",
+        "AlternateNames": null,
+        "Description": "元宵節提燈籠原本是傳統的民俗活動，在融合本土風情及新科技後，台灣燈會更打造出國際級觀光盛會的氣勢，不但主燈展演美不勝收，國內外民俗團體的精采獻藝，以及一波波表演團隊之熱絡表演，使得來臺參加台灣燈會的國外嘉賓及旅客都讚聲連連。西元2007年間，美國Discovery節目製作人來臺參訪台灣燈會元宵活動，將其評選為「全球最佳慶典活動」之一。",
+        "PositionLat": 23.45973,
+        "PositionLon": 120.2938,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "太保市",
+            "TownCode": "10010010",
+            "ZipCode": "612",
+            "StreetAddress": "嘉義縣政府廣場"
+        },
+        "Telephones": [
+            {
+                "Tel": "(04)23312688",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "2026 台灣燈會",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/09829fd5-4a71-454f-814d-2df59b59d4f1.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://2026taiwanlanternfestival.org/",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-03-03T00:00:00+08:00",
+        "EndDateTime": "2026-03-15T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081803",
+        "EventName": "2026阿里山日出印象音樂會",
+        "AlternateNames": null,
+        "Description": "阿里山是國內外知名觀賞日出的旅遊勝地的，「阿里山日出印象音樂會」是臺灣最具特色的高山音樂會，以高海拔、高品質、高格調的「三高」音樂會為活動目標，讓國內外遊客沉浸在悠揚樂曲中，迎接新年第一道曙光的首選活動。",
+        "PositionLat": 23.51017,
+        "PositionLon": 120.8238,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "阿里山鄉",
+            "TownCode": "10010180",
+            "ZipCode": "605",
+            "StreetAddress": "阿里山國家森林遊樂區 祝山觀日平臺（停機坪）"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)3628123",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "打擊樂團在阿里山與民眾共度元旦",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/d8af07a0-6ea5-4d39-8a00-c4ecfef251dd.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.facebook.com/alishansunrise/?locale=zh_TW",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-01-01T00:00:00+08:00",
+        "EndDateTime": "2026-01-01T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081880",
+        "EventName": "高跟鞋教堂系列活動",
+        "AlternateNames": null,
+        "Description": "金氏世界紀錄最大高跟鞋造型建築之高跟鞋教堂園區，以「女性」為活動主軸，藉由市集及系列舞台活動，創造高跟鞋教堂的話題亮點。",
+        "PositionLat": 23.37781,
+        "PositionLon": 120.1488,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "布袋鎮",
+            "TownCode": "10010030",
+            "ZipCode": "625",
+            "StreetAddress": "新西路5號"
+        },
+        "Telephones": [
+            {
+                "Tel": "(06)7861000",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "高跟鞋教堂空拍照",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/685367f3-ef6c-43cf-8aab-c2b5b5734334.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.swcoast-nsa.gov.tw/",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-06-28T00:00:00+08:00",
+        "EndDateTime": "2026-06-28T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081887",
+        "EventName": "2026阿里山林鐵賞櫻、賞楓主題列車遊程",
+        "AlternateNames": null,
+        "Description": "阿里山年度盛事為3月賞櫻、12月賞楓季，為一睹季節限定美景，旅人趨之若鶩。為持續推廣阿里山林鐵，林鐵及文資處自2019年開辦賞櫻、賞楓列車，搭乘百年shay蒸汽火車附掛檜木車廂，沿途深入導覽解說感受阿里山新印象。季節性主題列車(賞櫻、賞楓列車)，帶領遊客前往林鐵支線車站(最高海拔2,451公尺祝山車站、對岳車站、沼平車站、二萬平車站等)，皆有日本、韓國、歐美語系人士自海外前來參加，對遊程讚不絕口。",
+        "PositionLat": 23.50905,
+        "PositionLon": 120.8023,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "阿里山鄉",
+            "TownCode": "10010180",
+            "ZipCode": "605",
+            "StreetAddress": "阿里山國家森林遊樂區內"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2779843",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "阿里山森林鐡道",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/b1113929-8ed2-47b4-bcfd-3a2789f48bed.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://afrch.forest.gov.tw/",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-03-01T00:00:00+08:00",
+        "EndDateTime": "2026-12-31T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010000H_081921",
+        "EventName": "鹽續幸福音樂會系列活動",
+        "AlternateNames": null,
+        "Description": "幸福爆棚！來鹽海聽音樂，從114年12月起到115年3月，月月有活動、場場都精彩！「鹽續幸福系列活動」，不只是一場音樂會，更是一段屬於土地、文化與情感的動人旅程，象徵著鹽田文化的延續與幸福力量的傳承，希望在災後關鍵時刻，以音樂傳唱、 廟宇文化、幸福市集與永續理念，用音樂串起幸福的軌跡，帶領遊客重新認識雲嘉南濱海的魅力，也為地方觀光產業注入新的正能量，希望在最美的場景中聽見幸福、看見希望，邀請大家走入海風與鹽田之間、穿梭北門各大廟宇，感受文化、自然與情感交織的美好。 114年12月20日白色聖誕樂曲-臺南七股鹽山114年12月31日送夕陽音樂會-臺南北門井仔腳瓦盤鹽田115年1月17日鹽味餐桌音樂會-雲林口湖遊客中心115年2月14日浪漫民歌夜-嘉義布袋高跟鞋教堂115年3月14日台式搖滾夜-臺南北門遊客中心",
+        "PositionLat": 23.37781,
+        "PositionLon": 120.1488,
+        "Geometry": null,
+        "EventClasses": [
+            1
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "布袋鎮",
+            "TownCode": "10010030",
+            "ZipCode": "625",
+            "StreetAddress": "新西路5號"
+        },
+        "Telephones": [
+            {
+                "Tel": "(06)7861000",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "活動整合大表",
+                "Description": "",
+                "URL": "https://www.taiwan.net.tw/att/event/51b0ce9c-e03c-44c7-bb45-562569e80dc1.jpg",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": [
+            {
+                "Name": "交通部觀光署",
+                "Class": "Provider",
+                "TaxCode": null,
+                "AgencyCode": "A15010000H",
+                "URL": null,
+                "MobilePhones": [],
+                "Faxes": [],
+                "Email": null,
+                "Telephones": []
+            }
+        ],
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": "https://www.swcoast-nsa.gov.tw/zh-tw/news/details/2473",
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2025-12-20T00:00:00+08:00",
+        "EndDateTime": "2026-03-14T00:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-08T02:00:04+08:00"
+    },
+    {
+        "EventID": "Event_A15010800H_003429",
+        "EventName": "2026阿里山神木下婚禮20週年暨回娘家系列活動",
+        "AlternateNames": null,
+        "Description": "「阿里山神木下婚禮」今年正式邁入第 20 周年！",
+        "PositionLat": 23.439358,
+        "PositionLon": 120.602515,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "阿里山鄉",
+            "TownCode": "10010180",
+            "ZipCode": "605",
+            "StreetAddress": ""
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "2026阿里山神木下婚禮20週年暨回娘家系列活動",
+                "Description": null,
+                "URL": "https://www.ali-nsa.net/image/32631/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-10-16T00:00:00+08:00",
+        "EndDateTime": "2026-10-18T23:59:59+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-05-19T13:39:07+08:00"
+    },
+    {
+        "EventID": "Event_A15010800H_003430",
+        "EventName": "2026豐山磐石節",
+        "AlternateNames": null,
+        "Description": "在阿里山群山環抱的豐山，",
+        "PositionLat": 23.58358,
+        "PositionLon": 120.76373,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "阿里山鄉",
+            "TownCode": "10010180",
+            "ZipCode": "605",
+            "StreetAddress": "豐山村"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "2026豐山磐石節",
+                "Description": null,
+                "URL": "https://www.ali-nsa.net/image/32452/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-01-11T00:00:00+08:00",
+        "EndDateTime": "2026-01-11T23:59:59+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2025-12-26T09:48:59+08:00"
+    },
+    {
+        "EventID": "Event_A15010800H_003449",
+        "EventName": "2026石棹春櫻夜",
+        "AlternateNames": null,
+        "Description": "2026春櫻夜－櫻途山行",
+        "PositionLat": 23.47933,
+        "PositionLon": 120.69857,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "竹崎鄉",
+            "TownCode": "10010140",
+            "ZipCode": "604",
+            "StreetAddress": "石棹櫻之道"
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "2026石棹春櫻夜",
+                "Description": null,
+                "URL": "https://www.ali-nsa.net/image/32516/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-02-25T18:00:00+08:00",
+        "EndDateTime": "2026-02-25T21:00:00+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-02-10T14:23:27+08:00"
+    },
+    {
+        "EventID": "Event_A15010800H_003473",
+        "EventName": "2026阿里山螢火蟲季",
+        "AlternateNames": null,
+        "Description": "✦光華社區✦夢幻螢光海~與螢共舞",
+        "PositionLat": 23.439358,
+        "PositionLon": 120.602515,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "番路鄉",
+            "TownCode": "10010160",
+            "ZipCode": "602",
+            "StreetAddress": ""
+        },
+        "Telephones": [
+            {
+                "Tel": "(05)2593900",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "2026阿里山螢火蟲季",
+                "Description": null,
+                "URL": "https://www.ali-nsa.net/image/32575/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-03-25T00:00:00+08:00",
+        "EndDateTime": "2026-03-25T23:59:59+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-04-02T17:10:47+08:00"
+    },
+    {
+        "EventID": "Event_A15011100H_002486",
+        "EventName": "高跟鞋教堂系列活動",
+        "AlternateNames": null,
+        "Description": "【璀璨仲夏．高跟鞋的夏日派對】",
+        "PositionLat": 23.37728,
+        "PositionLon": 120.14768,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "布袋鎮",
+            "TownCode": "10010030",
+            "ZipCode": "625",
+            "StreetAddress": "新西路5號"
+        },
+        "Telephones": [
+            {
+                "Tel": "(03)8875306",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "高跟鞋教堂系列活動",
+                "Description": null,
+                "URL": "https://www.swcoast-nsa.gov.tw/image/53028/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-06-01T00:00:00+08:00",
+        "EndDateTime": "2026-08-31T23:59:59+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-05-21T09:32:35+08:00"
+    },
+    {
+        "EventID": "Event_A15011200H_014374",
+        "EventName": "曾文水庫峽谷音樂會",
+        "AlternateNames": null,
+        "Description": "曾文水庫峽谷音樂會",
+        "PositionLat": 23.18872,
+        "PositionLon": 120.33323,
+        "Geometry": null,
+        "EventClasses": [
+            2
+        ],
+        "PostalAddress": {
+            "City": "嘉義縣",
+            "CityCode": "10010",
+            "Town": "大埔鄉",
+            "TownCode": "10010170",
+            "ZipCode": "607",
+            "StreetAddress": ""
+        },
+        "Telephones": [
+            {
+                "Tel": "(06)6900399",
+                "Ext": null
+            }
+        ],
+        "Images": [
+            {
+                "Name": "曾文水庫峽谷音樂會",
+                "Description": null,
+                "URL": "https://www.siraya-nsa.gov.tw/image/100857/640x480",
+                "Width": null,
+                "Height": null,
+                "Keywords": []
+            }
+        ],
+        "Organizations": null,
+        "TrafficInfo": null,
+        "ParkingInfo": null,
+        "Facilities": null,
+        "IsAccessibleForFree": 0,
+        "FeeInfo": null,
+        "PaymentMethods": null,
+        "LocatedCities": null,
+        "WebsiteUrl": null,
+        "ReservationURLs": null,
+        "MapURLs": null,
+        "SameAsURLs": null,
+        "SocialMediaURLs": null,
+        "Participant": null,
+        "StartDateTime": "2026-11-01T00:00:00+08:00",
+        "EndDateTime": "2026-11-30T23:59:59+08:00",
+        "EventStatus": "EventScheduled",
+        "PreviousStartDates": null,
+        "CalendarURLs": null,
+        "Tags": null,
+        "Remarks": null,
+        "UpdateTime": "2026-05-11T11:05:47+08:00"
+    }
+]

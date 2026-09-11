@@ -1,0 +1,67 @@
+name: alibuda_app
+description: 阿里布達
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  geolocator: ^14.0.1
+  google_sign_in: ^6.2.1
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0  # 加入這個
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  table_calendar: ^3.0.9
+  fl_chart: ^0.68.0
+  cached_network_image: ^3.3.1
+  flutter_staggered_grid_view: ^0.7.0
+  shimmer: ^3.0.0
+  smooth_page_indicator: ^1.1.0
+  animated_bottom_navigation_bar: ^1.3.2
+  lottie: ^3.1.0
+  flutter_facebook_auth: ^7.1.6
+  http: ^1.2.0
+  image_picker: ^1.1.2
+  shared_preferences: ^2.5.5
+  cloud_firestore: ^5.6.12
+  url_launcher: ^6.3.2
+  mobile_scanner: ^7.2.0
+  google_generative_ai: ^0.4.7
+  flutter_dotenv: ^6.0.1
+  path_provider: ^2.1.5
+  share_plus: ^13.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/attractions_fixed_final.json
+    - assets/data/app_restaurants.json
+    - assets/data/app_hotels.json
+    - assets/data/parking_static.json
+    - assets/data/ubike_static.json
+    - assets/images/po/
+    - assets/images/vo/
+  fonts:
+    - family: MyCustomFont
+      fonts:
+        - asset: assets/fonts/CaveatBrush-Regular.ttf
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ALIBUDA.png"
+  adaptive_icon_background: "#FDFCF5"

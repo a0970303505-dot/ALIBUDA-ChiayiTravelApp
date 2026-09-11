@@ -1,0 +1,182 @@
+[
+  {
+    "LocationID": "嘉義市_東區",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義市_西區",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_太保市",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_朴子市",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 95
+  },
+  {
+    "LocationID": "嘉義縣_布袋鎮",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 91
+  },
+  {
+    "LocationID": "嘉義縣_大林鎮",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_民雄鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_溪口鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_新港鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_六腳鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_東石鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 90
+  },
+  {
+    "LocationID": "嘉義縣_義竹鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 95
+  },
+  {
+    "LocationID": "嘉義縣_鹿草鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_水上鄉",
+    "Temperature": 26.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_中埔鄉",
+    "Temperature": 25.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 90,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 97
+  },
+  {
+    "LocationID": "嘉義縣_竹崎鄉",
+    "Temperature": 25.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 98
+  },
+  {
+    "LocationID": "嘉義縣_梅山鄉",
+    "Temperature": 25.0,
+    "MaxComfortIndex": "25",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 98
+  },
+  {
+    "LocationID": "嘉義縣_番路鄉",
+    "Temperature": 25.0,
+    "MaxComfortIndex": "26",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 98
+  },
+  {
+    "LocationID": "嘉義縣_大埔鄉",
+    "Temperature": 24.0,
+    "MaxComfortIndex": "24",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 99
+  },
+  {
+    "LocationID": "嘉義縣_阿里山鄉",
+    "Temperature": 19.0,
+    "MaxComfortIndex": "20",
+    "ProbabilityOfPrecipitation": 100,
+    "Weather": "陰陣雨或雷雨",
+    "WeatherCode": "08",
+    "RelativeHumidity": 99
+  }
+]
