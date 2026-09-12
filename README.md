@@ -30,15 +30,23 @@ ALIBUDA 是一款以 **Flutter** 開發、以嘉義在地觀光為主題的智�
 - **記帳**: 單人記帳與多人分帳，環形圖呈現支出比例，並自動產出分帳結算建議
 - **個人頁**: 印章收集、解鎖嘉義夥伴角色、發布紀錄、編輯個人資料、系統設定
 
+<p align="center">
+  <img src="screenshots/calendar.jpg" width="240">
+</p>
+
 ### 管理者端
 - 新增活動 / 景點 / 住宿 / 美食資料（圖片自動壓縮成 Base64 存入 Firestore）
 - 分類檢視與刪除資料
 - 會員管理，可停權違規帳號
 - Firestore 資料一鍵備份匯出成 JSON
 
-<p align="center">
-  <img src="screenshots/calendar.jpg" width="240">
-</p>
+| 管理員控制中心 | 新增資料 | 資料管理中心 |
+| :---: | :---: | :---: |
+| ![admin_dashboard](screenshots/admin_dashboard.jpg) | ![admin_add](screenshots/admin_add.jpg) | ![admin_data](screenshots/admin_data.jpg) |
+
+| 會員權限管理 | 資料匯出與備份 |
+| :---: | :---: |
+| ![admin_users](screenshots/admin_users.jpg) | ![admin_backup](screenshots/admin_backup.jpg) |
 
 ## Architecture
 ```
