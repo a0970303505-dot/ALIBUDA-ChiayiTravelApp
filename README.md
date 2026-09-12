@@ -2,9 +2,7 @@
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/a0970303505-dot/ALIBUDA-ChiayiTravelApp/main/demo.mp4" controls width="100%"></video>
-
-▶️ [點此觀看完整 Demo 影片（11 分鐘）](demo.mp4)
+▶️ **[點此播放完整 Demo 影片（11 分鐘）](demo.mp4)**
 
 <p align="center">
   <img src="screenshots/home.jpg" width="24%">
