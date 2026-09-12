@@ -2,7 +2,9 @@
 
 ## Demo
 
-▶️ **[點此播放完整 Demo 影片（11 分鐘）](demo.mp4)**
+![demo](screenshots/demo.gif)
+
+▶️ 完整 Demo 影片（11 分鐘，含語音解說）: **[demo.mp4](demo.mp4)**（42MB，GitHub 無法線上預覽，需下載觀看）
 
 <p align="center">
   <img src="screenshots/home.jpg" width="24%">
